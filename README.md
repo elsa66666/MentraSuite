@@ -27,8 +27,8 @@ Psychological Reasoning LLMs.
 \[ English | [简体中文](README_zh.md) \]
 
 ## Latest News
-
-✨[2025.9.4] We released the first model of our family, Mindora-rl2. For downloading the model checkpoints, please click here: [elsashaw/mindora-rl2](https://www.modelscope.cn/models/elsashaw/mindora-rl2/summary)
+✨[2025.12.6] We released the hybrid model of our family, Mindora-chord. For downloading the model checkpoints, please click here: [elsashaw/mindora-chord](https://www.modelscope.cn/models/elsashaw/mindora_chord)
+✨[2025.9.4] We released the first model of our family, Mindora-r2. For downloading the model checkpoints, please click here: [elsashaw/mindora-rl](https://www.modelscope.cn/models/elsashaw/mindora-rl2/summary)
 
 ## Introduction
 
@@ -36,10 +36,14 @@ Mindora is a family of psychological reasoning LLMs designed for psychology-rela
 
 Our base model is [Qwen3-8B](https://www.modelscope.cn/models/Qwen/Qwen3-8B), and we obtained it through SFT and GRPO.
 
-## Results
+## Benchmark
+The script of MentraBench can be found in ``src/MentraBench.py``. You can add your own model in the options of ``args.llm``.
+Then you need to add your model in ``call_llm.py``, and call your model in the ``get_llm()`` function of ``MentraBench.py``.
 
-
-
+You can evaluate your model by running the following script:
+```shell
+python MentraBench.py --llm [your_llm] --dataset_name [the_dataset_to_test]
+```
 
 ## Quick Start
 
