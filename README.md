@@ -1,4 +1,4 @@
-# Mindora
+# MentraSuite
 
 <div align="left">
     <a target='_blank'>Mengxi Xiao<sup>1</sup></span>&emsp;
@@ -28,6 +28,7 @@ Psychological Reasoning LLMs.
 
 ## Latest News
 ✨[2025.12.6] We released the hybrid model of our family, Mindora-chord. For downloading the model checkpoints, please click here: [elsashaw/mindora-chord](https://www.modelscope.cn/models/elsashaw/mindora_chord)
+
 ✨[2025.9.4] We released the first model of our family, Mindora-r2. For downloading the model checkpoints, please click here: [elsashaw/mindora-rl](https://www.modelscope.cn/models/elsashaw/mindora-rl2/summary)
 
 ## Introduction
