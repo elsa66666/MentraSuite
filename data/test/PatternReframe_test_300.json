@@ -1,0 +1,1802 @@
+[
+    {
+        "index": "PatternReframe_test_0",
+        "query": "situation: i've found the cure for the common cold . my nickname is bubblegum . i am plotting on taking over the world . my brother and i've bright red hair .\nthought: My neighbor calls me by my first name instead of my nickname. He probably thinks bubblegum is a tacky nickname.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_1",
+        "query": "situation: i design video games for a living . my wife recently got laid off from her human resources job . my son plays on the local football team . i have been on the design team for over 65 video games . i am trying to create my own startup company in the gaming industry .\nthought: My wife recently got laid off from her huyman resources job, she'll never be able to find another job and we will lose our house soon.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_2",
+        "query": "situation: we drink beer and eat food . i like football . my friends like watching it to . we watch the games together . its great fun .\nthought: I like football but that just means I'm not really a smart person.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_3",
+        "query": "situation: i obsess over working out and being the best . i got a scholarship for playing soccer . its important for my instagram posts to look like i am having fun . i try to eat healthy or i don't eat at all .\nthought: My future college team lost another game, I will never become a good athlete playing for them.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_4",
+        "query": "situation: i've a sweet tooth . i m a babysitter . i drive a mercedes . i m the middle child of 3 siblings . i m getting married in six months .\nthought: I have a sweet tooth. I will eat too much sugar and get diabetes.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_5",
+        "query": "situation: i love animals . my father worked for ge . green is my favorite color . i enjoy playing tennis . i'm an aspiring singer .\nthought: I'm an aspiring singer but recently got my lungs damaged, I will never become a singer",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_6",
+        "query": "situation: my mother was a teacher . my favorite food is salad . i enjoy nature . i teach a yoga class . i am single .\nthought: I teach a yoga class. The yoga studio owners should give me the keys and let me take over the business for zero money.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_7",
+        "query": "situation: my hobbies include pillaging and fine dining . its cold where i live . i have a big beard . i am a viking . i like to go fishing on my viking boat .\nthought: It's cold where I live and I will never be able to get warm despite my hobbies of pillaging and fine dining.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_8",
+        "query": "situation: my parents recently moved to florida . my brother is currently couch surfing at my house . i love to cook . i breed maine coon cats and show them .\nthought: I love to cook but no one ever compliments me i bet they ate my cooking",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_9",
+        "query": "situation: i'm a average american youth . i hate school . i fell in love this summer . i enjoy summer walking and reading .\nthought: I enjoy going on long walks in the summer and seeing the beautiful weather, but they always make my legs hurt after.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_10",
+        "query": "situation: i work in a factory . i sleep most of the day . i'm very unproductive unless it comes to my job . i don't eat well . i'm not social .\nthought: I don't know how to socialize with people. I will be lonely my whole life.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_11",
+        "query": "situation: i'm a humble baker . i look forward to retiring . i tried to make it as an actor when i was younger . my wife always puts a smile on my face .\nthought: My wife was glad about my decision to retire, she will file a divorce I am sure about that.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_12",
+        "query": "situation: i work at home , editing . i've a cat . i've depression and anxiety so i don't really go out a lot . i hope to move out soon . i live at home with my dad and brother .\nthought: I don't go out a lot and see my friends as often as I should. They're going to abandon me and think I'm a lazy slob!",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_13",
+        "query": "situation: i sing in a punk band . i want to visit the uk . i sometimes write poetry . i like to skate . my favorite color is black .\nthought: My poetry finally got published, but it's by a really small distributor that won't reach a lot of eyes. I should really give up.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_14",
+        "query": "situation: i'm 6 foot tall . i like to go running . i used to play hockey . i've asthma .\nthought: I'm 6 foot tall, I'm going to die soon because tall people die early.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_15",
+        "query": "situation: i like football . i work in the it industry . my favourite band is kings of leon . my father used to work for microsoft . i am a christian .\nthought: I like football. It should be illegal to make anyone work on Sundays.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_16",
+        "query": "situation: i am a poet . my friends and i enjoy golfing on sunny days . i'm the head of the gun club . i have a beta fish . i donate old clothes to the homeless .\nthought: I have a beta fish because i am afraid if i get any other pet i will let it die on accident",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_17",
+        "query": "situation: i like katy perry as a musician . i've few friends . i like to hunt for my food . i'm a great baker . i like to sew .\nthought: I had to buy herbs from the grocery store. What kind of hunter am I?",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_18",
+        "query": "situation: my favorite food is pizza . i love the rain . i sleep on a single bed . i prefer winter . i drive a van .\nthought: Since I like to eat pizza a lot, I'll never lose weight and be healthy.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_19",
+        "query": "situation: i own a chevy tahoe . i don't know how to swim . my favorite genre of music is rock . my grandpa was in wwii . my favorite food is steak .\nthought: My girlfriend and I are at the beach. I don't know how to swim so the trip is ruined.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_20",
+        "query": "situation: i just got a new sweater . i also eat too much french fries . i cannot do math . i smell like french fries .\nthought: My new sweater is ruined. Sure it is new and feels and looks great but I got some salt on it from eating french fries.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_21",
+        "query": "situation: i used to fly planes for a living . i now live in new mexico . i'm an orphan . i grew up in nevada . i like dogs .\nthought: The last time I flew a plane felt so great, but my passenger almost fell out and it shows how much of a bad pilot I am.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_22",
+        "query": "situation: i went to new york city once . i want to be a museum curator . i love coffee with cream . my favorite band is the beastie boys .\nthought: I really want to be a museum curator, but that ain't ever gonna happen.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_23",
+        "query": "situation: i've one little girl . my wife is a college professor . my mother was a concert pianist . i work as a trauma surgeon .\nthought: My little girl is not growing in height, that's how she will be forever.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_24",
+        "query": "situation: i like to work out at the gym to christian electronic dance music . people hate that i obsess about the poor . i like to watch people pray together . i like to make cellphone apps that would help heal our world . people don t like me too much but i like them anyways .\nthought: People don't like me to much, I am such a unloved person",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_25",
+        "query": "situation: pizza is my most favorite thing . i enjoy taking late night walks when it s completely dark . i like reading . i like being by myself . my favorite band is dream theater .\nthought: I love eating pizza, but I am sure my friends all think I am just a junk food addict because of that.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_26",
+        "query": "situation: my parents were like this as well . the idea of working is not my cup of tea . i like to live off of the land . i'm all about family and fun .\nthought: The crops on my land haven't been growing as well lately, it's probably because I'm a bad farmer.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_27",
+        "query": "situation: i deliver baked goods in the state where i live . my wife and two kids camp with me . my favorite hobby is playing recreational baseball . i spend my weekends camping . i'm a truck driver .\nthought: I needed help pitching a tent. I’m not tough enough to run this family.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_28",
+        "query": "situation: my mother stayed at home all day to raise me and my siblings . i can t stand salads . i graduated valedictorian of my high school class . i had to drop out of college to help with my grandparents .\nthought: I don't like salads, I'll never be able to eat healthy.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_29",
+        "query": "situation: my favorite fruit is an apple . i like to swim . i am a marathon runner . i prefer morning to night . i prefer winter over fall .\nthought: I only run and swim because I am bad at everything else.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_30",
+        "query": "situation: my hobby is sewing . i've a garden in my yard . i am a cashier at a grocery store . i like to make fresh pies .\nthought: I'm so good at making pies, I shouldn't be a cashier, they should put me in the bakery department.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_31",
+        "query": "situation: i own many cars . i like watching sports . ferrari is my favorite car company . i work out daily .\nthought: I work out daily and should really be as fit as any olympic athlete by now.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_32",
+        "query": "situation: i enjoy hiking on glaciers . i always seem to be losing things , most recently , my mind . lutefisk is the best dish in the whole world . i recently moved to sweden .\nthought: I enjoy hiking on glaciers, I will probably slip off and die one day.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_33",
+        "query": "situation: i am a mortician . i want to learn how to fly an airplane . i collect stamps . my favorite movie is dirty harry .\nthought: One of the funeral I was arranging was postponed due to the weather. I'm sure it's because I'm a bad mortician.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_34",
+        "query": "situation: i am a college student . i work at the grocery store . my favorite band is metallica . i own 4 cats .\nthought: I didn't like the new Metallica album. I must not really be a fan.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_35",
+        "query": "situation: i can speak three languages english , french and spanish . i m currently looking for employment . i'm colour blind . i am a mother of two . my favourite band is rush .\nthought: I can speak three languages, but other people can speak four languages, I am the worst polyglot.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_36",
+        "query": "situation: i love the smell of leather . i own 30 pairs of shoes . my car has to be as fast as my motorcycle . i've 4 cats and 2 dogs .\nthought: One of my 30 pairs of shoes went broken, my shoe collection is ruined.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_37",
+        "query": "situation: i wear contacts . i have brown hair . i love bicycling . i hate carrots .\nthought: I hate carrots so that must mean that I won't like any vegetables.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_38",
+        "query": "situation: my favorite subject in school was science . my mom is a cancer survivor . i'm single and not looking . my favorite hobby is reading suspense novels . pizza is my favorite food .\nthought: My friend told me the pizza I made was burnt. I'll never learn how to make pizza right.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_39",
+        "query": "situation: i'm going to start school at the university of kentucky . i am a senior in high school . i've 2 brothers . i've been in band all four years of high school .\nthought: I got accepted to Kentucky university, all the students there are probably rednecks.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_40",
+        "query": "situation: i own a iphone 7 . i'm allergic to seafood . i drink hot chocolate during the winter . my father worked 11 hours a day . my mother use to read me bed time stories .\nthought: I own an iphone 7 it works fine but i want to get the 10 now but it's so expensive.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_41",
+        "query": "situation: i work for the navy . i am blue and tall . i like to read . my favorite show is thevoice .\nthought: I enjoy watching the voice and everyone else should enjoy watching it too.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_42",
+        "query": "situation: i live in the usa . i love pizza . i was born male and transitioned to female when i was 17 . i was born 20 years ago . my favorite color is blue .\nthought: I love being an American. Everyone should realize by now that America is the greatest country on earth.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_43",
+        "query": "situation: i like victorian things . i like jazz . i am a romantic . i collect dolls . i like antiques .\nthought: I'm a romantic but I've never met somebody who likes dolls so I never will.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_44",
+        "query": "situation: i'm a woman . we have a dog . my parents are still married . we live in a rural area . i've several children .\nthought: My dog got out of the yard and ran down the street. I am such a bad pet owner.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_45",
+        "query": "situation: my girlfriend lives in salt lake city . i have 2 beagles named chance and boomer . i am afraid of spiders . i am a pilot . both of my parents are in the military .\nthought: I am afraid of spiders at work. That is why I am such a horrible pilot.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_46",
+        "query": "situation: i try to limit how much i eat . i don't have a job and sit on the couch all day . i have a golden retriever puppy . i hate paying my bills . i whine a lot .\nthought: I don't have a job, someone should pay my bills for me.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_47",
+        "query": "situation: i'll graduate from college in two years . my parents are divorced . i could not live without my dog , bart . i am very popular and have a lot of friends . i'm an excellent student .\nthought: My parents divorced and i don't know why. Why could they just not stay together for me.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_48",
+        "query": "situation: i sing in the church choir . i m a truck driver in the south . i grew up in the trailer park . i've three kids .\nthought: I wish I could have put all my kids through college and it's my fault they didn't go.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_49",
+        "query": "situation: i collect seashells . i have two chiuahuahs . i am a yoga instructor . i love horses .\nthought: i collect seashells, my girlfriend probably think i'm strange",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_50",
+        "query": "situation: i've red hair . i like to ride my scooter . my name is nick . i have lots of friends . i don t like music .\nthought: I was riding my scooter today and the back wheel fell off. These things are obviously just made of junk.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_51",
+        "query": "situation: my daily driver is a bicycle that you pedal with your hands . my life s passion is designer french fries . i am the leader of the french fry research department at del taco . my favorite band is u2 .\nthought: My favorite band, U2, cancelled their show in my home town. I bet is because Bono wanted to break up the band.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_52",
+        "query": "situation: my mother was a weightlifter . i have blonde hair . i love money . i have brown eyes .\nthought: I love money because i was born greedy, i will probably never be able to care about people like i do money.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_53",
+        "query": "situation: i like to play baseball . i have 2 kids . my favorite place is the mountains . i'm a doctor .\nthought: I like to play baseball but I will never compete at a professional level because I'm a failure.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_54",
+        "query": "situation: i am a grandmother . i have a dog and we go for walks . i live in a city . i help my neighbor . i like to go to the farmers markets to buy local veggies and fruits .\nthought: I have a dog when we go for walks but his collar came off his neck.  I'm such a useless person.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_55",
+        "query": "situation: i always seem to be losing things , most recently , my mind . marduk is my favorite band . i recently moved to sweden . lutefisk is the best dish in the whole world .\nthought: I'm always losing things, I'm going to lose my wallet and keys and not be able to get home.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_56",
+        "query": "situation: my biggest fear in life is heights . i use to be a huge superman fan as a child . i can make fart noises with my arm pits , even some musical melody . there's only been one set of twins in my family . i have been cheated on by every ex girlfriend except for one .\nthought: I am very afraid of heights probably because i am just a wimp and i am afraid of everything really.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_57",
+        "query": "situation: i am not a nice person . i have a nice smile . i like makeup . i love to exercise . many people want to be my friend .\nthought: These people know how great I am since they want to be my friends. They should do things for me.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_58",
+        "query": "situation: i love rap music . i talk to my mom on the phone every day . i'm a paramedic . i am single .\nthought: my mom didn't attend my calls today i think she is angry with me",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_59",
+        "query": "situation: i graduated with a statistics degree . i'm a blackjack dealer . i know how to count cards in blackjack . i have 3 kids .\nthought: I have 3 kids and all of them will likely get a life threatening disease before they go.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_60",
+        "query": "situation: i overcame urinary cancer at age 18 . i'm on a low carb diet . i recently had a private lunch with will ferrell . i am a huge fan of classical jazz . i am trying to become a male model in hollywood .\nthought: i am trying to become a male model in hollywood, I fell during my last show parade and i mess everything up.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_61",
+        "query": "situation: my favorite season is spring . my father died when i was 2 . i love fishing . i hate to lose .\nthought: I caught the biggest trout while fishing, but it was just luck, anyone could've done it.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_62",
+        "query": "situation: my favorite color is hunter green . i am a personal chef . i would like to open a restaurant someday . in my free time , i watch movies and sleep .\nthought: I would like to open a restaurant someday. My bank will give me a business loan to start up, but that must be because my dad is rich.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_63",
+        "query": "situation: my parents taught me to find inspiration in the world . since my dog died i am incomplete . i live in a house with a yard . i am an artist and create with my mind and my hands .\nthought: My art gallery premiere was ruined, I sold some art but someone spilled chili on the floor creating a scene.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_64",
+        "query": "situation: we also have three dogs and two cats . our kids are 14 and 12 years old . i work as a physical therapist , and my wife is a school nurse . my name is john and i live in dallas , tx .\nthought: The next patient I have I am likely to screw up their problem and they will never walk again.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_65",
+        "query": "situation: i love sweets . i'm in high school . i cs and ds . i love bruno mars . i sleep a lot .\nthought: I love sweets, but they're not good for me I guess.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_66",
+        "query": "situation: i like to cook . i've a cat named kj . my husband was a salesman . i have lived in several different states .\nthought: This recipe is a disaster. Sure, the food taste very good but the addition of pepper ruined everything",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_67",
+        "query": "situation: i got hired as a security guard . i saw a solar eclipse when i was 8 years old . i can beat anyone in chess . i've high speed internet .\nthought: I got hired as a security guard i bet people just think im lazy and want to sleep on the job",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_68",
+        "query": "situation: i love to cook . my dad was a carsalesman . i'm a happy person . i like to fish .\nthought: My dad didn't like my dinner last night, I will never be a good cook.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_69",
+        "query": "situation: my favorite author is jane austen . i eat a lot of fish . i live near the ocean . i own a boat .\nthought: I ate too much fish today, I am an addict already.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_70",
+        "query": "situation: i just got a new sweater . i also eat too much french fries . i cannot do math . i smell like french fries .\nthought: I cannot do math because I am very stupid.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_71",
+        "query": "situation: i have a twin sister . i drink coffee every day . i do yoga every morning . i love chocolate . i am a teacher .\nthought: I have a twin sister. Everybody likes her better.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_72",
+        "query": "situation: i've braces . i just started the tenth grade and my concentration is in science . i live in america in the state of florida . i'm fifteen years old .\nthought: I live in Florida. I bet people think I'm an antivax Republican.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_73",
+        "query": "situation: i enjoy shopping . my favorite hobby is knitting . i have two tattoos . i've a cat named speckles . i work in an office .\nthought: My favorite shop was out of what I was looking for.  I'm a terrible consumer.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_74",
+        "query": "situation: my wardrobe is all band tees . i listen to techno music , exclusively . i'm an anime fan . my job involves building drones .\nthought: I found my favorite anime today, but I forgot to buy new clothes, my day was ruined.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_75",
+        "query": "situation: i am a grown woman . i am in a motorcycle club . i have gone 208 mph for for than 10 minutes . i've more then 10 tattoos . i have never lost a fight .\nthought: I am a grown woman people don't talk to me sometimes they may think i'm too old or grumpy.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_76",
+        "query": "situation: i want a porsche . i lay awake at night so i can watch the stars . i am often late for class . i cuddle up with my dog every night .\nthought: I have a reliable care that gets great gas mileage, but I can't afford a Porsche so who cares.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_77",
+        "query": "situation: i am an athlete . i went to the university of north carolina . i was drafted last years by the minnesota wolves . i get paid over 5 million a year to dribble a ball . i play basketball .\nthought: My career as a basketball athlete is very lucrative. Last week I sprained my ankle and I fear it will always be weak and I will lose my job.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_78",
+        "query": "situation: i am six feet tall . i've a family that are all tall . i love to be run . i really like to go to school . i like to dance with my friends .\nthought: I'd like to ask Suzy to the dance, but she'd turn me down because I like to go to school, and she thinks that's lame.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_79",
+        "query": "situation: i'm obsessed with my dog . i enjoy cooking italian food . i am in my last year of grad school . i am the worlds best aunt .\nthought: I'm in my last year of grad school, so I'll never pay off my student debt.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_80",
+        "query": "situation: i've 8 brothers and we are close . i've a thick full beard . my parents are in there 80 s . i am only 5 foot tall .\nthought: I have 8 brothers and while we are close, we don't live near each other. I'm afraid I'll never see them again.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_81",
+        "query": "situation: i'm a pharmacist . i was a wild child in my younger years . my grand children mean the world to me . i like classical music .\nthought: At work there was a medication out of stock and I wasn't able to fill someone's prescription. This happened because I am a terrible pharmacist.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_82",
+        "query": "situation: i sleep on a single bed . i prefer winter . my favorite food is pizza . i drive a van .\nthought: My favorite food is pizza, women will think I'm never going to grow up.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_83",
+        "query": "situation: i m from seattle . i work in public relations . i'm a vegan . my favorite band is bon over . my parents raised me as a buddhist .\nthought: My favorite band cancelled their tour in my city, they will never visit here.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_84",
+        "query": "situation: i'm quiet but confident . i think food trucks are awesome . i often worry about where to park when i go somewhere new . my brother raised me after our parents died .\nthought: Today the food from the food truck taste bad. They will probably see a revenue decrease.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_85",
+        "query": "situation: i used to work for monsanto . i enjoy swimming . i enjoy shopping online . i'm a mother .\nthought: I'm a mother, but sometimes I think my children don't appreciate me",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_86",
+        "query": "situation: i play football . my position is linebacker . i am an athlete . i had 128 tackles last year .\nthought: I am an athlete. I will never be good at using my brain.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_87",
+        "query": "situation: i'm obsessed with my dog . i love trips to the beach . i am in my last year of grad school . i am the worlds best aunt .\nthought: Grad school is taking me a year longer than everyone else, probably because I'm a terrible student who can't even pass a class.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_88",
+        "query": "situation: i am an army ranger . i have a wife and two kids back in the states . i secretly love my long deployments , because it gets me away from conventional life . i would be honored to give my life for my country .\nthought: I'm an army ranger which means that I'll get my head blown off in battle.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_89",
+        "query": "situation: i love hockey . i ve flown out of the country . my bestfriend is from out of town . i studied business as my major . i ve a younger sibling .\nthought: My younger brother stopped calling me. Maybe he doesn't love me after all.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_90",
+        "query": "situation: my favorite color is yellow . when i was a child , i wanted to be an architect . i love 80 s music . i m a wedding planner . i am fascinated with ghosts .\nthought: A couple whose wedding I helped to plan divorced last month. It’s probably because I ddi a bad job planning their big day.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_91",
+        "query": "situation: i love to bake . i love to ride horses . my mother is a retired teacher . my favorite flower is a rose .\nthought: I am good at pruning flowers. However, I am sure I will get a cut and end up with a wicked infection.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_92",
+        "query": "situation: i love animals . i love to watch ted talks . i do not much like tv . i love to walk in the woods .\nthought: I love to walk in the woods but i saw a bear last week, i dont think i will ever go back.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_93",
+        "query": "situation: sometimes , people worry i am crazy . i love to put a smile on people s faces . i am obsessed with filming . i try not to think about death . i am a very bad liar .\nthought: I try not to think about death, but when I do I feel like an idiot",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_94",
+        "query": "situation: i listen to podcasts . i do not have any children . my favorite color is purple . i don't have a car . i live near a park .\nthought: They are building a new jungle gym in the park next door for all the neighborhood kids. It is going to ruin my favorite reading spot.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_95",
+        "query": "situation: i like to travel . i am tall . i like to garden . i love the outdoors . i like to build things .\nthought: I like to travel, I will probably end up dying in a plane accident over the ocean.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_96",
+        "query": "situation: i have 3 dogs and 2 cats . i work as a vet . i'm a vegan . i am a 30 year old female . i like to ride my bike .\nthought: I work as a vet, no one thinks that vet are cool though.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_97",
+        "query": "situation: i like to go out to eat . one of my favorite artists is drake . i also enjoy cooking . i like listening to other rap music too . a hobby of mine is the drums .\nthought: I'm a big fan of Drake. He should send me free tickets to his concert.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_98",
+        "query": "situation: i sing karaoke every thursday night . i was a champion downhill skier in college . my favorite color is yellow . i vacation in florida every winter . my sister is a published author .\nthought: My sister didn't call me back today, I guess she always hates me.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_99",
+        "query": "situation: i like tacos . i enjoy swimming . my favorite color is orange . i'm a secretary . i've 3 cats .\nthought: I was on a game show and won the grand prize of a new car, unfortunately I couldn't pick the color so it's a boring blue color instead of orange.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_100",
+        "query": "situation: i'm male . i like potatoes . i work in accounting . i lease my car .\nthought: I had to lease my car at a high interest rate. I will never finish paying off the car.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_101",
+        "query": "situation: i want to be in a band someday . i sleep 10 hours every day because my work is tiring . i'm a factory worker . my hobbies are sleeping and playing the guitar .\nthought: Working all day in the factory, I'm sure one of these days a machine will malfunction and kill me.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_102",
+        "query": "situation: i m allergic to bees . i work at the hospital as a nurse . i live in the city of grand rapids , michigan . i m the youngest of five .\nthought: I am allergic to bees because my body is a failure.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_103",
+        "query": "situation: i like to wear black . my favorite artist is guns and roses . i've a black purse . i like rock music .\nthought: I have a black purse, i'm sure my BF hates it.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_104",
+        "query": "situation: my parents were divorced . i am a widow . i've broken my arm twice . i grew up with 6 siblings .\nthought: my parents were divorced and that means if i marry i will also divorce",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_105",
+        "query": "situation: i'm male . i like potatoes . i work in accounting . i lease my car .\nthought: I'm an accountant, my boss should pay me more because it's such a boring job.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_106",
+        "query": "situation: i work in a corner grocery store during the day . my favorite show is scooby doo . i draw comic books . in the evenings i watch the door at a club where they play punkrock .\nthought: I draw comic books, and last night I really screwed up one of the illustrations. I'm sure I've lost my talent and will never get it back.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_107",
+        "query": "situation: i wish that i could be an animal . regular life disappoints me . i wonder about what life in space would be like . i don t get along with my family . i enjoy classical music .\nthought: I don't get along with my family. I'll always live alone",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_108",
+        "query": "situation: i am from california . i like to shop at goodwill . i'm a student . i like to be outdoors .\nthought: I am from California, I'll probably end up dying to an earthquake soon.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_109",
+        "query": "situation: i went to college and graduated few years ago . i live in the city . now i also work at a bank . my father used to work for a bank .\nthought: I miscalculated a report in the bank, I will never be good at it.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_110",
+        "query": "situation: i work at the gas station as a part time job . i once saw peyton manning at the grocery store . i'm a traveling encyclopedia salesman . my life s goal is to be the world s foremost encyclopedia salesman .\nthought: I should be able to sell more encyclopedias.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_111",
+        "query": "situation: i've a thick full beard . my parents are in there 80 s . i've 8 brothers and we are close . i'm only 5 foot tall . my hair is as red as the sunset .\nthought: My parents' health has been declining lately, probably because I haven't talked to them enough.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_112",
+        "query": "situation: i'm a christian . i like football . my father used to work for microsoft . i work in the it industry . my favourite band is kings of leon .\nthought: I like football, but my team is not good this season. They'll probably never get better.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_113",
+        "query": "situation: i only eat locally sourced food . i'm active on my city council . i like wide , open spaces . i own a home with 5 acres of land .\nthought: The city council always has some crazy people in attendance. They always interrupt and make my job impossible. I don't think we will ever have an easy day at the meeting.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_114",
+        "query": "situation: my husband is a soldier in the us army . i live in a house in the country . i'm pregnant with my first child . my father is a preacher .\nthought: I'm probably seen as a hick because of where I live and what my father does.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_115",
+        "query": "situation: i love animals . my father worked for ge . green is my favorite color . i enjoy playing tennis . i'm an aspiring singer .\nthought: Everyone should appreciate how good I am at tennis",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_116",
+        "query": "situation: i sell cosmetics in my spare time . i've two sons that i'm raising by myself . i love rage metal music . i'm a special ed teacher . and , i love psychoanalyzing my friends .\nthought: Selling makeup will only put me into more debt.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_117",
+        "query": "situation: i am an amazing dancer . country music makes me cringe . i am a terrible speller . i have blonde hair that reaches my knees .\nthought: I am an amazing dancer but it's the only thing I'll ever be good at.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_118",
+        "query": "situation: my parents recently moved to florida . i love to cook . my brother is currently couch surfing at my house . i breed maine coon cats and show them .\nthought: My parents recently moved to Florida and will die in the next major hurricane.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_119",
+        "query": "situation: my favorite music genre is rock . my hobbies include photography and hiking . i am a farmer . i hope to travel the world one day . i have two pet dogs .\nthought: I have two pet dogs that are not very sociable. I am sure it is because they dislike me.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_120",
+        "query": "situation: i like soccer . i love game of thrones . my brother used to be in the navy . my favorite food is mashed potatoes .\nthought: My favorite soccer team made it to the World Cup, but their best player got injured, so it was all for nothing.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_121",
+        "query": "situation: i work as a contractor for a cab company . i'm taking courses online . i like ice cream . i'm engaged .\nthought: I recently got engaged. My fiance should sell his belongings and buy me a bigger ring.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_122",
+        "query": "situation: i really like watching star trek . i work for the railroad . i'm an omnivore . i like eating pretzels . my favorite band is vnv nation .\nthought: My favorite pretzel place just went out of business. I wonder if they were putting toxic chemicals in my pretzels?",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_123",
+        "query": "situation: dogs are my favorite animal . i like to eat pizza . i love to travel . i enjoy cooking and baking . i grew up by the ocean .\nthought: I like to eat pizza so I will likely damage my GI tract at this rate.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_124",
+        "query": "situation: my dog s name is toto . my favorite food is meatloaf . my car is green and smells weird . my grandma is from denmark . my favorite band used to be toto .\nthought: I named my dog Toto after the Wizard of Oz. I bet everyone thinks I am still acting like a child.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_125",
+        "query": "situation: i sleep on a single bed . i prefer winter . my favorite food is pizza . i drive a van .\nthought: I sleep on a single bed and it keeps me so warm during the winter, but I'm sure any other bed would be just fine.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_126",
+        "query": "situation: my favorite number is 7 . i'm a deaf man . i never learned how to drive . i love to read books . i sometimes scratch my nose for fun .\nthought: I was born deaf. I don't have a guide dog, but if I get one I'll be too dependent on it.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_127",
+        "query": "situation: i've never lost a fight . i've more then 10 tattoos . i'm a grown woman . i've gone 208 mph for for than 10 minutes .\nthought: I have a new tattoo today, maybe I will get infected and die because of it.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_128",
+        "query": "situation: i like to swim . i'm a marathon runner . i prefer morning to night . my favorite fruit is an apple . i prefer winter over fall .\nthought: I like to swim. One day I could hit my head on the bottom of the pool when diving in and drown.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_129",
+        "query": "situation: i pray to god for my family every morning . i have a condition that prevents me from going to high altitudes . i always put my left sock on first . spiders scare the life out of me . my mother raised me by herself while working two jobs .\nthought: I woke up so late this morning that I didn't have time for a prayer to protect my family, so we're probably going to get in a car accident later.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_130",
+        "query": "situation: i m tired of having to read subtitles . i started learning japanese at college . our class is planning a trip to japan . i hope to save enough money for it .\nthought: I had to purchase a new tire for my car.  Now I have no chance of saving enough money for the trip to Japan.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_131",
+        "query": "situation: i wear dingy clothes . i've often been called a slacker . i'm a weirdo . i have blue and orange hair . i ride a skateboard .\nthought: I fell off my skateboard yesterday, I'm a terrible athlete.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_132",
+        "query": "situation: i like to listen to elvis . i like the color blue . i changed my hair color to blue . i own blue shoes . i drive a blue car .\nthought: I received criticism because I changed my hair color to blue.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_133",
+        "query": "situation: i play quarterback . this is my second year in the league . i play for the philadelphia eagles . last season i was just getting started .\nthought: I play quarterback but I think I'll have to retire early due to a massive injury.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_134",
+        "query": "situation: i like to work out at the gym to christian electronic dance music . people hate that i obsess about the poor . i like to watch people pray together . i like to make cellphone apps that would help heal our world . people don t like me too much but i like them anyways .\nthought: I wasn't able to give enough money to help buy a house for a poor family. I am such a hypocritical Christian.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_135",
+        "query": "situation: i like pizza . i like burritos . i like to shop . i like to dance .\nthought: I like pizza but yesterday my pizza had a hair on it. I will never order a pizza again because they probably all have something on them that shouldn't be there.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_136",
+        "query": "situation: i read a lot . i am stuck in a wheel chair . i do not have a lot of friends . i work at a museum .\nthought: I work at a museum and it will likely get burglarized while I'm on duty.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_137",
+        "query": "situation: i love to sew . i have a cat . my mother was a nurse . i wait tables at a cafe . i like to be alone .\nthought: The Cafe I work at was empty today. I'm sure it's because I'm a terrible employee.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_138",
+        "query": "situation: i work at mcdonald . i like to play video games . i have a pet iguana . i play football . my favorite movie is star wars .\nthought: I had a terrible game of football. I threw for 246 yards and 3 tds  but i had 1 interception",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_139",
+        "query": "situation: i like victorian things . i like jazz . i am a romantic . i collect dolls . i like antiques .\nthought: i collect dolls but i worry that one will come to life and kill me",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_140",
+        "query": "situation: my favorite sport is basketball . i run marathons twice a year , mostly in america . i live in canada , near ontario . i'm an avid runner .\nthought: I want to participate in the next marathon but a bomb might explode and kill me",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_141",
+        "query": "situation: my job involves building drones . my wardrobe is all band tees . i'm an anime fan . i listen to techno music , exclusively .\nthought: My co-workers are ignoring me. They must think my drones are inferior.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_142",
+        "query": "situation: i ve a dog . i m not very tall . i ve two siblings . i m looking for a job . my favorite color is red .\nthought: i ve a dog who doesn't want to be with me because i don't care for it much",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_143",
+        "query": "situation: i live in new york and i love the local shops around here . i m a night owl , but i m an introvert so i don t go out much or anything . i like playing ultimate in the park with my guys sometimes . i m a graduate student studying law .\nthought: I failed the last exam for my law course in college, it's because I am worthless.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_144",
+        "query": "situation: i do not get along with my family . regular life disappoints me . i wish that i could be an animal . i enjoy classical music .\nthought: I do not get along with my family, I must be a very rude person.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_145",
+        "query": "situation: i'm a average american youth . i hate school . i fell in love this summer . i enjoy summer walking and reading .\nthought: I fell in love this summer, but the girl probably hates me and won't ever love me back.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_146",
+        "query": "situation: i like football . my favourite band is kings of leon . i work in the it industry . i am a christian . my father used to work for microsoft .\nthought: My date had a great time at the Kings of Leon concert last week, but it was only because of the band and I think she would have had a good time whether I was there or not.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_147",
+        "query": "situation: i m a student . i like to be outdoors . i m from california . i think recycling is important .\nthought: I life in San Francisco but have been looking for a place to live out of state. I'll never be able to afford to stay here.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_148",
+        "query": "situation: my dream is to be a veterinarian . people say i talk when i'm not supposed to . i hate that my mom made me get braces . my three ring binder has my drawings of ponies all over it .\nthought: I dream of being a veterinarian but i know it will not come true i have an exam next week which im sure to fail.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_149",
+        "query": "situation: i do yoga every morning . i drink coffee every day . i am a teacher . i love chocolate . i've a twin sister .\nthought: I do yoga every morning, I am probably going to break my back doing so.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_150",
+        "query": "situation: i'm studying to be a dental hygienist but i hate seeing patient s saliva . there are thorns tattooed on my toes . i've a rose tattooed on my right ankle . i only wear silver jewelry .\nthought: I bought some jewelry online that was made of fake silver. I’ll never buy jewelry online again.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_151",
+        "query": "situation: i like to play baseball . i have 2 kids . my favorite place is the mountains . i'm a doctor .\nthought: I'm a doctor so I should be living retired on an island somewhere by now.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_152",
+        "query": "situation: i won the spelling bee in third grade . i own a bar in downtown chicago . i ve been married five times . i love to eat eggplant . i smoke a pipe .\nthought: I've been married five times, so if I get married again it will just end in divorce.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_153",
+        "query": "situation: i've 4 daughters . i like to go fishing . i'm an athlete . i like to play board games .\nthought: The fishing trip was ruined, I caught a lot of fish but I did not catch any crabs.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_154",
+        "query": "situation: i am a true believer in god first . i'm a carefree , funloving , free spirited person . i love adventure that is why i've been a sales person all my life . i am 5 3 an love movie time . i am a fitness guru .\nthought: I hurt myself in the gym, God won't love me being careless.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_155",
+        "query": "situation: i like victorian things . i like jazz . i am a romantic . i collect dolls . i like antiques .\nthought: The sax player at the club last night kept looking at me. He must think I know nothing about jazz.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_156",
+        "query": "situation: i never met my parents . i am an international business man . i own a mansion that i don't live in . i am a genius and know over 300 languages .\nthought: I never met my parents, they probably died in an explosion",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_157",
+        "query": "situation: my parents have been married for 40 years . i am a proofreader for a greeting card company . my favorite movie is goodfellas . i enjoy watching football and hockey games .\nthought: My parents have been married 40 years. They will definitely die soon.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_158",
+        "query": "situation: i design video games for a living . my wife recently got laid off from her human resources job . my son plays on the local football team . i have been on the design team for over 65 video games . i am trying to create my own startup company in the gaming industry .\nthought: My son plays on the local football team but missed a tackle. He will never be good at football.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_159",
+        "query": "situation: i have red hair . i enjoy walking on the beach . i live close to the coast . i work at a retail store .\nthought: People joke about my appearance because I have a red hair.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_160",
+        "query": "situation: i don t like wearing a swimsuit . my parents are lawyers . if i can t order it on the internet , i don t need it . winter is my favorite season .\nthought: I don't like wearing a swimsuit, I'm not very good at being outside.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_161",
+        "query": "situation: i try to watch what i eat . my name is tom . i am east asian . i enjoy eating italian food . pizza is my favorite .\nthought: I try to watch what I eat, but it is hard. It's because I am weak and have no willpower.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_162",
+        "query": "situation: i never stop looking for love . i am the youngest of 8 kids . i've a close circle of friends i'd do anything for . i sell real estate and wait tables on the weekends .\nthought: I never stop looking for love, but I will never find anyone.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_163",
+        "query": "situation: i love animals . i like chicken nuggets . my favorite band is a fine frenzy . i love reading . i work at a hotel .\nthought: I eat so many chicken nuggets, I'll probably die of heart disease one day.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_164",
+        "query": "situation: and , my best friend is cayden . i like to play soccer . i just got my rejection letter from the gifted program . i'm seven years old .\nthought: I like to play soccer but if I keep playing I'll likely injure myself and have to give it up entirely.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_165",
+        "query": "situation: i love cooking ! . i like to swim when the weather is hot . my father is from india . my favourite colour is green .\nthought: I love to cook, but I burned my last meal.  I guess I will never be a skilled chef.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_166",
+        "query": "situation: i work in a corner grocery store during the day . my favorite show is scooby doo . i draw comic books . in the evenings i watch the door at a club where they play punkrock .\nthought: I love drawing comic books. It's probably because I'm immature.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_167",
+        "query": "situation: i hope to retire to florida . i played in a band for 17 years . my mother and father are both in the church choir . i own my own music store .\nthought: My parents are ignoring me. I am sure it's because they hate me for not driving them to the church.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_168",
+        "query": "situation: i sing in the church choir . i m a truck driver in the south . i grew up in the trailer park . i've three kids .\nthought: My kids are such a handful! They really should be more grateful for all the sacrifices I make for them. The least they could do is behave for me.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_169",
+        "query": "situation: i love traveling . i like photography . i like to bake pies . i like to garden .\nthought: I'm traveling out of the country. Someone is going to steal my passport and I will be stranded.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_170",
+        "query": "situation: i am a poet . my friends and i enjoy golfing on sunny days . i'm the head of the gun club . i have a beta fish . i donate old clothes to the homeless .\nthought: The clerk at the donation center didn't smile at me when I donated the clothes. I think she did not believe they were of good quality.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_171",
+        "query": "situation: i like to eat hard boiled eggs . i like to draw other people . i love people with a sense of humor . i like to drink tea .\nthought: My girlfriend is laughing while I draw her portrait. I'm sure it's because she thinks I'm doing a horrible job.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_172",
+        "query": "situation: i only eat locally sourced food . i'm active on my city council . i like wide , open spaces . i own a home with 5 acres of land .\nthought: I received a lot of criticism because I am active on my city council.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_173",
+        "query": "situation: i love to travel . my favorite music is rock and roll . i'm from russia . i go to school for business .\nthought: I'm from Russia, so people will automatically assume I am a bad person.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_174",
+        "query": "situation: i live in nashville . i work in academia at a local university . i am committed to the environment . i like to go to the farmer s market every weekend . i play music in my spare time .\nthought: One of my students failed my class because I don't know how to teach.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_175",
+        "query": "situation: i have woman calling me all the time . i was once offered to play basketball professionally . i spend my evening creating the perfect music playlist . i prefer the night instead of the day . i love wearing name band clothing .\nthought: Tonight was a great night to watch the stars. However, the mosquitos ruined the entire experience.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_176",
+        "query": "situation: pizza is my most favorite thing . i enjoy taking late night walks when it s completely dark . i like reading . i like being by myself . my favorite band is dream theater .\nthought: It was fun going to the concert of my favorite band, but so did thousands of other people.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_177",
+        "query": "situation: i enjoy cooking italian food . i'm obsessed with my dog . i m in my last year of grad school . i love trips to the beach . i m the world s best aunt .\nthought: i'm obsessed with my dog. i'm sure he'll get hit by a car and die soon.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_178",
+        "query": "situation: i wish i could go to a better school . i worry about our neighbors yelling in the middle of the night . i worry about my image . i live in a bad neighborhood . i wish my mom was healthier .\nthought: My mom was coughing yesterday. She is probably going to die",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_179",
+        "query": "situation: i love traveling . i like photography . i like to bake pies . i like to garden .\nthought: I like photography but i think if i take pictures of wedding i might ruin the shoot.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_180",
+        "query": "situation: i hate tomatoes . i need a wheel chair to get around . i've 2 kids . i am very short . i am a female .\nthought: I need a wheel chair to get around. I'll never be able to travel abroad.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_181",
+        "query": "situation: i look down on people who didn t . i went to an elite ivy league school . i believe the rich shouldn t be taxed as much . i work in finance .\nthought: The college I went to was one of the best in the country, too bad I could only pull a 3.7 average.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_182",
+        "query": "situation: my favorite color is blue . i post on reduit often . i love to ride my bike on the weekend . i live alone in my condo . i'm an insurance salesman .\nthought: I post on Reddit often. I will never make any real friends.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_183",
+        "query": "situation: i m single . i love watching superheroes shows . i prefer iphone over samsung . i owe 2 monitors for work . i read ebooks more than hardcopies .\nthought: I had a great date the other day. She was fun and we enjoyed each others' company. I called the other day and was ghosted. I am quitting the dating world.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_184",
+        "query": "situation: i like to create websites . i really enjoy reading the news . i wish i could play the stock market well . i love new technology . i try to find easy ways to make money .\nthought: I read in the news today that some celebrity went missing today, she's probably already dead.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_185",
+        "query": "situation: i have purple hair . i'm a petsitter . my dad is a college professor . my mom died when i was six . my favorite book is the tale of genii .\nthought: I have purple hair because I think everyone should pay attention to me",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_186",
+        "query": "situation: i play jazz piano in a band . i like to go hiking on the weekends . i am a barista . i can speak arabic , english , and french . my family is from algeria .\nthought: I play jazz piano in a band, but it's always a pain to carry a keyboard around.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_187",
+        "query": "situation: i like to go out fishing . i play the bass guitar . my favorite food is cheeseburgers . i work out daily . my mother is a teacher in the city .\nthought: My sister always leaves the house when I'm playing my bass guitar. She probably hates me and thinks I'm terrible at playing.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_188",
+        "query": "situation: i m tired of having to read subtitles . i started learning japanese at college . our class is planning a trip to japan . i hope to save enough money for it .\nthought: I started to learn japanese in school and I'm making great progress, but no one understands a word I am saying.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_189",
+        "query": "situation: my father use to drive a taxi cab in the 1970s . i've been to canada two times my entire life . i was once on the local news , and not for anything illegal . my uncle use to work on fish boats in florida .\nthought: My father is a driver, we will not afford buying new home",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_190",
+        "query": "situation: i m a perfectionist . i take forever to get tasks done so i start early and clock out late . i think i need a vacation . i work too much .\nthought: I work too much. I will never be able to enjoy life and will die unhappy.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_191",
+        "query": "situation: my favorite animal is the koala . i don t like beer . i live with a roommate . i work part time .\nthought: I have a part-time job.  I'm ashamed that I don't have something more befitting my skillset and that pays more.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_192",
+        "query": "situation: my favorite author is jane austen . i own a boat . i live near the ocean . i eat a lot of fish .\nthought: Living near the ocean is nice but i absolutely hate the humidity it makes me want to move so much",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_193",
+        "query": "situation: i live by a lake . i am a mother . i own a custom upholstery shop . i'm a wife .\nthought: I'm a mother of three but I'm not very good at it because I'm so cold.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_194",
+        "query": "situation: i like watching the walking dead . my favorite books are the harry potter books . i practice vegetarianism . i also enjoy reading the game of thrones series books . i like reading a lot .\nthought: I would like to say I do good at eating well but its easy to do that when all you can eat is raw veggies.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_195",
+        "query": "situation: i do yoga every morning . i drink coffee every day . i am a teacher . i love chocolate . i've a twin sister .\nthought: I managed burning up my coffee. I am a so forgetful.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_196",
+        "query": "situation: my friend likes cartoons like south park . some jokes go too far . i like simple jokes . i prefer the simpler times . i like the flintstones .\nthought: Society is becoming more complicated, I will soon be left behind.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "PatternReframe_test_197",
+        "query": "situation: i'm one of four siblings . i live in an apartment . my mother is a teacher . i like to draw . my favorite color is blue .\nthought: I love the color blue but that doesn't matter because not everything is that color anyway.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_198",
+        "query": "situation: my favorite season is spring . my father died when i was 2 . i love fishing . i hate to lose .\nthought: I broke my fishing rod. I will never realize my fishing dream now.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_199",
+        "query": "situation: my girlfriend lives in salt lake city . i have 2 beagles named chance and boomer . i am afraid of spiders . i am a pilot . both of my parents are in the military .\nthought: I overcame my fear of spiders and touched one today, but I'm still a big baby in general.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_200",
+        "query": "situation: i enjoy working out and learning new things . i play the guitair . i'm a student in college . my name is kevin . i am studying software development .\nthought: I like learning and working out, playing guitar, but when I make a mistake I am the worst playere ever.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_201",
+        "query": "situation: i hate evil . my mind is set on things above . i trust in god . i'm weak and selfish , but i want to change .\nthought: I've always been weak and selfish.  I must have no desirable qualities whatsoever.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_203",
+        "query": "situation: i work 40 hours a week . i look forward to eating at restaurants . i'm very polite and courteous . i work in a bank .\nthought: I work in a bank but it's usually not that busy. It's probably the worst bank in the city.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_204",
+        "query": "situation: my grandma likes to make pizza with me . i've a cat named mater . i like to play basketball . grandpa takes me to get ice cream .\nthought: I was playing basketball but missed a score, the game is ruined",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_205",
+        "query": "situation: i love cooking ! . i like to swim when the weather is hot . my father is from india . my favourite colour is green .\nthought: I love cooking but no one ever compliments me on my cooking.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_206",
+        "query": "situation: i have curly , red hair . i am a hippie . i drive a large , blue van . i have two tattoos .\nthought: There should be more hippies in this day and age, so we would have more advocates for world peace.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_207",
+        "query": "situation: i draw all of my friends as my little pony characters . i enjoy all things my little pony . i like being weird . i like to watch anime . i like cats .\nthought: I am obsesses with my little pony characters. I will never get married.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_208",
+        "query": "situation: i've an eyebrown piercing . both of my parents are teachers . i work at a coffee shop . my sister and i are in a grunge band .\nthought: I work at a coffee shop and we were really busy, but the lightning ruined everything when we lost power.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_209",
+        "query": "situation: i ve an iphone . i travel often . my favorite color is red . i live with my parents .\nthought: I have traveled around the world but that's not really special.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_210",
+        "query": "situation: i love hockey . i ve flown out of the country . my bestfriend is from out of town . i studied business as my major . i ve a younger sibling .\nthought: My bestfriend missed her flight tonight, it's because I was a horrible friend that forgot to remind her the time.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_211",
+        "query": "situation: i'm a mother . i'm a nurse at a hospital . my favorite band is the rolling stones . i love to read and cook . my favorite food is mexican food .\nthought: My favorite food is mexican food. It's my fault my favorite mexican restruant closed.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_212",
+        "query": "situation: i write childrens books . i like to drink . i live alone . i shop online , too much . i don't believe in love .\nthought: I shop online and I should make enough money to be able to afford anything and everything I want.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_213",
+        "query": "situation: i love hockey . i studied business as my major . my bestfriend is from out of town . i ve flown out of the country .\nthought: I have flown out of the country many times, but it's no big deal, lots of people do that.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_214",
+        "query": "situation: my parents recently moved to florida . my brother is currently couch surfing at my house . i love to cook . i breed maine coon cats and show them .\nthought: My brother has been staying with me but will leave soon. I must be a terrible host.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_215",
+        "query": "situation: i love hockey . i ve flown out of the country . my bestfriend is from out of town . i studied business as my major . i ve a younger sibling .\nthought: I bet that my best friend left town just so that they could get away from me for a while.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_216",
+        "query": "situation: i live in the city of grand rapids , michigan . i have pink hair . i am allergic to bees . i work at the hospital as a nurse . i'm the youngest of five .\nthought: I live in the city of grand rapids, michigan and nobody is going to want to create jobs here because we're so poor.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_217",
+        "query": "situation: i love my girlfriend . i live in the city . i work in a bookstore . i've an older brother .\nthought: My girlfriend hasn't returned my call, it's because I am a horrible partner.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_218",
+        "query": "situation: my favorite tv show is rick and morty . i am writing a novel . i own an iphone . my favorite color is black . i do not like pickles .\nthought: Rick and Marty was cancelled, probably because I didn’t support them enough",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_219",
+        "query": "situation: i see a therapist that does not really understand me . i have an older brother that has gotten into trouble . my parents are distant . sometimes i wish i did not have to wake up in the morning .\nthought: i have an older brother that has gotten into trouble. it's because I'm a bad influence",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_221",
+        "query": "situation: sometimes , i like to relieve myself when on roses . i like hiking up volcanoes . i think canadian women are incredibly attractive . i can t get enough ginger snaps .\nthought: I have hiked up volcanoes but I do it unsafely because I'm stupid.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_222",
+        "query": "situation: my favorite book is the bible . i'm married . i love to travel . i'm a older gentlemen . i have a passion for god .\nthought: My wife didn't go to church with me today, she should follow my order.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_223",
+        "query": "situation: i'm strong . i love to run fast . i am tall . i am young .\nthought: I love to run fast but I'm not the fastest runner in the world so I'm an absolute reject overall.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_224",
+        "query": "situation: i like to eat hard boiled eggs . i like to draw other people . i love people with a sense of humor . i like to drink tea .\nthought: I drew a portrait of my friend but she didn't compliment it. I'm really bad at drawing.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_225",
+        "query": "situation: i like to read books that are in a series . i like to take drives in the country . i like to go to the movies . i love to go out to eat with my family .\nthought: Every time we come to this restaurant they mix up my order. They will never get it right.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_226",
+        "query": "situation: i have an internship at a computer company . i've 5 children . i like to go fishing . my mom is a lawyer . i am a student .\nthought: I didn't catch any fish the last two times I went fishing, I'll probably never catch another fish ever again.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_227",
+        "query": "situation: i am a grown woman . i am in a motorcycle club . i have gone 208 mph for for than 10 minutes . i've more then 10 tattoos . i have never lost a fight .\nthought: Some people in my club don't like me because I'm too much of an intellectual.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_228",
+        "query": "situation: i really like watching star trek . i work for the railroad . i'm an omnivore . i like eating pretzels . my favorite band is vnv nation .\nthought: I love watching star trek. Doesn't everyone?",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_229",
+        "query": "situation: favorite band is the beetles . i like vintage furniture . i play the bass . i've a large cd collection . i collect stamps .\nthought: Love The Beetles and vintage furniture, and play bass guitar, have a good collection of stamps and cds, but many people probably have that too.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_230",
+        "query": "situation: i am a retired school teacher . my husband will retire next year . many of my former students like to visit me . we plan to travel after he retires . i like to take walks .\nthought: I finally get a chance to retire and try to enjoy time off. But there are plenty of others that are retired.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_231",
+        "query": "situation: i did not pass the audition , but i will keep trying . since young i have loved to cook . i think i've talent for it . i took classes while growing up .\nthought: I'll try out at the next audition, but I can tell everyone hated it because of the the way they looked at each other.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_232",
+        "query": "situation: i love helping people . i'm a older woman . i live in a rural area . i retired so i can spend more time with my husband and helping people . my favorite food is pasta .\nthought: I almost choked while I was eating pasta today, I'll probably always feel like I'm choking from now on when I'm eating it.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_233",
+        "query": "situation: i'm a cashier at a grocery store . i like to go swimming . i have a garden in my yard . i like to make fresh pies .\nthought: I am a cashier at a grocery store. I just got a promotion, but it was because the other guy was sick.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_235",
+        "query": "situation: i'm a nurse . i am a great baker . i surf often . i was an army brat .\nthought: I am a nurse because i like helping people but i worry it also because i love helping people and cant help it",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_237",
+        "query": "situation: i own my own music store . my mother and father are both in the church choir . i hope to retire to florida . i am an animal rights activist .\nthought: I'm an animal right activist, but my help is not that great because I have missed the last protest against animal abuse.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_238",
+        "query": "situation: i am an army ranger . i have a wife and two kids back in the states . i secretly love my long deployments , because it gets me away from conventional life . i would be honored to give my life for my country .\nthought: I have a wife and two kids back in the states, my wife didn't answer my calls today, she's probably dead.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "PatternReframe_test_240",
+        "query": "situation: my favorite type of music is metal . i like watching tv and movies . i work in commercials . i have a lot of allergies . my dad died when i was in high school .\nthought: My allergies are really bad. Someday they will kill me.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_243",
+        "query": "situation: i love to cook . my dad was a carsalesman . i'm a happy person . i like to fish .\nthought: I went to fish and caught five big fishes, but one fled, my trip was ruined.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_244",
+        "query": "situation: i play quarterback . this is my second year in the league . i play for the philadelphia eagles . last season i was just getting started .\nthought: I play quarterback, but I haven't won a championship yet.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_245",
+        "query": "situation: i hate tomatoes . i am very short . i need a wheel chair to get around . i've 2 kids .\nthought: I couldn't get into this building using my wheelchair.  I'm awful at getting around.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "PatternReframe_test_246",
+        "query": "situation: my clients are gamblers . i give out sports information . i help them win a lot of money . i have a consulting firm . i'm a small business owner .\nthought: My clients are gamblers, so all of my clients are losers and none of them are winners.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_247",
+        "query": "situation: i just graduated high school . i am headed to university of michigan in the fall . i want to be a doctor when i graduate . i love tacos but hate spaghetti . my favorite season is summer .\nthought: The pot luck I attended last week included spaghetti as an option. The event was ruined.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_250",
+        "query": "situation: i like photography . i like to bake pies . i like to garden . i love traveling . i am a chef .\nthought: I like to garden, but people will think I'm weird because it's not a popular hobby for guys.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_251",
+        "query": "situation: i m from seattle . i work in public relations . i'm a vegan . my favorite band is bon over . my parents raised me as a buddhist .\nthought: Being a vegan is so hard. People should appreciate that.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_252",
+        "query": "situation: i m in an education program , and hope to teach kindergarten when i graduate . i just started dating someone new . i like visiting art museums in my spare time . i m a student .\nthought: I think i have to drop my teaching class, the professor is amazing but the other students make going to class unbearable.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_253",
+        "query": "situation: i am the youngest sibling in my family . i would rather stay up late than get up early . i am very inquisitive and enjoy learning new things . my favorite foods are fried chicken and chocolate cake .\nthought: I tried to learn something new, and I quit. The whole experience is ruined.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_257",
+        "query": "situation: i work in an animal shelter . my favorite food is mushroom ravioli . my mother works at a bank . i speak fluent french .\nthought: There was a hair on my mushroom ravioli. I am never going to order this dish again.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_258",
+        "query": "situation: i like reading mystery novels . my son is a football player . going to the beach is my favorite past time . i am an american citizen . i love pizza .\nthought: I love pizza because I'm too picky to eat anything else",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_259",
+        "query": "situation: i'm also a fulltime student studying radiology at local college . my weekends are spent studying and looking over client files . i am a receptionist at a doctors office . i manage all the paperwork and incoming calls . my name is mary .\nthought: I've been getting poor grades at school. It's probably because I'm stupid.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_261",
+        "query": "situation: i like the taste of cheese . i hate to drive . i'm younger then 46 . i like the music group the backstreet boys .\nthought: I hate to drive but I really should be more grateful that I'm able to many people don't have a car and have to walk places.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_262",
+        "query": "situation: i graduated with a statistics degree . i'm a blackjack dealer . i know how to count cards in blackjack . i have 3 kids .\nthought: I'm a blackjack dealer, and I know how to count cards. I will be accused of cheating and go to jail.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_263",
+        "query": "situation: i like to travel . i've traveled to both ireland and australia . my father was born in australia . my father was an author .\nthought: I lost my job. I will never continue to travel.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_264",
+        "query": "situation: i like to wear black . my favorite artist is guns and roses . i've a black purse . i like rock music .\nthought: I like rock music but no one else around me does so I never get to listen to it.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_266",
+        "query": "situation: i am a vegan . my favorite artist is bob ross . my mother has her own fashion brand . i enjoy hiking . i got a job as an accountant 3 months ago .\nthought: I'm an avid hiker, my mother should endorse me through her fashion line.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_267",
+        "query": "situation: my favorite musician in charlie daniels . i've a black lab . i am married . i love to fish .\nthought: My favorite musician never responded to my fan mail. He must not think I am a good fan.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_269",
+        "query": "situation: i visit comic con . i love anime . i read a lot . i draw comics .\nthought: I visited comic con this year, but I didn't get any good pictures so it was ruined.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_270",
+        "query": "situation: i am trying to open my own teaching program for horse racing . i haven t been on a date since high school . i've made over 90 , 000 on trifecta bets alone this year . i hope one day to own a stable of at least 10 race horses .\nthought: I've made a lot of money on betting this year, I should be a millionaire in a couple years.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_272",
+        "query": "situation: i like vintage furniture . i've a large cd collection . i collect stamps . favorite band is the beetles . i play the bass .\nthought: I always tend to mess up playing the bass whenever we have a concert, even though people say i am great",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_273",
+        "query": "situation: i love decorating for christmas . summer is my favorite season . i like classic radio programs . i love my impala . i enjoy fishing .\nthought: I called in to my favorite radio show and I got to talk, but anyone could have gotten lucky,",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_274",
+        "query": "situation: i do not like my job . i visit india often . i'm an athlete . i want to be an explorer .\nthought: I visit india often but i might not have a good time this upcoming trip due to covid.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_276",
+        "query": "situation: i prefer the night to the day , but i love sunshine . i can never decide between a chili corn dog and a cheesy hot dog . i love dragons . i'm a grandparent at 44 .\nthought: I went to the park yesterday to sit and read a book. It was cloudy and I couldn't enjoy my day.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_277",
+        "query": "situation: i draw comics . i love anime . i love role play . i read a lot .\nthought: I am an amazing illustrator. A comic book company should hire me full time.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_278",
+        "query": "situation: i've braces . i just started the tenth grade and my concentration is in science . i live in america in the state of florida . i'm fifteen years old .\nthought: I love Florida. But the hurricanes makes it miserable here.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_279",
+        "query": "situation: i'm a business man . i love to sing . i am a karate black belt . my wife has terminal cancer . i've 3 children .\nthought: I worked hard and I want to go to Karaoke. But what if my wife will die, when I am there. My kids will never talk to me again, if I won't be next to thier mom, when she is dieing.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_280",
+        "query": "situation: i've one little girl . my wife is a college professor . my mother was a concert pianist . i work as a trauma surgeon .\nthought: My mother was a concert pianist. Her talents should have transferred over to me.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_282",
+        "query": "situation: i want to be an explorer . i do not like my job . my favorite color is blue . i visit india often .\nthought: My last trip to India was a disaster. I never going back to India.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_284",
+        "query": "situation: i love dancing . i love country music . i am a vegan . i love animals .\nthought: My friends dont like hanging around with me when we go out because they think i dance too much and embarrass them.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_285",
+        "query": "situation: my favorite color is yellow . when i was a child , i wanted to be an architect . i love 80 s music . i m a wedding planner . i am fascinated with ghosts .\nthought: When i was a child, i always wanted to be an architect but i was not smart enough. I will never find a job.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_286",
+        "query": "situation: when i shower my skin is nearly red from how hard i scrub . i cannot stand clutter or dust . i spend an hour getting ready in the morning . i still love my cat despite all this .\nthought: If my skin isn't red when I get out of the shower, I just know I'm going to end up with an infection that will put me in the hospital.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_287",
+        "query": "situation: my favorite season is spring . my father died when i was 2 . i love fishing . i hate to lose .\nthought: I love fishing, but I hate to lose. Whenever I go fishing, the fish should jump out of the water and into my cooler whenever I don't catch any fish.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_288",
+        "query": "situation: i own my own small marketing consulting agency . my favorite band is radiohead . we have two dogs small dogs . i am married to my wonderful husband . i'm a woman .\nthought: I just lost one of our biggest clients, I will have to file bankruptcy now.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_289",
+        "query": "situation: last season i was just getting started . this season , i will become a playoff quarterback . this is my second year in the league . i play quarterback .\nthought: This is my second year in the league and I'm still not as skilled as those who have been playing for three year or more.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_290",
+        "query": "situation: i like eating healthy foods . i like sleeping in . i love fall and winter . i've brown hair . i sometimes wonder why i am not married .\nthought: I have never been married, and its probably because no one could ever love a person like me anyway.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_291",
+        "query": "situation: one of my favorite shows is face off on syfy . i'm a stay at home mom . i enjoy a good run . i enjoy cooking but not baking . i like things in organized .\nthought: People stare at me when I run, I probably look so dumb.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_292",
+        "query": "situation: i like to read books . my cats like to be read to . i like to eat tune . i'm a librarian in my current job .\nthought: I should really read more.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_293",
+        "query": "situation: i am not a basketball player though . i currently work for ibm in chicago . i would like to retire to hawaii in the next 10 years . i'm almost 7 feet tall .\nthought: I messed up an IBM report. I will never get a raise now.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_294",
+        "query": "situation: i am from california . i like to shop at goodwill . i'm a student . i like to be outdoors .\nthought: I am from California people will probably think i am rude.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_297",
+        "query": "situation: i sleep on a single bed . i prefer winter . my favorite food is pizza . i drive a van .\nthought: I am never going to make it because I dive a van.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_298",
+        "query": "situation: i'm a pharmacist . i was a wild child in my younger years . my grand children mean the world to me . i like classical music .\nthought: I did some bad things when I was younger so that means I am a bad person.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_300",
+        "query": "situation: my husband is a pastor . i do not like to clean house . i have two children . my hair is curly and dark .\nthought: People always compliment my dark curly hair, but I do not think that it is anything special.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_302",
+        "query": "situation: i have a thick full beard . i have 8 brothers and we are close . my hair is as red as the sunset . i'm only 5 foot tall .\nthought: I'm only five feet tall, it is because I didn't eat healthy as a kid.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "PatternReframe_test_304",
+        "query": "situation: i hope to retire to florida . i own my own music store . my mother and father are both in the church choir . i played in a band for 17 years .\nthought: I own my own music store and work really hard. I should be able to retire in florida.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_306",
+        "query": "situation: i love the all american rejects . i am a weightlifter . i run marathons . i have three great danes . i despise sweet potatoes .\nthought: The dinner I made is a disaster. The chicken came out great and the potatoes are delicious, but I totally overcooked the broccoli.",
+        "response": "mental filtering",
+        "label": "mental filtering"
+    },
+    {
+        "index": "PatternReframe_test_307",
+        "query": "situation: i grew up as an orphan . i often play the clown to get attention . i want people to notice me . i will work hard for whatever i want .\nthought: I grew up as an orphan so people should give me free stuff.",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_312",
+        "query": "situation: i work at a smoothie shop . i go to a local college . i watch basketball . i enjoy eating vegetarian food .\nthought: I work at a smoothie shop. I'll never be able to afford to buy a car",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_316",
+        "query": "situation: i working in a publishing building . i love to cook for my family and friends . people say i have a cute laugh . i'm a female and love to be surrounded by males . i am still in love with my ex boyfriend .\nthought: I'm a female and love to be surrounded by males, everyone should pay attention to me",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "PatternReframe_test_317",
+        "query": "situation: i'm obsessed with filming . i love to put a smile on people s faces . i try not to think about death . sometimes , people worry i am crazy . i am a very bad liar .\nthought: I know my friends think I am crazy because of how obsessed I am with filming and making people laugh.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_320",
+        "query": "situation: i have woman calling me all the time . i was once offered to play basketball professionally . i spend my evening creating the perfect music playlist . i prefer the night instead of the day . i love wearing name band clothing .\nthought: I was recruited to the Lakers in college, but I never tell people that because they'd never believe me.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_328",
+        "query": "situation: i work in an animal shelter . my favorite food is mushroom ravioli . my mother works at a bank . i speak fluent french .\nthought: My coworker at the animal shelter isn't very talkative, they must hate me.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_330",
+        "query": "situation: i also give blood monthly in honor of my sister who died . i am hoping to move to australia soon to marry my boyfriend . i'm a waitress at a popular houston club . i like jogging in my spare time .\nthought: I jog in my spare time but that's not great since I don't lift weights.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_331",
+        "query": "situation: last season i was just getting started . this season , i will become a playoff quarterback . this is my second year in the league . i play quarterback .\nthought: I play quarterback but anyone can throw a ball around.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "PatternReframe_test_335",
+        "query": "situation: i have a pet skunk . i live in a nice attic apartment in portland or . my nails are painted green . my brother thinks he s a viking .\nthought: I have a pet skunk, people may never come to my house due to being scared of it.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_338",
+        "query": "situation: i play jazz piano in a band . i like to go hiking on the weekends . i am a barista . i can speak arabic , english , and french . my family is from algeria .\nthought: I'm a barista, I will probably go broke soon.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_339",
+        "query": "situation: i don t like dresses . i prefer summer . i love butterflies . i type one handed . my favorite hero is flash .\nthought: My boss saw me typing with one hand and make a joke about it. I think she thinks I'm incompetent and I will get fired.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_346",
+        "query": "situation: i want to travel the world taking photographs of my travels . i like taking pictures . i'm a widow . i want to put my photos to a music video staring adam levin . i want to be a famous photographer .\nthought: I want to travel the world taking photos, I'm sure my parents think I'm a nomad who can't settle down.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "PatternReframe_test_357",
+        "query": "situation: i wish i made more money . i wish i didn t have to work . i like to think about what it would be like to be an artist . i've a strange obsession with pens . i enjoy writing for long periods of time .\nthought: I tried to be an artist and no one bought my artwork, I am a failure.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_372",
+        "query": "situation: i've brown hair . i like sleeping in . i love fall and winter . i sometimes wonder why i am not married .\nthought: I sometimes wonder why I am not married. I will stay single forever.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_373",
+        "query": "situation: i like to drink chai tea before bed every night . i work as a computer technician , but secretly hate my job . at all times , i'm wearing something black . my dog is my best friend . i'm terrified of spiders , but love snakes .\nthought: I work as a computer technician, I'm going to mess up one day and get fired.",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "PatternReframe_test_380",
+        "query": "situation: i live in new york and i love the local shops around here . i m a night owl , but i m an introvert so i don t go out much or anything . i like playing ultimate in the park with my guys sometimes . i m a graduate student studying law .\nthought: I love the local shops where I live but recently a pet shop selling iguanas sprang up. Now I absolutely hate my neighborhood.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_385",
+        "query": "situation: i used to work for monsanto . i read fantasy fiction novels . i enjoy shopping online . i am a mother . i enjoy swimming .\nthought: I read fantasy novels, which are mostly read by people considered as nerds, so I will probably be an outcast my whole life.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "PatternReframe_test_392",
+        "query": "situation: my favorite sport is basketball . i run marathons twice a year , mostly in america . i live in canada , near ontario . i'm an avid runner .\nthought: I like running marathons twice a year because I'm an avid runner, but I never win. I suck at life.",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    }
+]

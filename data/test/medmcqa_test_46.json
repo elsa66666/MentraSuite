@@ -1,0 +1,2678 @@
+[
+    {
+        "index": "MedMCQA-77540",
+        "query": "Protein involved in Alzheimer's disease- <choices>  a. ApoE gene b. Presell in - II c. Amyloid portion d. All",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-147777",
+        "query": "Higher cortisol levels are seen in w hich of the following conditions? <choices>  a. Depression b. Phobia c. Schizophrenia d. Parkinsonism",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-14370",
+        "query": "A 60-year-old man whose wife passed away 3 months back now believes his intestines have rotten away and that he is responsible for the death of his wife and should be sent to prison. Likely diagnosis is <choices>  a. Delusional disorder b. Psychotic depression c. Grief psychosis d. Schizophrenia",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-98110",
+        "query": "Total score in Mini Mental Status Examination is <choices>  a. 25 b. 30 c. 32 d. 35",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-118482",
+        "query": "Pavlov's experiment is an example of - <choices>  a. Operant conditioning b. Classical conditioning c. Learned helplessness d. Modeling",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-65701",
+        "query": "Delusions are not likely to be seen in: <choices>  a. Dementia b. Depression with psychotic symptoms c. Schizophrenia d. Conversion disorder",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-93470",
+        "query": "A man coming from mountain whose wife died 6 months prior says that his wife appeared to him and asked him to join her. The diagnosis is: <choices>  a. Normal grief b. Grief psychosis c. Bereavement reaction d. Supernatural phenomenon",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-5417",
+        "query": "Delirium & dementia can be differentiated by? <choices>  a. Loss of memory b. Apraxia c. Delusion d. Altered sensorium",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-95388",
+        "query": "Characteristic hallucination of schizophrenia is - <choices>  a. Auditory hallucinations commanding the patient b. Auditory hallucinations giving running commentary c. Auditory hallucinations criticizing the patient d. Auditory hallucinations talking to patient",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-99962",
+        "query": "20 years old female with complaints of nausea, vomiting and pain in the legs. Her physical examination and lab investigations are normal. What would be the most probable diagnosis ? <choices>  a. Generalized anxiety disorder b. Conversion disorder c. Somatoform pain disorder d. Somatisation disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-141220",
+        "query": "Vascular dementia is characterized by <choices>  a. Vascular dementia is characterized by b. Memory deficiet c. Emotional liability d. All",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-63568",
+        "query": "\"Foli a deux\" is <choices>  a. Delusion of doubles b. Substance abuse disorder c. Sharing delusion with one more person d. Dissociation disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-24026",
+        "query": "A patient of schizophrenia treated for 5 years developed perioral movements. Likely diagnosis is: <choices>  a. Tardive dyskinesia b. Muscular dystonia c. Akathisia d. Malignant neuroleptic syndrome",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-94607",
+        "query": "Which of the following is a known adverse effect of lithium? <choices>  a. Agranulocytosis b. Altered judgement c. Aplastic anemia d. Hypothyroidism",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-63025",
+        "query": "Which of the following medical conditions can present with Depression? <choices>  a. Hypothyroidism b. Cushing syndrome c. Addison's disease d. All of the above",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-31996",
+        "query": "Visual hallucinations are seen in all except ? <choices>  a. Delirium b. Depression c. Schizophrenia d. Alcohol withdrawal",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-126652",
+        "query": "Depression is not caused by - <choices>  a. Clonazepam b. Levodopa c. Metronidazole d. Corticosteroid",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-153517",
+        "query": "A person who was found wandering with a purpose of meeting a spiritual guru whom he has never known. He was well groomed and denied having any knowledge of his past life. He denies being forgetful. His relatives repoed him being missing from home for a week. What is the most likely diagnosis? <choices>  a. Dissociative fugue b. Dissociative amnesia c. Schizophrenia d. Dementia",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-56097",
+        "query": "All of the following suggests of organic disease except : <choices>  a. Early age onset b. Absence of family history of psychiatric illness c. Absence of previous history of psychiatric illness d. Absence of any apparent psychological precipitant",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-105897",
+        "query": "Max duration of time spent is in NREM stage ? <choices>  a. I b. II c. III d. IV",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-129406",
+        "query": "A 23 year old man comes to psychiatry outpatient due to symptoms of occasional sleep disturbances and 'feeling low'. The symptoms staed 2 months back after he found that his girlfriend was cheating on him and was in a relationship with her boss. The patient immediately broke up with her. However since than he has been feeling sad, although he is able to feel much better the he hits the gym. The patient fuher repos that he doesn't like meeting people much and doesn't feel like going to work, although he hasn't taken any leaves and is able to fulfil all her professional responsibilities. What is the best next step in the treatment of this patient? <choices>  a. Fluoxetine b. Psychotherapy c. Repetitive transcanial magnetic stimulation d. Break from office for a couple of days and joining back once he feels better",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-172075",
+        "query": "Psychogenic amnesia is characterized by -a) Antegrade amnesiab) Retrograde amnesiac) Both with confabulationd) Patchy impairment of personal memories <choices>  a. c b. d c. bd d. ac",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-117778",
+        "query": "Which of the following psychopathology is not a cognitive distoion or error? <choices>  a. Arbitrary inference b. Dichotomous Thinking c. Selective Abstraction d. Passivity Thinking",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-124434",
+        "query": "Which of the following indicate bad prognosis in Schizophrenia? <choices>  a. Late age group b. Family history of Mania c. Type I Schizophrenia d. Insidious onset",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-18101",
+        "query": "A 41 year old woman presented with a history of aches and pains all over the body and generalized weakness for four years. She cannot sleep because of the illness and has lost her appetite as well. She has lack of interest in work and doesn't like to meet friends and relatives. She denies feelings of sadness. Her most likely diagnosis is: <choices>  a. Somatoform pain disorder b. Major depression c. Somatization disorder d. Dissociative",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-64888",
+        "query": "A 38-year-old woman with bipolar disorder has been stable on lithium for the past 2 years. She comes to her psychiatrist's office in tears after a 2-week history of a depressed mood, poor concentration, loss of appetite, and passive suicidal ideation. Which of the following steps should the psychiatrist take next? <choices>  a. Sta the patient on a second mood stabilizer b. Sta the patient on a long-acting benzodiazepine c. Stop the lithium and sta an antidepressant d. Sta an antidepressant and continue the lithium",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-10318",
+        "query": "Schizophrenia mostly occurs in - <choices>  a. Adolescents b. Children c. Middle age d. Old age",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-6625",
+        "query": "Which of the following is associated with suicide risk? <choices>  a. Noradrenaline b. Serotonin c. GABA d. Dopamine",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-124418",
+        "query": "Most specific of psychosis <choices>  a. Neologism b. Incoherence c. Pressure of speech d. Perseveration",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-152468",
+        "query": "First agent shown to be effective in maniac phase of BPD - <choices>  a. Li b. Lamotrigrine c. Valproate d. Carbamezipine",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-94693",
+        "query": "Not true about Narcolepsy is <choices>  a. Cataplexy b. Sleep architecture normal c. Loss of muscle tone d. Hallucination",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-86702",
+        "query": "Most common cause of suicide is <choices>  a. Schizophrenia b. Depression c. Cyclothymia d. Mania",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-1528",
+        "query": "Persistent  and inappropriate repetition of response beyond the point of relevance is called <choices>  a. Thought insertion b. Thought block c. Perseveration d. Neologism",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-133738",
+        "query": "Features like increased psychomotor activity, waxy flexibility at time are seen classically in - <choices>  a. Simple schizophrenia b. Hebephrenic schizophrenia c. Catatonic schizophrenia d. None of the above",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-28366",
+        "query": "A 9 yr old child is restless. He is hyperactive and his teacher complains that he does not listen to the teachings. Disturbs other students, he also shows less interest in playing. The likely diagnosis is - <choices>  a. Cerebral palsy b. Attention deficit hyperkinetic child c. Delirium d. Mania",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-172701",
+        "query": "Capgras syndrome is - <choices>  a. Sharing of delusion b. Delusion of double c. Erotomania d. Hypochondriacal delusions",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-48505",
+        "query": "A 6 year old child who doesn't interact with other children of his age group and prefers playing alone in the same manner, is likely to be suffering from:- <choices>  a. Autism b. ADHD c. Depression d. Bipolar disorder",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-6767",
+        "query": "Transvestism is : <choices>  a. Wearing clothes of opposite sex b. Touching ones own private pas to others c. Desire for sexual intercourse with dead bodies d. Orgasm from visualisation pa of the body of a woman",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-98781",
+        "query": "Excessive sexual desire in males is known as - <choices>  a. Nymphomania b. Satyriasis c. Triabadism d. Sadism",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-95726",
+        "query": "In a patient with history of prolonged alcohol intake, seizures will occur after....of alcohol withdrawl:March 2012 <choices>  a. 4-6 hours b. 24-48 hours c. 2-4 days d. 4-7 days",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-105740",
+        "query": "Presently, classification of psychiatric illness is done by: <choices>  a. DSM-V b. ICD-10 c. Both of the above d. None of the above",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-66017",
+        "query": "Ekbom syndrome is referred to as: <choices>  a. Delusion of infestation b. Delusion of persecution c. Delusion of love d. Deletion of infidelity",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-51944",
+        "query": "Which of the following is given to a patient who is planned for ECT: September 2003 <choices>  a. Diazepam b. Phenytoin c. Muscle relaxant d. Barbiturate",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-95277",
+        "query": "Frustration is tolerated by: <choices>  a. Id b. ego c. super ego d. unconscious mind",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-9119",
+        "query": "Which of the following disease is seen only in females? <choices>  a. Autism b. Asperger's syndrome c. Retts disease d. Colard'd disease",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-5754",
+        "query": "In Alzheimer's disease (AD) which of the following is not seen: <choices>  a. Aphasia b. Acalculia c. Agnosia d. Apraxia",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-24779",
+        "query": "Delusions are characteristically seen in <choices>  a. Schziphrenia b. Delirium c. Dementia d. Depression",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-18309",
+        "query": "Delusions are seen in all of the following, Except - <choices>  a. Shizophrenia b. Depression c. Dementia d. Conversion Disorder",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-151288",
+        "query": "Schizophrenia with late onset and good prognosis <choices>  a. Simple SZP b. Hebephrenic c. Catatonic SZP d. Paranoid SZP",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-40146",
+        "query": "Obnoxious Smell and Olfactory hallucination is seen in lesions of: <choices>  a. Temporal lobe b. Frontal lobe c. Parietal lobe d. Occipital lobe",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-63434",
+        "query": "A man hits his neighbour next day he feels that police is behind him and his brain is being controlled by radio waves by his neighbour. The probable diagnosis is - <choices>  a. Personality disorder b. Passivity feeling c. Delusion of persecution d. Organic brain syndrome",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-51452",
+        "query": "All of the following agents are used in the treatment of alcohol dependence except: <choices>  a. Flumazenil b. Acamprosate c. Naltrexone d. Disulfiram",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-31864",
+        "query": "Drug used for reducing sex drive in sexual offenders <choices>  a. Penfluridol b. Trifluperidol c. Benperidol d. Molindone",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-61093",
+        "query": "Not true about narcolepsy - <choices>  a. Sleep sudden b. Long duration (>3 hrs) of sleep c. Cataplexy d. Presents in IInd decade",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-135865",
+        "query": "Feature associated with mania is - <choices>  a. Neologism b. Perseveration c. Echolalia d. Flights of ideas",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-27093",
+        "query": "A man came with his wife in psychiatric depament. She is complaining about his increased cleanliness. He keeps on washing hands in frequent intervals telling that its not clean. He wants everything in an ordered manner. He is becoming obsessive in everything and compelling everyone at home to follow him. Which of the following drug is most useful in this patient? <choices>  a. Amoxapine b. Fluoxetine c. Doxepin d. Dothiepin",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-23116",
+        "query": "An engineering student has difficulty to deliver seminar with a fear that his seniors are present despite knowing that they are supportive. He further has difficulty speaking in front of others and also avoids going to the parties. Which of the following is the most likely diagnosis? <choices>  a. Agoraphobia b. Claustrophobia c. Social phobia d. Acrophobia",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-34195",
+        "query": "A 60-year-old man is brought to a psychiatrist with a 10-year history, that he suspects his neighbors and he feels that whenever he passes by they sneeze and plan against behind his back. He feels that his wife has been replaced by a double and calls police for help. He is quite well-groomed ale, occasionally consumes alcohol, likely diagnosis is: <choices>  a. Paranoid personality b. Paranoid schizophrenia c. Alcohol withdrawal d. Conversion disorder",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-160597",
+        "query": "Agoraphobia is : <choices>  a. Getting caught in places from where escape would be difficult b. Fear of heights c. Fear of animals d. Fear of closed spaces",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-28942",
+        "query": "Which of the following is not seen in a case of borderline personality disorder? <choices>  a. Identity crisis b. Dissociative events c. Risk taking behaviour d. Strong interpersonal relationships",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-107289",
+        "query": "Defence mechanism shown by drug addicts is <choices>  a. Transformation b. Projection c. Repetition d. Denial",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-137894",
+        "query": "All are features of delirium except <choices>  a. Confusion b. Disorientation c. Hyperactivity d. Loss of memory",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-96084",
+        "query": "Most common hereditary cause of mental retardation <choices>  a. Fragile X syndrome b. Down's syndrome c. Frederich's ataxia d. Edward syndrome",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-169316",
+        "query": "Substance responsible for erection of penis - <choices>  a. Clomipramine b. Papaverine c. Buspirone d. Amitriptyline",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-151663",
+        "query": "Person preoccupied by worries about ill health is - <choices>  a. Hypochondriac b. Maniac c. Depressed d. Delirium",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-71628",
+        "query": "Di-acetyl morphine is - <choices>  a. Bhang b. Ganja c. Heroin d. Hashih",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-144515",
+        "query": "Patient with IQ of 60 has <choices>  a. Severe MR b. Profound MR c. Moderate MR d. Mild MR",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-41712",
+        "query": "Present in \"locked in\" syndrome <choices>  a. Cognition b. Movements c. Speech d. All of the above",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-83762",
+        "query": "Claustrophobia means : <choices>  a. Fear of heights b. Fear of lizards c. Fear of closed spaces d. Fear of open spaces",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-109664",
+        "query": "Extracampine hallucinations term was given by <choices>  a. Eugene Bleuler b. William Harvey c. Robo Macinoff d. Eden Speroff",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-36777",
+        "query": "Maximum score that can be obtained in MMSE is <choices>  a. 13 b. 30 c. 47 d. 55",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-40871",
+        "query": "Oneiroid state is: <choices>  a. Twilight state b. Dream like state c. Heightened state of consciousness d. Organic stupor or torpor",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-81765",
+        "query": "All are true about narcolepsy except: <choices>  a. Day dreaming b. Hypnagogic hallucinations c. Cataplexy d. Sudden sleep",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-44145",
+        "query": "Which of the following is a non - selective MAO inhibitor? <choices>  a. Moclobemide b. Rasagiline c. Selegiline d. Isocarboxazid",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-169186",
+        "query": "A 32-year-old man comes to physician complaining of excessive sleepiness for the past several months. He repos falling asleep while dealing with customers, had an almost accident when he fell asleep while driving The patient repos that he occasionally hears voices while falling asleep and finds himself \"temporarily frozen\" and unable to move on awakening.Which of the following is the most appropriate treatment for this patient? <choices>  a. Clonazepam b. Continuous positive airway pressure c. Melatonin d. Modafinil",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-9602",
+        "query": "SSRI is first line treatment for : <choices>  a. OCD b. Panic disorder c. Social phobia d. All",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-57602",
+        "query": "Which of the following is not true about bulimia nervosa <choices>  a. Invariable weight loss with endocrine disorders b. Occurrence of both binge eating and inappropriate compensatory behavior at least twice weekly, on an average, for 3 months c. Recurrent episodes of eating binges d. Recurrent self - induced vomiting",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-144737",
+        "query": "Panic attack is associated with a disturbance in all of the following neurotransmitters except: <choices>  a. Serotonin b. GABA c. Glutamate d. Dopamine, CCK, pentagastrin",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-169678",
+        "query": "Which of the following drug is used for Lithium induced tremors? <choices>  a. Add valproate b. Propranolol c. Trihexyphenidyl d. Tetrabenazine",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-112962",
+        "query": "Drug of choice for generalized anxiety - <choices>  a. p-blocker b. Alprazolam c. Buspirone d. Phenytoin",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-30835",
+        "query": "Which of the following is delusion - <choices>  a. Othello syndrome b. Rabbit's Syndrome c. Pyromania d. None",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-57372",
+        "query": "All of the following agents are used in the treatment of alcohol dependence, except - <choices>  a. Flumazenil b. Acamprosate c. Naltrexone d. Disulfiram",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-77789",
+        "query": "Kallu a 24 year old occasional alcoholic had got a change in behaviour. He has become suspicious that people are trying to conspire against him, though his father states that there is no reason for his fears. He is getting hallucinations of voices commenting on his actions what is most probable diagnosis - <choices>  a. Delirium tremens b. Alcohol induced psychosis c. Schizophrenia d. Delusional disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-69882",
+        "query": "A reluctant child forced to bring sugar from a shop spills half of it in the way. This is an example of: <choices>  a. Hysteria b. Passive aggression c. Disobedience d. Active aggression",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-78745",
+        "query": "A 41 year old woman working as an executive in a company is convinced that the management has denied her promotion by preparing false repos about her competence and have forged her signature on sensitive documents so as to convict her. She files a complaint in the police station and requests for security. Despite all this she attends to her work and manages the household. What is the most likely diagnosis:- <choices>  a. Paranoid schizophrenia b. Late onset psychosis c. Persistent delusional disorder d. Obsessive compulsive disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-8013",
+        "query": "Unfamiliarity of familiar things is seen in : <choices>  a. Deja vu b. Jamais vu c. Deja entendu d. Deja pence",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-43622",
+        "query": "One of the following is a reversible cause of dementia - <choices>  a. Toxic dementia b. Alzheimer's ds. c. Multi-infarct dementia d. Pick ds.",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-133398",
+        "query": "The percentage of Schizophrenia in First degree relatives is <choices>  a. 1.25% b. 2.40% c. 6.40% d. 4.35%",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-23782",
+        "query": "Oedipus complex is related to which phase of psychosexual development <choices>  a. Oral b. Anal c. Genital d. Phallic",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-40986",
+        "query": "acrophobia is fear of <choices>  a. heights b. Snakes c. Cats d. death",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-120848",
+        "query": "A 23 year old boy with schizophrenia is well maintained on risperidone for the last 2 months. He has no family history of the disease. For how long will you continue treatment in this patient? <choices>  a. 5 years b. 6 months c. 2 years d. 12 months",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-57960",
+        "query": "All are true about Delirium tremons Except <choices>  a. Severe depression b. Hallucination c. Extreme anxiety d. Delusion",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-147691",
+        "query": "A 41 -year-old woman presented with a history of aches and pains all over the body and generalized weakness for four years. She cannot sleep because of the illness and has lost her appetite as well. She has lack of interest in work and doesn't like to meet friends and relatives. She denies feelings of sadness. Her most likely diagnosis is <choices>  a. Somatoform pain disorder b. Major depression c. Somatization disorder d. Dissociative disorder",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-97062",
+        "query": "Relaxis pad is used in:- <choices>  a. Nocturnal enuresis b. Restless leg syndrome c. Narcolepsy d. Panic disorder",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-93109",
+        "query": "If a person is asked, \"what will he do if he sees a house on fire\"?, Then what is being tested in that person ? <choices>  a. Social judgement b. Test judgement c. Response judgement d. None of the above",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-112313",
+        "query": "Naltrexone is used in opioid dependene to <choices>  a. Prevent respiratory depression b. Treat withdrawal symptoms c. Prevent relapse d. Treatment of opioid overdose",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-41500",
+        "query": "which of following SSRI used in the panic disorder <choices>  a. paroxetine b. clomipraamine c. imipramine d. trazadone",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-69554",
+        "query": "Drug of choice for rapid cycles of bipolar disorder is <choices>  a. Valproate b. Lithium c. Haloperidol d. Chlorpromazine",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-157008",
+        "query": "Person always has sexual thoughts & unacceptable sexual desire. He became a painter & picturized his thoughts by making nude paintings and sold them. This is an example of <choices>  a. Acting out b. Intellectualization c. Sublimation d. Inhibition",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-7356",
+        "query": "FALSE statement about Hallucinations <choices>  a. Perceived as not real b. Appears to be coming from external world c. Sensory organs are not involved d. It occurs in the absence of perceptual stimulus",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-40745",
+        "query": "5-HIAA (Hydroxyindoleacetic Acid) is a metabilite of which of the following neurotransmitters? <choices>  a. Noradrenaline b. Serotonin c. GABA d. Glutamine",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-133845",
+        "query": "Which is the stage of sleep in which we spend maximum time? <choices>  a. Stage N1 b. Stage N2 c. Stage N3 d. REM",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-2513",
+        "query": "Patient can hear music every time when he turns on the tap and hears the sound of water. This is an example of : <choices>  a. Reflex hallucination b. Functional hallucination c. Visual hallucination d. 1st person auditory hallucination",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-64612",
+        "query": "Male staed alcohol .0 years, presently taking 3 quaers daily over 3i, ,ears, now complains that he gets the kick in 1 quaer, diagnosis is: <choices>  a. Withdrawal b. Mellanby phenomenon c. Reverse tolerance d. Cross tolerance",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-134341",
+        "query": "Chorea with Schizophrenic symptoms, diagnosis is: <choices>  a. Cruetzfeld Jacob disease b. Lewybody disease c. Parkinson's disease d. Huntington's disease",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-35434",
+        "query": "Therapeutic dose of Lithium is <choices>  a. l-2mEq/lit b. 0.8-1.2 mEq/lit c. 0.3-0.6 mEq/lit d. 2-3 mEq/lit",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-92140",
+        "query": "Which type of Schizophrenia carries the best prognosis <choices>  a. Simple b. Catatonic c. Hebephrenic d. Paranoid",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-158238",
+        "query": "True about schizophrenia -a) Thought broadcastingb) Third person hallucinationc) Makes violenced) Elated moode) Takes good self care <choices>  a. ab b. bc c. abc d. bcd",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-181646",
+        "query": "Dissociative Fugue is characterised by <choices>  a. Wandering away from home b. Irreversible amnesia c. Gradual recovery d. Normal recall",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-142812",
+        "query": "Agoraphobia is associated with <choices>  a. OCD b. Bipolar disorders c. Stress disorders d. Panic disorders",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-28472",
+        "query": "Bipolar II disorder includes ? <choices>  a. Cyclothymic disorder b. Dysthymia c. Single maniac episode d. Major depression and hypomania",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-38285",
+        "query": "Confabulation is typically seen in <choices>  a. Mania b. Depression c. Alcoholism d. Delirium",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-132962",
+        "query": "Geeta is preoccupied about her ear size and repeatedly looks into the mirror. She is possibly suffering from? <choices>  a. Obsessive compulsive disorder b. Dysmorphophobia c. Normal behaviour d. Hypochondriacal delusion",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-157228",
+        "query": "All of the following are parts of cognitive behaviour change technique except - <choices>  a. Pre-contemplatation b. Consolidation c. Action d. Contemplation",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-11246",
+        "query": "Stroke is common in - <choices>  a. Mania b. Depression c. Bipolar disorder d. Schizophrenia",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-47121",
+        "query": "Stimulation of which of the following nerve causes an elevation in the mood - <choices>  a. Olfactory N b. Optic N c. Trigeminal N d. Vagus N",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-1893",
+        "query": "A patient of Schizophrenia was staed on neuroleptics, his psychotic symptoms began to improve however he developed sadness, would talks less to others, would mostly remain to bed. This presentation could be caused by all of following except: <choices>  a. Parkinsonism b. Major depression c. Negative symptoms are still persisting d. He is reacting to external stimuli",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-41725",
+        "query": "Drug of choice for Generalised anxiety disorder <choices>  a. Benzodiazepines b. Buspirone c. Seraline d. Olanzapine",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-158600",
+        "query": "Who introduced cocaine in psychiatry? <choices>  a. Freud b. Jung c. Miller d. Stanley",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-49014",
+        "query": "A 25 year old university student had a fight with the neighbouring boy. On the next day, while out, he started feeling that two men in police uniform were observing this movement. When he reached home in the evening he was frightened. He expressed that police was after him and would arrest him. His symptoms represent - <choices>  a. Delusion of persecution b. Ideas of reference c. Passivity d. Thought insertion",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-84018",
+        "query": "Not a feature of paradoxical sleep is - <choices>  a. Decreased muscle tone b. Rapid eye movements c. Brain shows increased metabolism d. EEG shows decreased activity",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-55631",
+        "query": "Haloperidol induced extarpyramidal side effects are treated by - <choices>  a. Benzodiazepines b. Barbiturates c. Anticholinergic drugs d. SSRIs",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-111546",
+        "query": "Drug of choice for rapid cycling MDP is <choices>  a. Lithium b. Carbamazepine c. Sodium valporate d. Haloperidol",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-151794",
+        "query": "A 30-year-old woman mentions that the trunk of a paicular tree near her apament looks like face of lord Ram She can see the face of lord Ram every time when she walks past that tree but not on the other trees. This phenomenon is known as? <choices>  a. Delusional misidentification b. Delusion of reference c. Illusion d. Visual hallucination",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-147647",
+        "query": "According to ICD 10, the symptoms of schizophrenia should persist for how long for its diagnosis? <choices>  a. 2 months b. 1 month c. 6 months d. 2 weeks",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-87257",
+        "query": "A person believes that he is passing semen in urine and that results in physical & mental weakness Diagnosis: <choices>  a. Koro b. Latah c. Dhat syndrome d. Munchausen syndrome",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-40888",
+        "query": "Double depression is <choices>  a. Depression with 2 episodes b. Depression with Dysthymia c. Depression for 2 weeks/2years d. Dysthymia",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-87969",
+        "query": "All of the following are criteria for substance dependence except: <choices>  a. Repeated unsuccessful attempts to quit the substance b. Recurrent substance related legal problems c. Characteristic withdrawal symptoms; substance taken to relieve withdrawal d. Substance taken in larger amount and for longer than intended",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-81476",
+        "query": "Best test for diagnosis of organic mental disorder: <choices>  a. Sentence completion test b. Bender-Gestalt test c. Rorschach test d. Thematic appreciation test",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-113210",
+        "query": "ECT is not useful in treatment of <choices>  a. Chronic Schizophrenia b. Catatonic Schizophrenia c. Endogenous depression d. Acute psychosis",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-7616",
+        "query": "Which of the following is not a culture bound syndrome <choices>  a. Amok b. Latah c. Dhat d. Von-Gogh",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-66766",
+        "query": "Somnambulism is mostly seen in which age group? <choices>  a. Children b. Adolescents c. Adults d. All age group",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-149752",
+        "query": "Delusion is not present in - <choices>  a. Delirium b. Mania c. Depression d. Compulsive disorder",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-165125",
+        "query": "Feeling of creeping insects is seen in <choices>  a. Alcohol withdrawl b. Lead Poisoning c. Schizophrenia d. Cocaine abuse",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-3773",
+        "query": "Most common hallucination in schjizophrenia is: <choices>  a. Auditory b. Visual c. Olfactory d. Tactile",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-19191",
+        "query": "Bad trips are characteristically associated with the addiction of <choices>  a. Cannabis b. Cocaine c. Morphine d. LSD",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-31135",
+        "query": "Which type of memory is relatively unaffected in delirium? <choices>  a. Recent memory b. Remote memory c. Immediate memory d. None of the above",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-124744",
+        "query": "Gustatory hallucinations can be associated with which of the following condition? <choices>  a. PTSD b. Grand mal epilepsy c. Temporal lobe epilepsy d. Alcohol use disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-57617",
+        "query": "What is a hypnopompic hallucination <choices>  a. If experienced while falling asleep b. If experienced while awakening c. After head trauma d. After convulsion",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-19304",
+        "query": "Hallucinations are seen in all except - <choices>  a. Schizophrenia b. Seizure due to intracerebral space occupying lesions c. LSD d. Anxiety",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-48331",
+        "query": "A 25 year old female says her jawline is too long. Her husband and family members do not feel the same. She consulted many plastic surgeons but none of them advised any modification. What is she suffering from? <choices>  a. Body Dysmorphic disorder b. Hypochondriasis c. Somatization disorder d. Delusional disorder",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-139570",
+        "query": "Narcolepsy is due to abnormality in - <choices>  a. Hypothalamus b. Neocortex c. Cerebellum d. Medullaoblongata",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-34847",
+        "query": "Clouding of Consiousness is seen in: <choices>  a. Dementia b. Delirium c. Delusion d. Hallucination",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-99090",
+        "query": "Most common hallucination in schizophrenia is? <choices>  a. Tactile b. Visual c. Somatic d. Auditory",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-155290",
+        "query": "Grossly disorganised, severe personality deterioration is seen is - <choices>  a. Hebephrenic b. Catatonic c. Simple d. Paranoid",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-114151",
+        "query": "Confabulation is typically seen in: <choices>  a. Mania b. Depression c. Alcoholism d. Delirium",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-58401",
+        "query": "Perception without stumuli is <choices>  a. Delusion b. Illusion c. Hallucination d. Delirium",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-108807",
+        "query": "Rorschach test is done with <choices>  a. Symmetric ink blots b. Asymmetric ink blots c. Counting numbers backwards d. Subtractions with odd numbers",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-86944",
+        "query": "Which of the following antiepileptic can be used in the management of alcohol withdrawal symptoms? <choices>  a. Phenytoin b. Carbamazepine c. Valproate d. Topiramate",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-136066",
+        "query": "40 year old lady is admitted to the casualty with abdominal pain and vomiting. She repos as able to hear people conspiring to harm her. The visual hallucinations staed along with the abdominal pain following the use of barbiturates. The most likely diagnosis is? <choices>  a. Acute Intermittent Porphyria b. Ketoacidosis c. Hypehyroidism d. Conversion Disorder",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-149113",
+        "query": "Characteristic of obsession are all EXCEPT: <choices>  a. Repetitive behavior b. Abstract thinking c. Ego dystonic d. Compulsion",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-67458",
+        "query": "A female treatment for depression took a massive dose of amitriptyline for suicide. Which of the following is wrong regarding management for her <choices>  a. Gastric lavage was done b. Sodium bicarbonate was administered to treat acidosis c. Atropine sulphate was administered as an antidote d. Diazepam was injected to control seizures.",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-15313",
+        "query": "Total score in standard minimental status examination (MMSE) is <choices>  a. 25 b. 30 c. 32 d. 35",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-43845",
+        "query": "Which of the following is a feature of Haloperidol toxicity? <choices>  a. Weight loss b. Sweating c. Akathisia d. Diarrhoea",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-135311",
+        "query": "All are seen in morphine poisoning except - <choices>  a. Cyanosis b. Pinpoint pupil c. Hypertension d. Respiratory depression",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-47061",
+        "query": "All of the following are pas of cognitive behavior change technique except: <choices>  a. Pre-contemplation b. Consolidation c. Action d. Contemplation",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-51750",
+        "query": "Persistent preoccupation with serious illness and normal body function is called - <choices>  a. Obsession b. Somatization c. Hypochondriasis d. Conversion disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-50107",
+        "query": "Not true about nocturnal penile tumescence is - <choices>  a. Totals about 100 min / night b. Normal phenomenon c. Occurs in NREM sleep d. Can be used to distinguish between psychological or organic impotence",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-19785",
+        "query": "A 24-year-old woman has clear evidence of bipolar disorder. An adequate trial of lithium therapy has proved unsuccessful. Which of the following drugs would be most reasonable for her psychiatrist to prescribe next? <choices>  a. Chlorpromazine b. Carbamazepine c. Alprazolam d. Amitriptyline",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-154002",
+        "query": "Rett's syndrome is characterized by all except: <choices>  a. Regression of acquired sills b. Breath holding spells c. Autistic behavior d. Macrocephaly",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-103478",
+        "query": "Leaden paralysis is seen in <choices>  a. Severe depression b. Melancholic depression c. Atypical depression d. Narcolepsy",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-39538",
+        "query": "Which of the following is the drug of choice in obsessive compulsive disorder? <choices>  a. Olanzapine b. Fluoxetine c. Alprazolam d. Chlorpromazine",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-146438",
+        "query": "Hallucination which occur at sta of sleep are known as ? <choices>  a. Hypnogogic hallucination b. Hypnopompic hallucination c. Jactatio capitis nocturna d. Reflex hallucinations",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-104506",
+        "query": "All are relatively normal in Korsakoff's psychosis except: <choices>  a. Implicit memory b. Intelligence c. Language d. Learning",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-18217",
+        "query": "Delirium tremens is seen in - <choices>  a. Alcohol withdrawal b. Alcoholoverdoses c. Morphine poisoning d. Atropine poisoning",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-147945",
+        "query": "All are true about Neuroleptic Malignant syndrome except <choices>  a. Decreased CPK b. Myoclonus c. Hyperthermia d. Increased BP",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-100000",
+        "query": "Pappu, a 49-year male complained of sudden onset of palpitation and apprehension. He is sweating for last 10 minute and fears of impending death. Diagnosis is - <choices>  a. Hysteria b. Cystic fibrosis c. Panic attack d. Generalized anxiety disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-26976",
+        "query": "Repressor is present in which part of mind? <choices>  a. Consicous b. Preconscious c. Unconscious d. Superconscious",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-165488",
+        "query": "Atypical (Second generation or newer) antipsychotics are: <choices>  a. Aripiprazole b. Risperidone c. Olanzapine d. All",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-178292",
+        "query": "Tricyclic Anti depressant are contraindicated in <choices>  a. Glucoma b. Brain Tumor c. Bronchial Asthma d. Hypeension",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-116814",
+        "query": "Delirium tremens is characteristically seen in <choices>  a. Chronic alcoholism b. B2 deficiency c. B12 deficiency d. Niacin deficiency",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-3306",
+        "query": "An individual with a known psychiatric disorder or on treatment and is not a minor can chose to decide the care taker and the course of treatment according to mental health act. This is called: <choices>  a. Advance directive b. Treatment directive c. Mental will d. Future directive",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-136285",
+        "query": "Congenital Anomaly produced by lithium therapy is <choices>  a. Limb shoening b. Anencephaly c. Hea Block d. Renal Agenesis",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-134544",
+        "query": "Defence mechanism in OCD - <choices>  a. Progression b. Regression c. Magical thinking d. Reaction formation",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-30595",
+        "query": "Characteristic feature of Schizoid personality is <choices>  a. Conversion reaction b. Not concerned with disease c. Checks details of all things d. Emotional coldness",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-15994",
+        "query": "Antipsychotic drug with maximum hypotensive effect - <choices>  a. Fluphenazine b. Trifluperazine c. Thioridazine d. Haloperidol",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-169421",
+        "query": "Who gave the basic concepts of \"Analytical Psychology\"? <choices>  a. Sigmond Freud b. Erik erikson c. Anna Freud d. Carl Jung",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-29739",
+        "query": "Lithium is treatment of choice for -\na) Unipolar MDP prophylaxis\nb) Bipolar MDP prophylaxis\nc) Schizophrenia\nd) Acute mania <choices>  a. abc b. bd c. bcd d. ac",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-65199",
+        "query": "Typical change in problem behaviour shows how many stages <choices>  a. 2 b. 3 c. 4 d. 5",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-25831",
+        "query": "\"Attributing one's unacceptable feelings to others\" is known as <choices>  a. Projection b. Sublimition c. Dissosiation d. Reaction formation",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-95182",
+        "query": "All of the following are typical autonomic side effects of antipsychotic drugs EXCEPT: <choices>  a. Constipation b. Dry mouth and throat c. Postural hypeension d. Urinary retention",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-54927",
+        "query": "Characteristic symptoms of catatonic schizophrenia is <choices>  a. Stuptor b. Rigidity c. Negativism d. All of the above",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-105069",
+        "query": "Narcolepsy is due to abnormality in <choices>  a. Hypothalamus b. Neocoex c. Cerebellum d. Medulla oblongata",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-139275",
+        "query": "Ganser syndrome is Frequently seen in: <choices>  a. Doctors b. Rape victims c. Prisoners d. Lawyers",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-81242",
+        "query": "Apraxia is a disorder of: <choices>  a. Cerebellum b. Sensory system c. Motor system d. Initiating and planning movement",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-110494",
+        "query": "Coprolalia is an impoant symptom for which of the following disorder ? <choices>  a. Anxiety disorder b. Avoidant personality disorder c. Tourette's disorder d. Stereotypic movement disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-109869",
+        "query": "The antisocial disorder is characterized by <choices>  a. Excessive sensitivity to suspiciousness b. Emotional coldness, lack of pressure c. Unconcern for feeling for others, disregard for social norms d. Self dramatization, exaggerated expression of emotions",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-47351",
+        "query": "Scatologia is? <choices>  a. Eating disorder b. Sleep disorder c. Paraphilia d. Defense mechanism",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-89503",
+        "query": "Agoraphobia is - <choices>  a. Fear of closed space b. Fear of crowds c. Fear of death d. Fear of fire",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-171291",
+        "query": "\"Magical thinking\" is characteristically seen in <choices>  a. Shizophrenia b. Obsessive Compulsive Disorder c. Schizotypal personality d. Anxiety disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-127359",
+        "query": "Which of the following is/are included in bipolar disorders: <choices>  a. Hypomania b. Cyclothymia c. Paranoid disorder d. Option 1 and 2",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-155264",
+        "query": "Visual hallucinations is seen in : <choices>  a. Alcoholism b. Mania c. Depression d. Phobia",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-140738",
+        "query": "Who coined the term \"Psychiatry\"? <choices>  a. Johann Christian Reil b. Sigmund Freud c. Erik Erikson d. Carl Jung",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-76049",
+        "query": "Learning involves all except, <choices>  a. Modeling b. Catharsis c. Response prevention d. Exposure",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-5659",
+        "query": "Which of the following is the most significant component of a behavioral program developed to help a mother deal with a child having oppositional defiant disorder? <choices>  a. Positive reinforcement b. Punishment c. School suspension d. Strict parenting",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-61676",
+        "query": "Which of the following pa of brain is commonly involved in the pathology of Wernicke's encephalopathy? <choices>  a. Mamillary body b. Frontal coex c. Pituitary gland d. Temporal lobe",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-89377",
+        "query": "Delirium tremens is seen in <choices>  a. Alcohol withdrawal b. Alcohol overdoses c. Morphine poisoning d. Atropine poisoning",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-170522",
+        "query": "In which of the following delusion of infidelity is seen? <choices>  a. De Clerambault' S syndrome b. Othello syndrome c. Couvade syndrome d. Ekbom's syndrome",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-19559",
+        "query": "Not a feature of dementia is - <choices>  a. Loss of sensorium b. Wearing of dirty clothes c. Forgetfulness d. Loss of neurons in brain matter",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-32749",
+        "query": "A 14 year old boy has difficulty expressing himself in writing and makes frequent spelling mistakes, does not follow instruction and cannot wait for his turn while playing a game. He is likely to be suffering from - <choices>  a. Mental retardation b. Lack of interest in studies c. Specific learning disability d. Examination anxiety",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-165818",
+        "query": "The Psycho Social stages/ Eight-stage ego development across the life cycle is the centre piece of whose life work? <choices>  a. Sigmund freud b. Pavel c. Strauss d. Erik H Erikson",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-71324",
+        "query": "General adaptation syndrome is seen in: <choices>  a. Stressful situations b. Anxiety c. Panic attacks d. Depression",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-63967",
+        "query": "Which is not true about hallucination - <choices>  a. It is as vivid as normal stimulus b. It occurs in inner subjective space c. It is independent of will of observer d. It occurs in absence of perceptual stimuli",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-141026",
+        "query": "Which of the following symptom is likely to be of organic origin? <choices>  a. Delusion of guilt b. Auditory hallucinations c. Formal thought disorder d. Prominent visual hallucination",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-92648",
+        "query": "A 30 year old unmarried woman from a low socioeconomic status family believes that a rich boy staying in her neighbourhood is in deep love with her. The boy clearly denies his love towards this lady. Still the lady insists that his denial is a secret affirmation of his love towards her. She makes desperate attempts to meet the boy despite resistance from her family. She also develops sadness at times when her effo to meet the boy does not materialize. She is able to maintain her daily routine. She however, remains preoccupied with the thoughts of this boy. She is likely to be suffering from : <choices>  a. Delusional disorder b. Depression c. Mania d. Schizophrenia",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-8218",
+        "query": "Which of the following features is not included in psychosis <choices>  a. Panic attack b. Delusion c. Hallucination d. Hypochondriasis",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-45569",
+        "query": "Persons with intermittent explosive disorder generally display all of the following except? <choices>  a. Aggressive outbursts and violence b. Destruction of propey c. Remorse, regret and embarrassment about their actions d. Bulimia",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-7167",
+        "query": "Squeeze technique is used for? <choices>  a. Retrograde ejaculation b. Premature ejaculation c. Erectile dysfunction d. UTI",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-150005",
+        "query": "A cognitive model of depression is given by - <choices>  a. Ellis b. Beck c. Godfrey d. Meicheinbanon",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-9109",
+        "query": "True about Trichotillomania is <choices>  a. Irresistible desire to set fire b. Irresistible desire to steal things c. Associated with patchy hair loss d. Pathological gambling",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-18489",
+        "query": "Negative symptom of schizophrenia ? <choices>  a. Hallucination b. Delusion c. Ambivalance d. Motor hyperactivity",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-147920",
+        "query": "Negative symptom of schizophrenia - <choices>  a. Hallucination b. Delusion c. Ambivalance d. Motor hyperactivity",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-6275",
+        "query": "Drugs used for prophylaxis in BPD -a) Chlorpromazineb) Lithiumc) Carbamazepined) Zolpideme) Sodium valproate <choices>  a. ab b. bc c. bce d. ace",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-26614",
+        "query": "A 24-year-old patient with schizophrenia tells the physician that he believes that CIA is listening to his telephone conversations through his television set. Despite being told multiple times by family members, he remains firm on his belief. This patient is describing <choices>  a. a hallucination b. an illusion c. clouding of consciousness d. delusion",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-158174",
+        "query": "Pagophagia involves eating ? <choices>  a. Ice b. Sand c. Clay d. Salt",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-80280",
+        "query": "False sense of perception without any external object or stimulus is known as : <choices>  a. Illusion b. Impulse c. Hallucination d. Phobia",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-171154",
+        "query": "All the follow ing are used in theTreatment of Enuresis except <choices>  a. Desmopressin b. Imipramine c. Nortrptiline d. Spironolactone",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-86999",
+        "query": "Strong belief about something but which lacks complete conviction <choices>  a. Delusion b. Phobia c. Obsession d. Over valued belief",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-122291",
+        "query": "Regarding Rett's syndrome false is <choices>  a. Microcephaly at birth b. X - linked c. Poor social interaction d. Stereotypical hand movements",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-10713",
+        "query": "A patient diagnosed with depression on treatment came to emergency with altered sensorium seizures, palpitations and ECG showing sinus tachycardia. How do you treat this patient? <choices>  a. Aspirin + clopidogrel b. IV Lorazepam c. IV Sodium bicarbonate d. IV Haloperidol",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-132848",
+        "query": "Disulfiram is a type of:- <choices>  a. Aversion therapy b. Anticraving therapy c. Detoxification d. Opioid management therapy",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-173803",
+        "query": "A patient wanting to scratch for itching in his amputated limb is an example of: <choices>  a. Phantom limb hallucination b. Reflex hallucination c. Illusion d. Pseudo hallucination",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-2829",
+        "query": "A 70 year old female with psychiatric symptoms diagnosed of having schizophrenia. Which is the poor prognostic factor in schizophrenia? <choices>  a. Acute onset b. Middle age c. Family history of affective disorder d. Gradual onset",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-142411",
+        "query": "A 24 year girl named Heena is often fla1mboyantly dressed and goes out on dates frequently. Although she changed boyfriend almost monthly, bat she used to plan her marriage and future with each of them with equal enthusiasm and optimism. She would often make stories to seek attention. She would feel uncomfoable at big paies leave them midway.Heena made promises to other people that were impossible to keep but seemed to be aimed at winningtheir approval; when she broke the promise, she usually made up a story designed to elicit sympathy and compassion. Diagnosis is <choices>  a. Borderline personality disorder b. Histrionic personality disorder c. Dependent personality disorder d. Antisocial personality disorder",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-116051",
+        "query": "Delusion that someone from high socio economic status is loving you is in : <choices>  a. Othello syndrome b. Capgras syndrome c. De Clerambault syndrome d. Franklin syndrome",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-3466",
+        "query": "Which of the following best describes paradoxical suicide? <choices>  a. Suicide after taking low dose of drug b. Suicide occurring at the time when the pt. stas to recover c. Suicidal tendency increase as the patient improves d. Accidental completion of suicide",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-138305",
+        "query": "A 16 year old male is found to have a mental age of 9 years on I.Q. testing. He has - <choices>  a. Mild mental retardation b. Moderate mental retardation c. Severe mental retardation d. Profound mental retardation",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-92440",
+        "query": "All are adulterants of Heroin, except - <choices>  a. Chalk powder b. Quinine c. Charcoal d. Fructose",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-170853",
+        "query": "Features of lewy body dementia are all except: <choices>  a. Recurrent visual hallucination b. Spontaneous motor feature c. Autonomic dysfunction d. Fluctuating cognition",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-53171",
+        "query": "Psychoanalysis was staed by ? <choices>  a. Eugen Bleuler b. Sigmund Freud c. Bleuler d. Erikson",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-27735",
+        "query": "A 41 - year - old woman presented with a history of aches and pains all over the body and generalized weakness for four years. She cannot sleep because of the illness and has lost her appetite as well. She has lack of interest in work and doesn't like to meet friends and relatives. She denies feelings of sadness. Her most likely diagnosis is: <choices>  a. Somatoform pain disorder b. Major depression c. Somatization disorder d. Dissociative disorder",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-19919",
+        "query": "Eugene Bleuler's four 'A' of schizophrenia are all except- <choices>  a. Autism b. Affect c. Anhedonia d. Association",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-108266",
+        "query": "Hallucinations experienced outside the sensory field limit are called. <choices>  a. Extracampine Hallucination b. Kinesthetic Hallucination c. Reflex Hallucination d. Functional Hallucination",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-118915",
+        "query": "Which of the following doesn't resemble panic attack? <choices>  a. Hypoglycemia b. GTCS c. Myocardial infarction d. Temporal lobe epilepsy",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-111437",
+        "query": "Most common presentation of obsessive compulsive disorder in adult is <choices>  a. Symmetry b. Sexual thoughts c. Pathological doubt d. Aggression",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-46201",
+        "query": "A 42 year old male with a past history of a manic episode presents with an illness of 1 month duration characterized by depressed mood, anhedonia and profound psychomotor retardation. The most appropriate management strategy is prescribing a combination of:- <choices>  a. Antipsychotics and antidepressants b. Antidepressants and mood stabilizers c. Antipsychotics and mood stabilizers d. Antidepressants and benzodiazepines",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-46899",
+        "query": "Which of the following waves are seen during meditation? <choices>  a. α b. β c. γ d. δ",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-112301",
+        "query": "A 22 year old female was brought to OPD with loss of speech from 2 days after her husband has slapped her. On examination cough reflex and laryngeal reflex were normal. The most probable diagnosis: <choices>  a. Somatization disorder b. Conversion disorder c. Dissociative fugue d. Depersonalization",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-64791",
+        "query": "Dementia of Alzheimer's type is not associated with one of the following - <choices>  a. Depressive symptoms b. Delusions c. Apraxia and aphasia d. Cerebral infarcts",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-99040",
+        "query": "A person laughs to a joke, and then suddenly loses tone of all his muscles. Most probable diagnosis of this condition is? <choices>  a. Cataplexy b. Catalepsy c. Cathexis d. Cachexia",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-2223",
+        "query": "False about Neurotic disorders <choices>  a. Aware of reality b. Delusion absent c. Hallucination absent d. Loss of insight",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-60003",
+        "query": "Which of the following can cause delirium - <choices>  a. Hypoxia b. Barbiturates c. Alcohol withdrawal d. All of the above",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-170519",
+        "query": "A 37 year old female was diagnosed with paranoid schizophrenia. Her husband wanted to know about the poor prognostic factors. Which of the following is a poor prognostic factor? <choices>  a. Married b. Female gender c. Absence of precipitating factors d. Family h/o mood disorders",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-2501",
+        "query": "Hypnagogic hallucinations are seen in <choices>  a. Depression b. Mania c. Narcolepsy d. Schizophrenia",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-118178",
+        "query": "Pathognomonic of maniac episode is <choices>  a. Elevated mood b. Grandiosity c. Decreased appetite d. Increased sleep",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-174725",
+        "query": "Formication and delusion of persecution occurs together in intoxication with which of the following? <choices>  a. Cocaine b. Amphetamine c. Cannabis d. LSD",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-122015",
+        "query": "Post traumatic stress disorder is characterized by all except- <choices>  a. Flash back and night mare b. Severe traumatic injury c. Re - experiencing stressful events d. It doesn't develop after 6 months of stress",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-42317",
+        "query": "Which of the following is not associated with panic disorder? <choices>  a. Agoraphobia b. Anticipatory anxiety c. Panic attacks d. Flash backs",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-54700",
+        "query": "Which of the following statement is false regarding bulimia nervosa? <choices>  a. Weight is normal b. Common in females c. Onset in early adulthood d. Mortality is high",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-49213",
+        "query": "An appropriate pre-Lithium work-up includes all of the following, EXCEPT: <choices>  a. Erythrocyte sedimentation rate b. Serum creatinine c. Thyroid-stimulating hormone (TSH) d. Serum electrolytes",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-51419",
+        "query": "Which of the following therapies are used in the treatment of OCD? <choices>  a. Exposure and response prevention b. Flooding c. Systemic desensitization d. All of the above",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-166935",
+        "query": "A 52-year-old man with no history of psychiatric illness in past presents with recent onset of disorientation, fluctuating mental status, abnormal autonomic signs, tremor, and seeing \"little snakes\" in his house. He has no known history of substance abuse. What is the most likely diagnosis? <choices>  a. Schizophrenia b. Dementia c. Delirium d. Depression with psychotic features",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-76994",
+        "query": "all are cluster c personality disorders except <choices>  a. anakastic b. anxious c. schizotypal d. dependent",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-99308",
+        "query": "Many of our bad habits of day to day life can be removed by: <choices>  a. Positive conditioning b. Negative conditioning c. Bio feed back d. Generalization",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-117063",
+        "query": "Which of the following is not seen in a hyperkinetic child? <choices>  a. Aggressive outbursts b. Decreased attention span c. Left to right disorientation d. Soft neurological signs",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-33855",
+        "query": "Which of the following is thought disorder? <choices>  a. Circumstantiality b. Tangentiality c. Prolixity d. All of the above",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-25336",
+        "query": "Prevalence of Schizophrenia is highest among which of the following <choices>  a. Non twin siblings b. Child with h/o Schizophrenia in both parents c. Dizogytic twins d. Monozygotic twins",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-54756",
+        "query": "True about major depression is <choices>  a. Common in males b. Markedly diminished interest in all activities most of the day but no fatigue or loss of energy or psychomotor retardation c. Feeling of wohlessness or excessive guilt d. All",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-62730",
+        "query": "The following questionnaire is sued for screening <choices>  a. Alcoholism b. Tobacco use c. IV drug abuse d. All of the above",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-178783",
+        "query": "In catatonic schizophrenia, all are seen except : <choices>  a. Mannerism b. Negativism c. Echolalia d. Flight of ideas",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-139123",
+        "query": "True statement regarding delirium includes <choices>  a. Insidious onset b. Clear consciousness c. Irreversible d. Decreased attention",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-130153",
+        "query": "Treatment of choice of bipolar mood disorder - <choices>  a. Imipramine b. Lithium c. Chlorpromazine d. Fluoxetine",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-21712",
+        "query": "True about anorexia nervosa is all except <choices>  a. Binge eating is common b. Unknown in male c. Ammenorrhoea stas before severe loss of weight d. Self-induced vomiting",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-178881",
+        "query": "Ekbom's syndrome is seen in <choices>  a. Cocaine intoxication b. Amphetamine c. Severe depression d. Acute psychosis",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-33551",
+        "query": "Reversible cause of dementia <choices>  a. Hypothyroidism b. Alzheimer's disease c. None d. Vitamin A deficieny",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-32039",
+        "query": "A middle-aged man complains of lack of sleep during the night time. The duration of the time he is truly asleep or awake can be asceained by which of the following? <choices>  a. Barograph b. Kymograph c. Actigraphy d. Plethysmography",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-336",
+        "query": "Reversible cause of dementia is - <choices>  a. Alzheimer's disease b. Parkinsonism c. Hypothyroidism d. Vascular dementia",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-28992",
+        "query": "MMSE is used for the diagnosis of : <choices>  a. Alzheimer's disease b. Schizophrenia c. Depression d. Anxiety disorders",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-168485",
+        "query": "Oneiroid state is : <choices>  a. Same as stupor b. Dream like state c. Characterized by heightened state of consciousness d. Same as Torpor",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-116192",
+        "query": "The drug which is used for long-term maintenance in opioid addiction <choices>  a. Naloxone b. Nalorphine c. Butarphanol d. Methadone",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-177782",
+        "query": "DOC for schizophrenic patient with poor oral absorption is? <choices>  a. Clozapine b. Fluphenazine c. Sulpride d. Penfluridol",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-114341",
+        "query": "Which of the following is not a cognitive error/dysfunction : <choices>  a. Catastrophic thinking b. Arbitrary inference c. Overgeneralization d. Thought block",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-161724",
+        "query": "Behaviour Therapy is not useful in <choices>  a. Phobia b. Hysteria c. Stuttering d. OCD",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-3633",
+        "query": "Term psychoanalysis was coined by? <choices>  a. Eysenck b. Freud c. Jung d. Adler",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-95362",
+        "query": "Loss of capability of doing goal-directed things, to express ideas, making irrelevant comments, but ultimately succeeding in going back to the original point is known as - <choices>  a. Commnentalism b. Tangentiality c. Dysprosodia d. Circumstantiality",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-12211",
+        "query": "Sodomy is punishable under:NEET 14 <choices>  a. Sec. 354 IPC b. Sec. 375 IPC c. Sec. 377 IPC d. Sec. 378 IPC",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-53475",
+        "query": "negative reinforcrmrnt was given by <choices>  a. jean piaget b. B F Skinner c. braid d. mary ainswoh",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-3493",
+        "query": "An 8 year old child has shown of lack of interest in studies for last 6 months. He has frequent quarrels with his parents and has frequent headaches as anexcuse to avoid school. What would be the most appropriate clinical diagnosis in this patient? <choices>  a. Rule out migraine b. Rule out depression c. Rule out an oppositional defiant disorder d. Leave him as normal adolescent problem",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-142262",
+        "query": "Mania is characterized by -a) Paranoid delusionb)  Loss of orientationc) High self esteemd) Loss of insight <choices>  a. abc b. ad c. bc d. acd",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-93394",
+        "query": "A patient with pneumonia for 5 days is admitted to the hospital in altered sensorium. He suddenly ceases to recognize the doctor and staff. He thinks that he is in jail and complains of scorpion attacking him. His probable diagnosis is <choices>  a. Acute Dementia b. Acute delirium c. Acute schizophrenia d. Acute paronia",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-91346",
+        "query": "All are true of Delerium tremens EXCEPT: <choices>  a. Severe depression b. Hallucination c. Extreme anxiety d. Delusion",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-163728",
+        "query": "Perseveration is <choices>  a. Repetition of an activity b. Repetition of word or a phrase c. Inability to change the mental set in spite of a new stimulus d. Persistence of uncomfortable posture for long periods",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-60230",
+        "query": "All of the following are impulse control disorders except - <choices>  a. Pyromania b. Trichotillomania c. Kleptomania d. Capgras syndrome",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-180283",
+        "query": "A 60-year man had undergone cardiac bypass surgery 2 days back. Now he staed forgetting things and was not able to recall names and phone numbers of his relatives. What is the probable diagnosis? <choices>  a. Depression b. Post-traumatic psychosis c. Cognitive dysfunction d. Alzheimer's disease",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-31742",
+        "query": "Sign in mental status assessment suggestive of MANIA? <choices>  a. Neologism b. Perseverance c. Flights of ideas d. Echolalia",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-43900",
+        "query": "Premature ejaculation is due to defect in which phase: <choices>  a. Orgasm phase b. Excitement phase c. Resolution phase d. Plateau phase",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-73048",
+        "query": "Anxiety is - <choices>  a. Neurosis b. Psychosis c. Personality disorder d. None",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-121553",
+        "query": "Behaviour therapy to change maladaptive behaviour using response as reinforcer uses the principles of: <choices>  a. Classical conditioning b. Modeling c. Social learning d. Operant conditioning",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-35210",
+        "query": "Dementia is seen in all except : <choices>  a. Schizophrenia b. Head injury c. Huntington's chorea d. Frontal lobe tumour",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-110048",
+        "query": "What psychopathology does the term 'perseveration' describe? <choices>  a. Patient feeling very distressed b. Characteristic feature of schizophrenia c. Characteristic of obsessive compulsive disorder (OCD) d. Persistent and inappropriate repetition of the same thoughts",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-109626",
+        "query": "Person A develops hatredness towards person B. But in turn he tells infront of his friends that person B hates him. This is an example of: <choices>  a. Denial b. Passive aggression c. Projection d. Reaction formation",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-94142",
+        "query": "Thiamine dose in patients with delirium tremens is about: <choices>  a. 100-200 mg per oral/Parenteral daily b. 250 mg per oral/Parenteral daily for first 3-5 days c. 400 mg per oral/Parenteral daily d. 500 mg per oral/Parenteral daily",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-138019",
+        "query": "A 2.5 year old boy is brought by the parents because of the concern that he is not developing appropriately. Child often is unable to engage with others using eye contact and does not play with other children. He has continuously bangs his chin against the wall and remains confined to himself most of the time. What is the most likely diagnosis? <choices>  a. Social phobia b. ADHD c. Conduct disorder d. Autism",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-17429",
+        "query": "Negative symptom of Schizophrenia includes\\ <choices>  a. Anhedonia b. Hallucination c. Illusion d. Depression",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-22555",
+        "query": "All are features of somatization disorder except: <choices>  a. Frequently changing pain sites b. Sexual symptoms c. Paresthesia d. Professional patients",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-171635",
+        "query": "Normal therapeutic level of Lithium level is <choices>  a. 0.5 to 0.7 mEq/litre b. 0.7 to 1.1 mEq/litre c. 0.1 to 0.3 mEq/litre d. 1.5 to 2 mEq/litre",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-128697",
+        "query": "Nihilistic delusion is? <choices>  a. False feeling of remorse of guilt b. False belief about severe medical illness c. False belief that world is about to end d. False belief that one is infested with small but visible organisms",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-177259",
+        "query": "Which of the following is mature defence mechanism? <choices>  a. Rationalization b. Humor c. Denial d. Displacement",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-111043",
+        "query": "Parkinsonism differ from atypical parkinsonism by the absence of <choices>  a. Resting tremor b. Postural instability c. Veical gaze palsy d. Gait abnormality",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-151595",
+        "query": "Well dressed man comes with a feeling of women trapped in his body, he is suffering from <choices>  a. Paraphilia b. Transvestism c. Gender identity disorder d. Frotturism",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-31484",
+        "query": "Which is not an ego defence mechanism -a) Rationalizationb) Repressionc) Identificationd) Obsession <choices>  a. ab b. cd c. bd d. ac",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-159117",
+        "query": "Type C personality disorder - <choices>  a. Avoidant personality disorder b. Histronic personality disorder c. Paranoid personality disorder d. Narcissistic personality disorder",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-68901",
+        "query": "Patient wants to scratch for itching in his amputated limb is an example of <choices>  a. Illusion b. Pseudohallucination c. Phantom limb hallucination d. Autoscopic hallucination",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-145533",
+        "query": "Two months after knowing that his son was suffering from leukemia, a 45 year old father presents with sleep deprivation, lethargy, headache, and low mood. He interacts reasonably well with others, but has absented himself from work. The most probable diagnosis is: <choices>  a. Depression b. Psychogenic headache c. Adjustment disorder d. Somatization disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-114166",
+        "query": "The drug of choice for obsessive compulsive disorder <choices>  a. Impiramine b. Fluoxetine c. Chlorpromazine d. Benzodiazepine",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-46056",
+        "query": "\"Penis envy\" is seen in <choices>  a. Male child in genital phase b. Male child in phallic phase c. Female child in phallic phase d. Female child in genital phase",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-12617",
+        "query": "Amotivational syndrome is seen in - <choices>  a. Cannabis b. Cocaine c. Amphetamine d. LSD",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-63491",
+        "query": "Which of the following condition respond well with Clonidine? <choices>  a. Opiate withdrawal b. Attention-deficit/hyperactivity disorder c. Tourette's disorder d. All of the above",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-73710",
+        "query": "Catatonia is characterized by all of the following except <choices>  a. Echolalia b. Grandiosity c. Mutism d. Echolalia",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-68884",
+        "query": "Which of the following is not characteristic of Type I Schizophrenia <choices>  a. Positive symptoms b. CT, MRT shows enlarged ventricles c. Good Prognosis d. None of the above",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-69251",
+        "query": "One of the following is a reversible cause of dementia : <choices>  a. Toxic dementia b. Alzheimer's ds. c. Multi - infarct dementia d. Pick ds",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-73816",
+        "query": "Which of the following substances is associated with flashback phenomenon? <choices>  a. Cannabis b. LSD c. Psilocybin d. All of the above",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-173830",
+        "query": "Hypnogogic hallucination is - <choices>  a. If experienced while falling asleep b. If experienced while awakening c. After head trauma d. After convulsion",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-128131",
+        "query": "What is hypnopampic phenomenon? <choices>  a. If experienced while falling asleep b. If experienced while awakening c. After head trauma d. After convulsion",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-103574",
+        "query": "All are an anti-craving agent for alcohol except - <choices>  a. Lorazepam b. Naltrexone c. Topiramate d. Acamprosate",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-162398",
+        "query": "Which of the following is least likely to be used as a date rape drug? <choices>  a. Alcohol b. Gammahydroxybutyrate c. Flunitrazepam d. Ketamine",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-79337",
+        "query": "Risk factor for suicide <choices>  a. Female sex b. Unmarried c. Age 30 years d. Married",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-165185",
+        "query": "A person has been referred to you by the court. You find discrepancy between the history of examination findings. Which of these conditions you should be aware of in this situation? <choices>  a. Malingering b. Factitious disorder c. Somatization syndrome d. Dissociative fugue",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-79130",
+        "query": "False about alcoholic anonymous is <choices>  a. It is a self help group b. It follows 12 steps to quit alcohol c. It includes recovered patients & volunteer d. It provides incentives for quitting alcohol",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-139087",
+        "query": "Early morning awakening and reduced latency of REM sleep is suggestive of - <choices>  a. Delirium b. Depression c. Schizophrenia d. Anxiety",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-160432",
+        "query": "which of the following is not a side effect of MAOI <choices>  a. hypeensive crisis b. hypotension c. sexual dysfunctions d. cheese reaction",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-154532",
+        "query": "Cognitive model of depression is given by? <choices>  a. Ellis b. Beck c. Godfrey d. Meicheinbanon",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-168140",
+        "query": "Patient presents with altered behaviour, delusions & hallucination suggest - <choices>  a. Psyshotic disorder b. Confirms schizophrenia c. Korsakoff's psychosis d. Depression",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-72661",
+        "query": "Beta blockers are effective in: <choices>  a. Mania b. Anxiety c. Depression d. Schizophrenia",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-10165",
+        "query": "Binge eating disorder is characterized by ? <choices>  a. Normal weight b. Weight loss c. Obesity d. Self induced vomiting",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-93124",
+        "query": "Duration needed to diagnose hypomania is <choices>  a. 1 day b. 4 day c. 1 week d. 2 weeks",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-166472",
+        "query": "True about dual sex therapy is: <choices>  a. Patient alone is not treated b. Uses sildenafil c. It treats sexual perversion d. It is used for people with dual gender identities",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-60026",
+        "query": "Which of the following statements differentiates the obsessional idea from delusions : <choices>  a. The idea is not a conventional belief b. The idea is held inspite of contrary evidence c. The idea is regarded as senseless by patient d. The idea is held on inadequate ground",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-102024",
+        "query": "Poor scholastic performance is not associated with: <choices>  a. SLD b. ADHD c. PICA d. Anxiety",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-107500",
+        "query": "A patient with IQ 30 will be diagnosed with: <choices>  a. Mild mental retardation b. Moderate mental retardation c. Severe mental retardation d. Profound mental retardation",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-66271",
+        "query": "Acute organic psychosis may be associated with all of the following diseases EXCEPT <choices>  a. Head injury b. Arteriosclerosis c. Meningitis d. Delirium tremens",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-95461",
+        "query": "Abnormal thought possession is found in <choices>  a. Organic brain syndrome b. Hysteria c. Obsessive compulsive disorder d. Neuroasthenia",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-92811",
+        "query": "Definitive treatment of phobias is <choices>  a. Behavioural therapy b. Social therapy c. Avoidance d. Drug therapy",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-20177",
+        "query": "General paralysis of insane is associated with ? <choices>  a. Neurosyphillis b. Alzheimer's disease c. Parkinson's disease d. None of the above",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-8569",
+        "query": "Which personality disorder of DSM-IV is not classified as PD & is placed with schizophrenia in ICD 10 - <choices>  a. Schizoid b. Paranoid c. Narcissistic d. Schizotypal",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-106037",
+        "query": "A 25 year old male believes that his penis is decreasing in size everyday and one day it will disappear one day and he will die. Diagnosis is - <choices>  a. Obsession b. Somatization c. Hypochondriasis d. Delusion disorder",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-68053",
+        "query": "Emotion is controlled by: <choices>  a. Limbic system b. Frontal lobe c. Temporal lobe d. Occipital lobe",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-159508",
+        "query": "Which of the following is not seen in early onset Alzheimer's Disease: <choices>  a. Aphasia b. Apraxia c. Acalculia d. None",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-29490",
+        "query": "A 40 year old male, with history of daily alcohol consumption for the last 7 years, is brought to the hospital emergency room with acute onsent of seeing snakes all around him in the room, not recognizing family members, violent behavior and tremulousness for few hours. There is history of his having missed the alcohol drink since 2 days. Examination reveals increased blood pressure, tremors, increased psychomotor activity, fearful affect, hallucinatory behaviour, disorientation, impaired judgment and insight. He is most likely to be suffering from: <choices>  a. Alcoholic hallucinosis b. Delirium tremens c. Wernicke encephalopathy d. Korsakoff's psychosis",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-125924",
+        "query": "Increased dopamine levels are associated ? <choices>  a. Depression b. Mania c. Delirium d. Schizophrenia",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-142649",
+        "query": "Confabulation means <choices>  a. Misinterpretation of stimulus by any of the special sense organs b. Perception in the absence of a stimulus c. Making stories to fill in the gaps caused by memory loss d. Conversion with imaginary person",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-97365",
+        "query": "Which of the following psychotropic drugs is most likely to produce a severe withdrawal syndrome when suddenly discontinued? <choices>  a. Lithium carbonate b. Alprazolam c. Chlorpromazine d. Benztropine",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-57154",
+        "query": "Maximum score for Mini-Mental Status Examination of Folstein is <choices>  a. 30 points b. 24 points c. 20 points d. 9 points",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-168674",
+        "query": "In a child of Rett syndrome, all of the following are seen except: <choices>  a. Macrocephaly b. Mental retardation c. Abnormal dendritic connections d. Seizures",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-135286",
+        "query": "A 20 year old boy complains of hearing voices and aggressive behavior for last 2 days. He had persistent high fever before the onset of these symptoms. The family members repo that he has been muttering to self and gesticulating as if he is talking to someone. There is no history of any past psychiatric illness. The likely diagnosis is:- <choices>  a. Dementia b. Acute psychosis c. Delirium d. Delusional disorder",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-108364",
+        "query": "Which of the following OCD carries worst prognosis to treatment? <choices>  a. Pathological doubt b. Contamination c. Hoarding disorder d. Obsessive thought disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-106439",
+        "query": "Schizoid personality disorder all are seen except? <choices>  a. Aloof & detached b. Prone to fantasy c. Suspicious d. Introspective",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-125735",
+        "query": "Delusional belief about subjective double is called: <choices>  a. Doppelganger b. Autoscopy c. Delusion of misidentification d. Depersonalization",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-131090",
+        "query": "\"Flash back phenomenon\" is seen in <choices>  a. Hysteria b. Organic illness c. Acute stress reaction d. Post-traumatic stress disorder",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-64437",
+        "query": "Ability to form a concept and generalize is known as <choices>  a. Concrete thinking b. Abstract thinking c. Intelligent thinking d. Delusional thinking",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-23010",
+        "query": "Disorientation occurs in <choices>  a. Schizophrenia b. Organic Brain Syndrome c. Depression d. Mania",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-100329",
+        "query": "A 40 yr old female patient present with history of depressed mood, loss of appetite insomnia and no interest in surrounjdings for the past 1 yr. These symptoms followed soon after a business loss 1 yr back. Which of the following statements is true regarding the management of this patient: <choices>  a. No treatment is necessary as it is due to business loss b. SSRI is the most efficacious of the available drugs LI c. Antidepressant treatment based on the side effect profile of the drugs d. Combination therapy of 2 antidepressant drugs",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-76997",
+        "query": "All are true regarding Fronto-temporal dementia except: <choices>  a. Stereotypic behavior b. Insight present c. Age less than 65 years d. Affective symptoms",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-16837",
+        "query": "Best therapy suited to teach daily life skill to a mentally challenged child- <choices>  a. CBT (Cognitive Behaviour Therapy) b. Contigency c. Cognitive reconstruction d. Self instruction",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-151720",
+        "query": "What is normal sleep latency:- <choices>  a. 20 minutes b. 120 minutes c. 60 minutes d. 90 minutes",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-147331",
+        "query": "Markedly inappropriate sensitivity, self impoance and suspiciousness are clinical features of <choices>  a. Aantisocial b. Historic c. Schizoid d. Paranoid",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-152185",
+        "query": "Not affected by Wernicke&;s disease <choices>  a. Hypothalamus b. Thalamus c. Hippocampus d. Mamillary bodies",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-62267",
+        "query": "Which of the following is not included in the grades of insight? <choices>  a. Intellectual b. Emotional c. Psychological d. Judgemental",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-108702",
+        "query": "Neuroleptic malignant syndrome is treated with: <choices>  a. Dantrolene b. Corticosteroids c. Diazepam d. Hemodialysis",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-129737",
+        "query": "What is the code given to psychiatric diseases in ICD 10 <choices>  a. E b. F c. P d. G",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-16521",
+        "query": "Phobia is -a) Psychosisb) Anxietyc) Fear of animald) Neurosis <choices>  a. c b. bd c. ab d. ac",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-7053",
+        "query": "Tricyclic antidepressant are contraindicated in: <choices>  a. Glaucoma b. Brain tumor c. Bronchial asthma d. Hypeension",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-107683",
+        "query": "Lithium <choices>  a. Delirium b. Dementia c. Schizophrenia d. Depression",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-92088",
+        "query": "Blood of 45 yrs old male shows -HVA. This patient is most likely to show - <choices>  a. PCC b. Schizophrenia c. Depression d. Parkinson's ds",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-62166",
+        "query": "In Neuroleptic malignant syndrome, cause of death is - <choices>  a. Respiratoryfailure b. Liver failure c. Drug toxicity d. None of the above",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-123967",
+        "query": "Which of the following is not a formal thought disorder? <choices>  a. Delusion b. Neologism c. Derailment d. Tangentiality",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-61559",
+        "query": "Defense mechanism in depression <choices>  a. Altruism b. Projection c. Undoing d. Introjection",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-82849",
+        "query": "All of the following are true about bipolar disorder except: <choices>  a. Prevalence is more amongst females than males b. Lifetime Prevalance is around 1% c. Mean age of onset is 21 years d. Prevalence varies according to socioeconomic status",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-165319",
+        "query": "Drug used for cocaine withdrawal symptoms is <choices>  a. Fluoxetine b. Lorazepam c. Phenobarbital d. No drug needed",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-41450",
+        "query": "Borderline personality disorder <choices>  a. Chronic feeling of emptiness b. Unstable interpersonal relationship c. Grandiosity d. Low self esteem",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-144993",
+        "query": "Which of the following feature differentiates malingering and hysteria? <choices>  a. Malingering has poor prognosis b. Hysteria is common in females c. Hypnosis d. Conscious motive is seen in malingering",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-115381",
+        "query": "Chromosome associated with bipolar disease? <choices>  a. Chromosomel6 b. Chromosome 13 c. Chromosome 14 d. Chromosome 11",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-87636",
+        "query": "Term schizophrenia was coined by <choices>  a. Erich muir b. Sigmund frued c. Bleular d. None",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-181678",
+        "query": "A 67 year old lady is brought in by her 6 children saying that she has gone senile. Six months after her husband's death she has become more religious, spiritual and gives lots of money in donation. She is occupied in too many activities and sleeps less. She now believes that she has a goal to change the society. She does not like being brought to the hospital and is argumentative on being questioned on her doings. The diagnosis is:- <choices>  a. Depression b. Schizophrenia c. Mania d. Impulse control disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-136251",
+        "query": "An accused in a case of sodomy is brought for Medical Examination. On detailed questioning he reveals that he is an active agent and is a regular paicipant. Which of the following will not be seen during examination of the accused: <choices>  a. Presence of smegma b. Foecal smell c. Tear of Frenulum d. Relative Constriction of shaft of penis",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-107952",
+        "query": "Loading dose of diazepam for alcohol withdrawal is? <choices>  a. 80mg b. 50mg c. 40mg d. 20mg",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-41375",
+        "query": "All of the following agents are used in the treatment of alcohol dependence, EXCEPT: <choices>  a. Disulfiram b. Flumazenil c. Naltrexone d. Acomprosate",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-81149",
+        "query": "Which of the following is NOT seen in caffeine withdrawal? <choices>  a. Nausea b. Headache c. Fatigue and sedation d. Hallucinations",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-70072",
+        "query": "Side effects of fluoxetine are A/E - <choices>  a. Weight gain b. Sweating c. Urinary retention d. Diarrhoea",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-121095",
+        "query": "A 30 yr old male presents to the OP it with Erectile dysfunction. asic screening evaluation is unremarkable. The next step in the evaluation /management should be? <choices>  a. Oral sildenafil citrate trial b. Cavernosometry c. Doppler study d. eurological testing",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-149809",
+        "query": "The DSM IV classification of psychiatric disorder as proposed by American Psychiatry Association classifies and helps in diagnosing the patient on multiple axes. Of these, axis V represents the degree of <choices>  a. Present state of symptoms b. Comorbid medical condition c. Global assessment of function d. Comorbid psychological problem",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-115667",
+        "query": "A 30 year old man has become suspicious that his wife is having an affair with his boss. He thinks his friend is also involved from abroad by providing support his friends tried to convince him but failed to do so. The patient is otherwise normal, doesn't have any hallucination or any other socially inappropriate behavior. The most likely diagnosis is <choices>  a. Schizophrenia b. Acute Psychosis c. Persistent delusional disorder d. Adjustment disorder.",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-85350",
+        "query": "Capgras syndrome is ? <choices>  a. Sharing of delusion b. Delusion of double c. Erotomania d. Hypochondriacal delusions",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-139244",
+        "query": "True about psychoactive drugs is? <choices>  a. Can cause sexual dysfunction b. Used in OCD c. Used in psychotic disorders and Used in drug withdrawal d. All of these",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-79641",
+        "query": "which of the floowing is a side effect of SNRI <choices>  a. premature ejaculation b. delayed orgasm c. cancer d. hypotension",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-125145",
+        "query": "A middle aged man presented with pain in back, lack of interest in recreational activities, low mood, lethargy, decreased sleep and appetite for two months. There was no history suggestive of delusions of hallucinations. He did not suffer from any chronic medical illness. There was no family history of psychiatric illness.Routine investigations including haemogram, renal function tests, liver function tests electrocadiogram did not reveal any abnormality. This patient should be treated with : <choices>  a. Haloperidol b. Seraline. c. Alprazolam. d. Olanzapine",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-179469",
+        "query": "All of the following are a features of mania except - <choices>  a. Decreased need for sleep b. Elated mood c. Delusion of grandeur d. Decreased motor activity",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-44086",
+        "query": "Shailza, a 40-year-old female is having headache for the past 6 months. All her investigations were normal. She had several consultations and she had no relief of her symptoms. She still believes that she has some problem in her brain. Likely diagnosis could be:September 2010 <choices>  a. Acute mania b. Acute depression c. Psychogenic headache d. Hypochondriasis",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-70020",
+        "query": "Diagnostic criteria for drug dependence includes all except - <choices>  a. Tolerance b. Withdrawal symptoms c. Early completion of tasks d. Larger dose than usual",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-31371",
+        "query": "Type two schizophrenia is characterized by all except- <choices>  a. Negative symptoms b. Poor response to TT c. Disorganised behaviour d. CT scan abnormal",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-94361",
+        "query": "Of the following defense mechanisms, which is considered the most mature? <choices>  a. Denial b. Sublimation c. Dissociation d. Regression",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-22748",
+        "query": "Repressed information can be brought into conscious mind by all except ? <choices>  a. Dream b. Focused attention c. Hypnosis d. Somatic stimulation",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-57312",
+        "query": "All the following are used in the treatment of bipolar disorder except: <choices>  a. Gabapentin b. Valproate c. Lithium d. Carbamazepine",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-121167",
+        "query": "The characteristic symptom of organic psychosis is <choices>  a. Hallucination b. Depression c. Transient delusion d. Anxiety",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-88833",
+        "query": "Following is true <choices>  a. Psychogenic seizure- Decreased prolactin b. Organic siezure - normal prolactin c. Sleep - Increased prolactin d. Hyperthyroidism - Increased prolactin",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-11528",
+        "query": "According to disabilities ACT 1995. Seventh disability is usually referred to as? <choices>  a. Neurological abnormality b. Mental illness c. Substance abuse d. Diability due to road traffic accident",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-50554",
+        "query": "Feature suggestive of schizophrenia rather than organic psychosis is <choices>  a. Third person hallucination b. Split personality c. Visual hallucination d. Altered sensorium",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-54525",
+        "query": "Obnoxious smell and hallucination is seen in? <choices>  a. Temporal lobe lesion b. Frontal lobe lesion c. Parietal lobe lesion d. Occipital lobe lesion",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-173448",
+        "query": "xylene and toluene ate types of <choices>  a. inhalants b. hallicinigens c. stimulants d. anabolic androgenic steroids",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-21243",
+        "query": "Frued is known for <choices>  a. Psychoanalysis b. Cognitive therapy c. Counselling d. Flooding",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-119459",
+        "query": "1 week before incidence recall is called as <choices>  a. Working memory b. Delayed memory c. Recent memory d. Remote memory",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-139453",
+        "query": "Provision of mental health Act 2017 based WHO INCLUDE all, except: <choices>  a. Human rights b. Communication regarding care and career c. Screening family members d. Social suppo",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-29434",
+        "query": "Neurotransmitter which is implicated in both positive and negative symptoms in schizophrenia is: <choices>  a. Noradrenaline b. Serotonin c. Dopamine d. All of the above",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-44257",
+        "query": "A 21 years old female was brought to psychiatry opd by her parents. According to mother, patient for last one month has been complaining that the neighbours are trying to record her activities and that they have put a camera in her room. She fuher says that two neighbourhood aunts keep on talking about her and make vulgar comments about her. Mother said that she has never heard any such voice and there house is quite separated from neighbours and its impossible that any voice can come to their house. However, patient insists that people are talking about her and some conspiracy is being hatched about her. The patient was diagnosed with schizophrenia and she was put on risperidone 3 mg/day. Patient showed significant improvement in her symptoms however on follow up she complained of milky discharge from nipples. Which of the following brain pathway is responsible for this side effect? <choices>  a. Mesolimbic tract b. Mesocoical tract c. Tubero-Infundibular tract d. Coico-striato-thalamic tract",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-167380",
+        "query": "A psychiatrist is upset with one of his patients and only to realize that the patient reminded him of his depaed father. This is possibly called: <choices>  a. Transference b. Counter transference c. Projection d. Rationalization",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-47381",
+        "query": "A patient of schizophrenia on CPZ (chlorpromazine) develops auditory hallucination again. The next drug to be given is - <choices>  a. Haloperidol b. Clozapine c. Sulpiride d. Tianeptin",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-85183",
+        "query": "Brain areas involved with obsessive compulsive disorder include all except: <choices>  a. corpus callosum b. Orbitofrontal coex c. Basal ganglia d. Head of caudate nucleus",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-50320",
+        "query": "Panic attack is: September 2005 <choices>  a. Acute anxiety b. Chronic anxiety c. Acute depression d. Chronic depression",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-150876",
+        "query": "All are features of psychosis except <choices>  a. Loss of insight b. Preserved contact with reality c. Presence of delusions d. Personality disturbances",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-154462",
+        "query": "A 28 year old female presents with complains of reduced sleep with disorganized behaviour since 9 months. She feels there is a camera fixed behind her head which always follows her. Which of the following is likely diagnosis? <choices>  a. Psychotic depression b. Paranoid schizophrenia c. Delusional disorder d. Insomnia",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-175692",
+        "query": "GAS relates to : <choices>  a. How we achieve homeostasis b. How well we adapt to new situations c. Pattern followed by physiological response to stress d. Path of stress ANS (autonomic nervous system) when we are aroused by a stressful situation",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-169398",
+        "query": "Most common complication of electroconvulsive therapy is <choices>  a. Antegrade amnesia b. Retrograde amnesia c. Depression d. Cognitive defects",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-154729",
+        "query": "Body fluid level of Substance Use at which Coma occur ..... <choices>  a. 50-100 mg% b. 100-200 mg% c. 200-300 mg% d. >350 mg%",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-108652",
+        "query": "A 25 year drug addict is brought to hospital in an intoxicated state. History suggests cocaine misuse, what is the effect of cocaine on blood vessels? <choices>  a. Vasoconstrictor b. Vasodilator c. Vasoineffective d. First constrict then dilates",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-109516",
+        "query": "A medical student could not deliver a seminar, fearing seniors. He is aware of the irrationality of his fear. Likely diagnosis is - <choices>  a. Agoraphobia b. Social phobia c. Claustrophobia d. Specific phobia",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-27003",
+        "query": "Munchausen syndrome by proxy is:NIMHANS 10 <choices>  a. Factitious disorder b. Malingering c. Hysteria d. Conversion disorder",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-99215",
+        "query": "Which of the following is not a clinical feature of post-traumatic stress disorder ? <choices>  a. Flashbacks b. Hyperarousal c. Hallucinations d. Emotional numbing",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-46392",
+        "query": "True about \"Major depression\" include the following except- <choices>  a. Two times more common in men than women b. Incidence increases with increasing age c. In females affected age is adulthood d. Is genetic origin",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-19190",
+        "query": "Fear of being in places or situations from which escape might be difficulty embarrassing or which help may be unavailable in the event of having panic attack. This condition is called <choices>  a. Social Phobia b. Zoophobia c. Acrophobia d. Agoraphobia",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-111834",
+        "query": "A middle-aged person repoed to Psychiatric OPD with complaints of fear of leaving home, fear of travelling alone and fear of being in a crowd. He develops marked anxiety with palpitations and swelling if he is in these situations. He often avoids public transpo to go to his place of work. The most likely diagnosis is <choices>  a. Generalised anxiety disorder b. Schizophrenia c. Personality disorder d. Agoraphobia",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-94563",
+        "query": "Which one of the following is not considered as the first-rank symptom of schizophrenia <choices>  a. Auditory hallucinations b. Inseion of thoughts c. Delusional perceptions d. Compulsive acts that relieve the tension",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-94061",
+        "query": "Wernicke-korsakoff syndrome is due to the deficiency of which of the following - <choices>  a. Pyridoxine b. Thiamine c. Vitamine B12 d. Riboflavin",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-114246",
+        "query": "Waxy flexibility, stereotype verbal, behavioural signs and negative symptoms are feature of? <choices>  a. Paranoid schizophrenia b. Hebephrenic schizophrenia c. Catatonic schizophrenia d. Simple schizophrenia",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-60638",
+        "query": "Rivastigmine and Donepezil are drugs used predominantly in the management of <choices>  a. Depression b. Dissociation c. Delusion d. Dementia",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-53520",
+        "query": "A patient was on treatment with trifluoperazine for some time. He presents with a complaint of hyperthermia, lethargy and sweating. Needed investigations are - <choices>  a. CT Scan brain & hemogram b. Hemogram, Electrolyte level and creatinine c. ECG, Chest X-ray and hemogram d. Hemogram, CPK and renal function test",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-157442",
+        "query": "An elderly house wife lost her husband who died suddenly of myocardial infarction couple of years ago. They had been staying alone for almost a decade with infrequent visits from her son and grandchildren. About a week after the death she heard the voice clearly talking to her as he would in a routine manner from the next room. She went to check but saw nothing. Subsequently she often heard his voice conversing with her and she would also discuss her daily matters with him. This however, provoked anxiety and sadness of mood when she would remain preoccupied with thoughts about him. She should be treated with: <choices>  a. Clomipramine b. Alprazolam c. Electroconvulsive therapy d. Haloperidol",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-1640",
+        "query": "An alcoholic is brought to the casualty, 3 days after he quit alcohol, with the complaints of irrelevant talking. On examination, he is found to be disoriented to time, place and person. He also has visual illusions and hallucinations. There is no history of head injury. The most probable diagnosis is: <choices>  a. Schizophrenia b. Delirium tremens c. Dementia praecox d. Korsakoff psychosis",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-177912",
+        "query": "Loosening of association is an example of - <choices>  a. Formal thought disorder b. Schneider's first symptoms c. Perseveration d. Concrete thinking",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-110878",
+        "query": "Reversible dementia is a feature of:- <choices>  a. Alzheimer;s disease b. Pick's disease c. Multiinfarct dementia d. Hypothyroidism",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-18989",
+        "query": "A child is suspected of having an autistic disorder. All areTRUE about autism, EXCEPT: <choices>  a. Age between 18-24 months b. Child is able to interact c. Repetitive behavior is seen d. Language is not well developed",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-165304",
+        "query": "Nihilistic ideas are seen in -a) Simple schizophreniab) Paranoid schizophreniac) Cotard's syndromed) Depressione) Body dysmorphic disorder <choices>  a. cd b. bc c. bd d. ac",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-108506",
+        "query": "Depot preparation are available for: <choices>  a. Haloperidol b. Risperidone c. Olanzapine d. All of the above",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-103137",
+        "query": "The follwing are opioid withdrawl symptoms except: <choices>  a. Insomnia b. Piloerection c. Rhinorrhea d. Constipation",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-144777",
+        "query": "Lallu 40 years has recently started writing books. But the matter in this book could not be understood by anybody; since it contained words which were never there in any dictionary and the theme was very disjoint. Nowadays he has become very shy and self-absorbed. When he addresses people, he speaks about metaphilosophical ideas. What is likely diagnosis - <choices>  a. Mania b. Schizophrenia c. A genius writer d. Delusional disorder",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-121326",
+        "query": "Perceptual misinterpretation of a real stimulus or object is known as: <choices>  a. Illusion b. Delusion c. Hallucination d. Schizophrenia",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-51668",
+        "query": "A person w anders in public places by removing his clothes it is called - <choices>  a. Voyeurism b. Frotterurism c. Exhibitionism d. Unidinism",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-154344",
+        "query": "A 50 year old man has presented with pain in back, lack of interest in recreational activities, low mood, lethargy, decreased sleep and appetite for two months. There was no history suggestive of delusions or hallucinations. He did not suffer from any chronic medical illness. There was no fami-ly history of psychiatric illness. Routine investigations including haemogram, renal function tests, liver function tests, electroca-rdiogram did not reveal any abnormality. This patient should be treated with: <choices>  a. Haloparidol b. Seraline c. Alprazolam d. Olanzapine",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-89889",
+        "query": "Neurofibrillary tangles are associated with: March 2007 <choices>  a. Bipolar disorder b. Alzheimer's disease c. Schizophrenia d. Multiple infarctions",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedMCQA-178059",
+        "query": "Flight of idea is seen in <choices>  a. Mania b. Schizophrenia c. Depression d. Delirium",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-107513",
+        "query": "Methadone is used for opioid withdrawal because <choices>  a. Its antagonist at opioid receptor b. Its paial antagonist at opioid receptor c. Its agonist at opioid receptor d. Its paial agonist at opioid receptor",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-712",
+        "query": "A 16 year old boy does not attend school because of the fear of being harmed by school mates. He thinks that his classmates laugh at him and talk about him. He is even scared of going out of the market. He is most likely suffering from: <choices>  a. Anxiety disorder b. Manic depressive psychosis (bipolar disorder) c. Adjustment reaction d. Schizophrenia",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-10970",
+        "query": "Lack of insight is not a feature of : <choices>  a. Panic disorder b. Schizophrenia c. Mania d. Reactive Psychosis",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-160968",
+        "query": "Autistic disorder is characterized by all of the following , except: <choices>  a. Visual impairment b. Lack of social Interaction c. Stereotypical movements d. Delayed development of speech",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedMCQA-152924",
+        "query": "Specific θ waves are seen in <choices>  a. NREM 1 b. NREM 2 c. NREM 3 d. REM",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedMCQA-178660",
+        "query": "True about anorexia nervosa are all except <choices>  a. Leukopenia b. Amenorrhea c. Self induced vomiting d. More common in adult females",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedMCQA-101968",
+        "query": "Phobia is: <choices>  a. Psychosis b. Fear of animal c. Mood disorder d. Neurosis",
+        "response": "d",
+        "label": "d"
+    }
+]

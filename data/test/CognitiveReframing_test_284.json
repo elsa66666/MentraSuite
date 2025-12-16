@@ -1,0 +1,1706 @@
+[
+    {
+        "index": "CognitiveReframing_test_0",
+        "query": "situation: I am unable to give my children any time\nthought: A good mother spends time with her kids on some activity every night",
+        "response": "should statements,overgeneralization",
+        "label": "should statements,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_1",
+        "query": "situation: My dad is in the next room in his hospice bed and im afraid of not doing everything right.\nthought: Am I doing enough",
+        "response": "magnification,negative feeling or emotion,personalization",
+        "label": "magnification,negative feeling or emotion,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_2",
+        "query": "situation: In class I feel like others hear my thoughts and judge me. When some things really don't work(for example I have some things for school for tommorow and I can't find how to do that thing after searching hours on internet I get angry and sometimes results to self harm(punching). I sometimes feel like everybody is here just to watch me and see how I react to things(sounds insane).\nthought: Am I insane?",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_3",
+        "query": "situation: A student let me know they are struggling to grasp any of the concepts in class.\nthought: Am I not explaining the material well?",
+        "response": "all-or-nothing thinking,personalization",
+        "label": "all-or-nothing thinking,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_4",
+        "query": "situation: My wife didn't look up from her phone or answer me when I came to talk to her.\nthought: Am I not worth her time?",
+        "response": "all-or-nothing thinking,labeling",
+        "label": "all-or-nothing thinking,labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_5",
+        "query": "situation: I am alone none understands\nthought: Can not move have so much to do mind numb",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_6",
+        "query": "situation: I was talking with my boyfriend on my lunch break and he started to clean his computer with canned air which made a very loud noise.\nthought: Does he not care what I am saying?",
+        "response": "blaming,overgeneralization,personalization",
+        "label": "blaming,overgeneralization,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_7",
+        "query": "situation: While in a group voice chat, everyone left me without saying goodbye.\nthought: Does nobody want to talk to me?",
+        "response": "mind reading,personalization",
+        "label": "mind reading,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_8",
+        "query": "situation: I did nothing with my day\nthought: Don't feel like I deserve fun/enjoyment",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "CognitiveReframing_test_9",
+        "query": "situation: I just don't care about myself\nthought: Everyone is more important than me",
+        "response": "comparing and despairing,negative feeling or emotion,discounting the positive",
+        "label": "comparing and despairing,negative feeling or emotion,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_10",
+        "query": "situation: I actually cannot help it on my own. No matter how hard I try, looking at the bright side of things, logically trying to reason things out, giving myself the benefit of the doubt.. Everything is driving me up the wall. Anger, frustration, sadness, you name it. It's like everything I was able to blow off before is just hitting straight at me and it's relentless.\nthought: Everything driving me nuts...",
+        "response": "blaming,none",
+        "label": "blaming,none"
+    },
+    {
+        "index": "CognitiveReframing_test_11",
+        "query": "situation: Go fuck yourself\nthought: Fuck you",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_12",
+        "query": "situation: I didn't complete the tasks that I had written down earlier today.\nthought: Getting abused was my fault",
+        "response": "fortune telling,discounting the positive",
+        "label": "fortune telling,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_13",
+        "query": "situation: I was in my grandma's house and I knocked the vase on the floor\nthought: Grandma will be so angry at me",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "CognitiveReframing_test_14",
+        "query": "situation: Once I was unemployed because I had many faults at work\nthought: Having done things wrong",
+        "response": "all-or-nothing thinking,negative feeling or emotion,personalization",
+        "label": "all-or-nothing thinking,negative feeling or emotion,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_15",
+        "query": "situation: I am trying to help my son pay his bills and find a job.\nthought: He does not appreciate anything I do for him.",
+        "response": "blaming,all-or-nothing thinking,overgeneralization",
+        "label": "blaming,all-or-nothing thinking,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_16",
+        "query": "situation: After I complained about not spending time together, my boyfriend did not want to go on a date last weekend.\nthought: He doesn't love me.",
+        "response": "overgeneralization,personalization",
+        "label": "overgeneralization,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_18",
+        "query": "situation: I have been trying to get a hold of a friend to help me with a project for over a week, but he won't return my calls or texts.\nthought: He is avoiding me",
+        "response": "mind reading,catastrophizing,overgeneralization",
+        "label": "mind reading,catastrophizing,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_19",
+        "query": "situation: I was walking in a poorly lit downtown area when a man approached me and asked for money. I told him I had none, and he started cussing me out and following me. I eventually started running and he finally stopped following.\nthought: He is going to hurt me",
+        "response": "fortune telling,catastrophizing",
+        "label": "fortune telling,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_20",
+        "query": "situation: I asked my husband to get me wine on the way home from work, but he forgot.\nthought: He is selfish",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_22",
+        "query": "situation: My friend and I were looking at apartments. His first choice for apartments was one that was too small for my life goals, as I could not set up an office in it. He wanted the better room in the apartment.\nthought: He only cares about himself.",
+        "response": "overgeneralization,discounting the positive",
+        "label": "overgeneralization,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_23",
+        "query": "situation: I was at work and sent info for an ad to our local newspaper. They called me later and said my boss had over-ridden everything and sent them new info.\nthought: He shouldn't assign me a task if he doesn't trust my work.",
+        "response": "negative feeling or emotion,should statements",
+        "label": "negative feeling or emotion,should statements"
+    },
+    {
+        "index": "CognitiveReframing_test_24",
+        "query": "situation: I couldn't find my bank card and realized my husband must have taken it.\nthought: He shouldn't have taken it without asking me first.",
+        "response": "blaming",
+        "label": "blaming"
+    },
+    {
+        "index": "CognitiveReframing_test_25",
+        "query": "situation: I'm hanging out with a friend chit chatting, but realizing he's not putting much effort, like usual, into having good conversation.  He just repeats the same thing ad nauseam.\nthought: He's a nice guy, but I don't want to be friends with him any more as he's putting no effort into not being completely boring.",
+        "response": "labeling,discounting the positive",
+        "label": "labeling,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_26",
+        "query": "situation: I was talking to a friend who got me angry.\nthought: He's insulting me.",
+        "response": "labeling,personalization,all-or-nothing thinking,negative feeling or emotion,mind reading",
+        "label": "labeling,personalization,all-or-nothing thinking,negative feeling or emotion,mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_27",
+        "query": "situation: I got in a fight with my roommate over the bathroom\nthought: He's so damn inconsiderate",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_28",
+        "query": "situation: Someone started a rumor that I'd been banned from an online community when in fact I hadn't. Many people chose to attack my character and one person called me a bully. When I dispelled the rumor and defended myself I was denied an opportunity to defend myself and insulted further.\nthought: I am a bad person.",
+        "response": "labeling,negative feeling or emotion",
+        "label": "labeling,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_29",
+        "query": "situation: I did badly in a writing contest I entered. I did not final.\nthought: I am a bad writer.",
+        "response": "all-or-nothing thinking,labeling,overgeneralization",
+        "label": "all-or-nothing thinking,labeling,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_30",
+        "query": "situation: I don't work. I rely heavily on my partner, I'm so easily scared\nthought: I am a burden.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_31",
+        "query": "situation: hearing loss caused by listening to music too loudly when younger\nthought: I am a failure",
+        "response": "negative feeling or emotion,none",
+        "label": "negative feeling or emotion,none"
+    },
+    {
+        "index": "CognitiveReframing_test_32",
+        "query": "situation: Every time I think I have another chance at love, I am reminded how insufferable and unlovable I make myself.\nthought: I am a hard person to love",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_33",
+        "query": "situation: I can feel everyone becoming distant with me, including my boyfriend. He just cheated on me not even a week ago and i cant bring myself to leave him no matter what he does. He does not care. I have no family, i only ever had him. Im annoying and i am never happy with anything and i hate myself for it because i want to be happy and i want to be a good person. I can feel my heart breaking more and more as i cone to the realization that i am not wanted nor needed.\nthought: I am a problem.",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_34",
+        "query": "situation: I am at a party where I do not know very many people. When I try to talk to a stranger, he gives one word replies and then ignores me. .\nthought: I am being annoying.",
+        "response": "mind reading,emotional reasoning",
+        "label": "mind reading,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_35",
+        "query": "situation: my neighbors downstairs were having a party, and would not be quiet so i had to call the police and not get any sleep before work\nthought: I am being disrespected",
+        "response": "labeling,negative feeling or emotion,discounting the positive",
+        "label": "labeling,negative feeling or emotion,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_36",
+        "query": "situation: I know why I am so angry all of the time. like I have this little monster in my head. It just makes me want to abandon everything and hide from everyone so I lash out anymore. I just hate my brain.\nthought: I am crazy.",
+        "response": "labeling,negative feeling or emotion",
+        "label": "labeling,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_37",
+        "query": "situation: I failed to convince my son that he should go back to college\nthought: I am failing as a parent",
+        "response": "labeling,catastrophizing,personalization",
+        "label": "labeling,catastrophizing,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_38",
+        "query": "situation: My boss pointed out an unintentional error in my work.\nthought: I am incapable of doing anything right.",
+        "response": "all-or-nothing thinking,labeling,overgeneralization,personalization",
+        "label": "all-or-nothing thinking,labeling,overgeneralization,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_39",
+        "query": "situation: I'm facing an issue, that I love you girlfriend and she loves me back. But I hurt her because I'm manipulative, without really realizing what I'm doing. I make her feel guilty of things that she shouldn't feel so, and if I don't get things my way, I manipulate it so it sounds like it's her fault or she is wrong. I don't do it voluntarily, but I do it too often and it hurts her and me.\nthought: I am manipulative",
+        "response": "labeling,negative feeling or emotion",
+        "label": "labeling,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_40",
+        "query": "situation: I was called into a meeting with my boss where I was told that I wasn't meeting the standards at work.\nthought: I am not doing well enough to warrant working at this job.",
+        "response": "all-or-nothing thinking,negative feeling or emotion",
+        "label": "all-or-nothing thinking,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_41",
+        "query": "situation: I tried to advertise my business more but have gotten zero leads from it.\nthought: I am not good at what I do.",
+        "response": "labeling,personalization,all-or-nothing thinking,negative feeling or emotion,overgeneralization,mind reading",
+        "label": "labeling,personalization,all-or-nothing thinking,negative feeling or emotion,overgeneralization,mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_42",
+        "query": "situation: I applied for a job and just got a call saying I didn't get the job.\nthought: I am not good enough for anyone.",
+        "response": "all-or-nothing thinking,labeling,overgeneralization",
+        "label": "all-or-nothing thinking,labeling,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_43",
+        "query": "situation: My spouse got a new gaming console and spends most of his free time playing video games.\nthought: I am not good enough for him.",
+        "response": "labeling,personalization,catastrophizing,all-or-nothing thinking,negative feeling or emotion,overgeneralization,mind reading",
+        "label": "labeling,personalization,catastrophizing,all-or-nothing thinking,negative feeling or emotion,overgeneralization,mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_44",
+        "query": "situation: I was on the phone with my boyfriend and he got a call on the other line. I assumed it was another girl calling him.\nthought: I am not good enough.",
+        "response": "labeling,none",
+        "label": "labeling,none"
+    },
+    {
+        "index": "CognitiveReframing_test_45",
+        "query": "situation: I tried to make friends with people but they kept ignoring me.\nthought: I am not interesting",
+        "response": "labeling,negative feeling or emotion,all-or-nothing thinking,personalization",
+        "label": "labeling,negative feeling or emotion,all-or-nothing thinking,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_46",
+        "query": "situation: I saw a profile picture of a close friend on a dating app that I had feelings for.\nthought: I am not the kind of person that she would like to go out with.",
+        "response": "comparing and despairing,mind reading,all-or-nothing thinking",
+        "label": "comparing and despairing,mind reading,all-or-nothing thinking"
+    },
+    {
+        "index": "CognitiveReframing_test_47",
+        "query": "situation: I got a parking ticket because my sister forgot to register for overnight parking in front of my house.\nthought: I am responsible for her mistakes.",
+        "response": "blaming,personalization",
+        "label": "blaming,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_48",
+        "query": "situation: My girlfriend wasnt texting anyone, and did not get me anniversary present\nthought: I am scared my girlfriend is going to break up with me because I dont do much for her.",
+        "response": "magnification,all-or-nothing thinking,catastrophizing",
+        "label": "magnification,all-or-nothing thinking,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_49",
+        "query": "situation: Breakup after loving truly.\nthought: I am scared of my future life and being in sorrow of breakup and didn't feel light of overthinking",
+        "response": "emotional reasoning",
+        "label": "emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_50",
+        "query": "situation: My grandfather died one year ago\nthought: I am scared something bad will happen to the people I love",
+        "response": "fortune telling,catastrophizing,negative feeling or emotion,magnification",
+        "label": "fortune telling,catastrophizing,negative feeling or emotion,magnification"
+    },
+    {
+        "index": "CognitiveReframing_test_51",
+        "query": "situation: I hurt my family members by telling them to postpone their long-planned trip to visit me because I was too busy\nthought: I am selfish",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_52",
+        "query": "situation: My brother and I have been really getting into a lot of fights. This past weekend he blew up again because he thought I was talking over him, but he does it all the time to me. I was upset because of his temper tantrums again, it has been happening too much over the past few or more years. He is supposed to act like an adult now and he isn't. I can't really talk to him anymore because I fear that he will explode, although he does t anyways.\nthought: I am so angry that he is such a hypocrite. He doesn't realize he is guilty of the same things he explodes about.",
+        "response": "negative feeling or emotion,none",
+        "label": "negative feeling or emotion,none"
+    },
+    {
+        "index": "CognitiveReframing_test_53",
+        "query": "situation: I had a breakup\nthought: I am the cause of the breakup",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_54",
+        "query": "situation: I was unable to visit my Mother in the hospital in another state.\nthought: I am the worst daughter in the world.",
+        "response": "labeling,negative feeling or emotion,all-or-nothing thinking",
+        "label": "labeling,negative feeling or emotion,all-or-nothing thinking"
+    },
+    {
+        "index": "CognitiveReframing_test_55",
+        "query": "situation: Nobody finds me attractive other then my boyfriend\nthought: I am ugly",
+        "response": "labeling,negative feeling or emotion",
+        "label": "labeling,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_56",
+        "query": "situation: Threw a conniption when unable to complete an Amigurumi project for my niece.\nthought: I am unable to do this simply damned thing.",
+        "response": "all-or-nothing thinking,negative feeling or emotion,labeling",
+        "label": "all-or-nothing thinking,negative feeling or emotion,labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_57",
+        "query": "situation: Last week I talked to a girl at a bar but was rejected by her\nthought: I am undesirable",
+        "response": "labeling,negative feeling or emotion,all-or-nothing thinking,overgeneralization",
+        "label": "labeling,negative feeling or emotion,all-or-nothing thinking,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_58",
+        "query": "situation: I was not paying attention and scratched someone's car while driving\nthought: I am will have to pay for this",
+        "response": "fortune telling,catastrophizing",
+        "label": "fortune telling,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_59",
+        "query": "situation: My friends invited me to go bowling this Saturday\nthought: I bet all my friends will be amazing at bowling apart from me",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_60",
+        "query": "situation: I left a toxic job that abused me for 12 years. I thought I found a new job that was better, but realized they lied to me about the job and now I hate working here. I feel like I made a huge mistake.\nthought: I can never get a break. Every time I try to make a positive change in my life, something happens to ruin it.",
+        "response": "fortune telling,negative feeling or emotion",
+        "label": "fortune telling,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_61",
+        "query": "situation: Becoming broke again.\nthought: I can't and never will escape this prison at my moms house",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_62",
+        "query": "situation: I'm afraid of pregnancy and I think i'm not mentally or emotionally prepared\nthought: I can't be a mother",
+        "response": "fortune telling,emotional reasoning",
+        "label": "fortune telling,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_63",
+        "query": "situation: I'm waiting everyday for the weekend and the holidays. I'm not getting anything productive done.\nthought: I can't bring myself to be motivated.",
+        "response": "all-or-nothing thinking,negative feeling or emotion",
+        "label": "all-or-nothing thinking,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_64",
+        "query": "situation: My father was being abusive to me\nthought: I can't do anything right. I am a disappointment.",
+        "response": "fortune telling,overgeneralization",
+        "label": "fortune telling,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_65",
+        "query": "situation: Recent rape, prior trauma, isolation, boredom, loneliness, feeling abandoned and so alone\nthought: I can't get through this",
+        "response": "negative feeling or emotion,emotional reasoning",
+        "label": "negative feeling or emotion,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_66",
+        "query": "situation: Fired for not meeting quota as a salesman.\nthought: I can't pay my bills.",
+        "response": "negative feeling or emotion,catastrophizing",
+        "label": "negative feeling or emotion,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_67",
+        "query": "situation: I was given a solo for the church play.  At practice when it came time for me to sing, my voice cracked and I lost the solo.\nthought: I can't sing.",
+        "response": "fortune telling,all-or-nothing thinking,negative feeling or emotion,overgeneralization,labeling",
+        "label": "fortune telling,all-or-nothing thinking,negative feeling or emotion,overgeneralization,labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_68",
+        "query": "situation: I'm feeling suicidal\nthought: I can't stop cutting myself",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_69",
+        "query": "situation: I thought that my sister had taken some money from my house when she'd come over to visit.\nthought: I cannot trust my sister anymore.",
+        "response": "blaming,negative feeling or emotion,overgeneralization",
+        "label": "blaming,negative feeling or emotion,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_70",
+        "query": "situation: I was on a coffee break and my boss reminded me of work that needs to get done.\nthought: I could get fired.",
+        "response": "all-or-nothing thinking,catastrophizing",
+        "label": "all-or-nothing thinking,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_71",
+        "query": "situation: I had an opportunity to get a large bonus at work but I did not do well on task so no bonus\nthought: I could have done so much better",
+        "response": "all-or-nothing thinking,personalization,should statements",
+        "label": "all-or-nothing thinking,personalization,should statements"
+    },
+    {
+        "index": "CognitiveReframing_test_72",
+        "query": "situation: My manager is giving more responsibilities to another co-worker.\nthought: I deserve more than the other co-worker to get more responsibilities.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_73",
+        "query": "situation: My partner left me.\nthought: I did something wrong",
+        "response": "mind reading,overgeneralization,personalization",
+        "label": "mind reading,overgeneralization,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_74",
+        "query": "situation: I didn't get as good of feedback on a work assignment as I wanted\nthought: I didn't do as good a job as I thought",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_75",
+        "query": "situation: I put in a lot of time on an Mturk task and was rejected on an attention request. I suggested a better way of handling these errors (automatic ejection) to the researcher and their answer showed they didn't understand my point.\nthought: I didn't explain this right.",
+        "response": "overgeneralization,personalization",
+        "label": "overgeneralization,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_76",
+        "query": "situation: Three days have passed since my job interview and I didn't receive any updates\nthought: I didn't get the job",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "CognitiveReframing_test_77",
+        "query": "situation: My husband asked me to make sure I cleaned the cutting board better.\nthought: I do so much around here and you are harping about the cutting board?",
+        "response": "blaming,discounting the positive",
+        "label": "blaming,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_78",
+        "query": "situation: I was addicted to heroin.\nthought: I don't deserve to get better.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_79",
+        "query": "situation: I am trying to diet but I gained weight this week.\nthought: I don't have the discipline to diet.",
+        "response": "all-or-nothing thinking,discounting the positive",
+        "label": "all-or-nothing thinking,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_80",
+        "query": "situation: My husband did something for me\" even if it's clear I didn't want it.\"\nthought: I don't know why I keep trying. I should just give up. Surrender. Sleep forever.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_81",
+        "query": "situation: I wave to an acquaintance and get no response.\nthought: I don't make a memorable impression on people.",
+        "response": "labeling,mind reading",
+        "label": "labeling,mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_82",
+        "query": "situation: My sister asked my mother about me taking care of her cats instead of asking me directly.\nthought: I don't matter.",
+        "response": "all-or-nothing thinking,labeling,negative feeling or emotion",
+        "label": "all-or-nothing thinking,labeling,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_83",
+        "query": "situation: My relationship ended out of nowhere, constantly stressed about my job, i ever feel like be worth it to another person or to my friends unless they need something.\nthought: I don’t feel like I’m worth it.",
+        "response": "magnification,all-or-nothing thinking,none",
+        "label": "magnification,all-or-nothing thinking,none"
+    },
+    {
+        "index": "CognitiveReframing_test_84",
+        "query": "situation: A potential client decided to work with another company\nthought: I failed our company & myself",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_85",
+        "query": "situation: My boss interrupted my break to tell me to work\nthought: I feel guilty",
+        "response": "emotional reasoning",
+        "label": "emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_86",
+        "query": "situation: My teenage child wanted to go out with friends and I said no\nthought: I feel horrible about it, I must be a bad parent",
+        "response": "emotional reasoning",
+        "label": "emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_87",
+        "query": "situation: I gained weight\nthought: I feel like I need to die to be happy.",
+        "response": "discounting the positive",
+        "label": "discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_88",
+        "query": "situation: I’m a drug addict\nthought: I feel like I will never be loved in a romantic way because I am not very pretty",
+        "response": "fortune telling,emotional reasoning",
+        "label": "fortune telling,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_89",
+        "query": "situation: I have depression and anxiety. The past 3 weeks have been especially tough depression wise, due to some out of our control stressors. spent a lot of time in bed while my kids were in school, just doing the bare minimum.  Meanwhile, my very supportive husband has been picking up my slack. I feel as though I nearly contribute to the household chores as much as I should, though I thank him constantly for his work.  Any words of wisdom or encouragement?\nthought: I feel like a bad wife and mom",
+        "response": "labeling,emotional reasoning",
+        "label": "labeling,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_90",
+        "query": "situation: I forgot to give my boss an important message when I was at work. The customer who left the message ended up being very angry because they had a problem that needed to be resolved My boss was pretty upset with me and the customer may take his business elsewhere\nthought: I feel like a failure",
+        "response": "labeling,none,emotional reasoning",
+        "label": "labeling,none,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_91",
+        "query": "situation: The host of a party is giving me one-word responses when I try to talk to them\nthought: I feel like an outcast",
+        "response": "emotional reasoning",
+        "label": "emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_92",
+        "query": "situation: Someone pushed me and made me bleed\nthought: I feel like people out there try to take advantage of me and also betray me .",
+        "response": "mind reading,overgeneralization",
+        "label": "mind reading,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_93",
+        "query": "situation: I was greatly irritated, almost angry,  when a close friend reached out to me for assistance on taxes.  I usually do them, but I did not want to be bothered this year and felt almost used.\nthought: I feel my friend used me.",
+        "response": "mind reading,personalization",
+        "label": "mind reading,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_94",
+        "query": "situation: I went on a trip and heard a commercial for a kitchen appliance\nthought: I feel so anxious maybe I left something turned on in the kitchen",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "CognitiveReframing_test_95",
+        "query": "situation: We had bad storms in our community and some tornadoes came through and destroyed some of the area. No one in our extended family from out of town checked on me.\nthought: I feel unloved and unwanted by my mother and siblings",
+        "response": "all-or-nothing thinking,emotional reasoning",
+        "label": "all-or-nothing thinking,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_96",
+        "query": "situation: I applied for a promotion but was told I haven't shown the necessary ambition yet. This happened at work where I always go the extra mile, stay late, and even work when I'm not being paid. I feel like the response to my request for a promotion was inaccurate and that I am being taken advantage of because nothing I could do is enough. I was denied the promotion by the department head who is a woman that seems to always talk down to and be rude to men at the company.\nthought: I felt as if my talents and efforts were being unrecognized by the company yet they are perfectly happy to accept all of my hard work, just not pay me what I deserve for it.",
+        "response": "personalization,discounting the positive",
+        "label": "personalization,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_97",
+        "query": "situation: Recently I found out that one of my coworkers with who I work closely, organized a party and I wasn't invited to the party.\nthought: I felt left out and singled out in the office and wondered if the person had a personal grudge against me.",
+        "response": "mind reading,personalization",
+        "label": "mind reading,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_98",
+        "query": "situation: I do gas stations audits and I messed up and forgot something I was supposed to do\nthought: I felt like a failure and am ashamed I made this mistake",
+        "response": "all-or-nothing thinking,negative feeling or emotion",
+        "label": "all-or-nothing thinking,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_99",
+        "query": "situation: I recently discovered a music artist that I very much enjoy. When I showed it to a close friend they had a very negative reaction and asked me how I could enjoy this type of music. I ended up getting quite angry with them and told them they had bad taste in music.\nthought: I felt that my personal self was under attack - and I needed to retaliate by denying their attack.",
+        "response": "emotional reasoning,personalization",
+        "label": "emotional reasoning,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_100",
+        "query": "situation: Someone criticized the way I dealt with a patient saying that I was too short tempered with them.\nthought: I felt the criticism was unfair because they didn't take into account the entire situation, especially considering how the patient was behaving towards me.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_101",
+        "query": "situation: I failed to turn in my planned event calendar by the due date.\nthought: I forgot something important. Again. My boss is going to kill me.",
+        "response": "fortune telling,catastrophizing",
+        "label": "fortune telling,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_102",
+        "query": "situation: My friend and I had made plans months ago to go to a basketball game. The day before the game he calls me and says he cant go because he forgot he made plans with his wife. I started yelling at him and told him these tickets were expensive and you promised me. I was really angry for cancelling last minute because he has done this in the past\nthought: I get upset when people cant keep there promises. The plans he made were not that critical. Why put me in a tough bind",
+        "response": "blaming,negative feeling or emotion,personalization",
+        "label": "blaming,negative feeling or emotion,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_103",
+        "query": "situation: The guy I'm dating went home early one night and I got upset because I thought it meant he didn't want to see me anymore, but I was wrong.\nthought: I guess he doesn't like me anymore",
+        "response": "mind reading,negative feeling or emotion,overgeneralization",
+        "label": "mind reading,negative feeling or emotion,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_104",
+        "query": "situation: I was passed over for a new job with a larger company.\nthought: I had the qualifications and the experience for this job, yet I was passed over for someone else who had less experience than I.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_105",
+        "query": "situation: They are racist\nthought: I hate Republicans",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_106",
+        "query": "situation: Everyone is mean to me\nthought: I hate everyone",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_107",
+        "query": "situation: I always do the wrong thing, I always make mistakes\nthought: I hate myself",
+        "response": "all-or-nothing thinking,labeling",
+        "label": "all-or-nothing thinking,labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_108",
+        "query": "situation: My sister looking amazing and me looking heinous, people at school being toxic\nthought: I hate myself and im a fat pig",
+        "response": "comparing and despairing,discounting the positive",
+        "label": "comparing and despairing,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_109",
+        "query": "situation: Our forest inventory data is due in less than three days and I still have over 100 plots to do.  The date cannot be missed and my superiors expect it completed.\nthought: I have at least four normal days of plot work needing done in three days",
+        "response": "comparing and despairing,negative feeling or emotion,all-or-nothing thinking",
+        "label": "comparing and despairing,negative feeling or emotion,all-or-nothing thinking"
+    },
+    {
+        "index": "CognitiveReframing_test_110",
+        "query": "situation: I want to shoot myself\nthought: I have lost all hope",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_111",
+        "query": "situation: I just feel unmotivated\nthought: I just can't get moving",
+        "response": "negative feeling or emotion,none",
+        "label": "negative feeling or emotion,none"
+    },
+    {
+        "index": "CognitiveReframing_test_112",
+        "query": "situation: I made a goal to quit smoking and failed\nthought: I keep failing at this",
+        "response": "fortune telling,catastrophizing,magnification,all-or-nothing thinking,negative feeling or emotion,overgeneralization,labeling,should statements",
+        "label": "fortune telling,catastrophizing,magnification,all-or-nothing thinking,negative feeling or emotion,overgeneralization,labeling,should statements"
+    },
+    {
+        "index": "CognitiveReframing_test_113",
+        "query": "situation: I missed a personal deadline for a project a friend asked me to help with.\nthought: I made a deadline and missed it.",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_114",
+        "query": "situation: Last week my sister and I facetime. I didnt show much interest. Later that day, my cousin told me that my sister was sad because of my behavior.\nthought: I made my sister sad",
+        "response": "mind reading,overgeneralization,personalization",
+        "label": "mind reading,overgeneralization,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_115",
+        "query": "situation: I got into a minor car crash.\nthought: I messed up big time.",
+        "response": "catastrophizing,none",
+        "label": "catastrophizing,none"
+    },
+    {
+        "index": "CognitiveReframing_test_116",
+        "query": "situation: Stomach ache every day\nthought: I might be having a serious illness",
+        "response": "fortune telling,catastrophizing",
+        "label": "fortune telling,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_117",
+        "query": "situation: I've been applying for jobs and just got a call that someone else filled a position I applied for.\nthought: I might never get hired.",
+        "response": "catastrophizing,overgeneralization",
+        "label": "catastrophizing,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_118",
+        "query": "situation: My boss on the construction site was very mean and aggressive with me.\nthought: I must not have been doing a good job",
+        "response": "negative feeling or emotion,personalization",
+        "label": "negative feeling or emotion,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_119",
+        "query": "situation: I'm late for the meeting\nthought: I never do anything right",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_120",
+        "query": "situation: I had dinner plans cancelled by my parents because I my mom was feeling under the weather.\nthought: I never get to see her anymore.",
+        "response": "negative feeling or emotion,discounting the positive",
+        "label": "negative feeling or emotion,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_121",
+        "query": "situation: Rejected from my dream company\nthought: I never get what I want",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_122",
+        "query": "situation: I have been studying for months for the real estate exam. When I went to take it, I did not pass by two points.\nthought: I really have to pass, I need to work.",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_123",
+        "query": "situation: I mixed up the addresses on two packages and sent them to the wrong place\nthought: I screwed up again at work",
+        "response": "all-or-nothing thinking,negative feeling or emotion,overgeneralization",
+        "label": "all-or-nothing thinking,negative feeling or emotion,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_124",
+        "query": "situation: I burnt the potatoes while cooking\nthought: I should have been perfect",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "CognitiveReframing_test_125",
+        "query": "situation: I hurt my families feelings by canceling the trip they had planned to come to see me.\nthought: I should have made time for them.",
+        "response": "mind reading,should statements",
+        "label": "mind reading,should statements"
+    },
+    {
+        "index": "CognitiveReframing_test_126",
+        "query": "situation: I am walking down the street in a new red jeans and a stranger looked at the jeans\nthought: I should have never worn these jeans and stick to blue ones",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "CognitiveReframing_test_127",
+        "query": "situation: I was on a date and started to cough badly as the food was too hot\nthought: I should have ordered a milder dish",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "CognitiveReframing_test_128",
+        "query": "situation: I received a subpar quiz score in a class.\nthought: I should have studied harder, or more efficiently.",
+        "response": "negative feeling or emotion,should statements",
+        "label": "negative feeling or emotion,should statements"
+    },
+    {
+        "index": "CognitiveReframing_test_129",
+        "query": "situation: I tried a new hair style but no one commented on it\nthought: I shouldn't have changed my hair",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "CognitiveReframing_test_130",
+        "query": "situation: I posted a new piece of artwork online and people started comparing it with artwork created by others\nthought: I shouldn't have posted it",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_131",
+        "query": "situation: At work I was frustrated after a meeting because I was told a certain amount of documents had to be indexed that week. I had a lot of other tasks and I started frantically naming them off. I was not expected to be indexing the full collection of documents like I thought I was so I was later embarassed I had acted so frustrated and snappy.\nthought: I thought I was being taken advantage of.",
+        "response": "blaming,labeling,mind reading,emotional reasoning",
+        "label": "blaming,labeling,mind reading,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_132",
+        "query": "situation: My boyfriend went to visit his son and wound up spending the entire day with his son and his son's mother while ignoring my phone calls.\nthought: I thought he was cheating on me",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_133",
+        "query": "situation: I applied for a new part-time position and took the qualifying exam but didn't pass because they  changed some of the guidelines for the job. They warned us beforehand that this may happen in the hiring process.\nthought: I thought that I should have studied harder. If I knew enough information I would pass no matter how the standards changed. It was my fault I didn't try hard enough and was furious with myself",
+        "response": "blaming,personalization,should statements",
+        "label": "blaming,personalization,should statements"
+    },
+    {
+        "index": "CognitiveReframing_test_134",
+        "query": "situation: I lost my house\nthought: I want to die",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_135",
+        "query": "situation: My partner was visiting her daughter, who was having surgery.  I got annoyed with her on the phone because she was being distracted.\nthought: I wanted her to pay attention and not interrupt me.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_136",
+        "query": "situation: I was passed over for a small promotion at my place of work. The person who got the promotion was younger and less experienced than me, but a favorite of the boss.\nthought: I was angry because I was the better person for the job.",
+        "response": "personalization,should statements",
+        "label": "personalization,should statements"
+    },
+    {
+        "index": "CognitiveReframing_test_137",
+        "query": "situation: My sister tried to commit suicide whilst at middle school\nthought: I was not a good enough sister",
+        "response": "labeling,overgeneralization,personalization",
+        "label": "labeling,overgeneralization,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_138",
+        "query": "situation: For many years I've been tutoring students online in math and reading. One of my newer students requested to my supervisor that she be assigned to a different tutor because she didn't like me.\nthought: I was searching my brain to figure out why she didn't like me, and it made me so sad to think I'd hurt her feelings or caused a problem for her.",
+        "response": "negative feeling or emotion,personalization",
+        "label": "negative feeling or emotion,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_139",
+        "query": "situation: I got upset at my boss for not putting me in a temporary promotion to act as supervisor of our team.\nthought: I wasn't valued as much as the other person.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_140",
+        "query": "situation: I was up for a promotion at work and did not receive it.\nthought: I will be stuck in middle-management for the remainder of my career.",
+        "response": "fortune telling,catastrophizing,negative feeling or emotion,overgeneralization",
+        "label": "fortune telling,catastrophizing,negative feeling or emotion,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_141",
+        "query": "situation: Having problems coming up with words to write essay.\nthought: I will get a bad grade.",
+        "response": "fortune telling,all-or-nothing thinking,catastrophizing,magnification",
+        "label": "fortune telling,all-or-nothing thinking,catastrophizing,magnification"
+    },
+    {
+        "index": "CognitiveReframing_test_142",
+        "query": "situation: going through toys that reminded me of the time period that id been abused for\nthought: I will go crazy if I don't control my racing thoughts",
+        "response": "blaming",
+        "label": "blaming"
+    },
+    {
+        "index": "CognitiveReframing_test_143",
+        "query": "situation: I've been sitting at my desk for a long time and I haven't been able to get anything done.\nthought: I will lose my job eventually.",
+        "response": "fortune telling,catastrophizing",
+        "label": "fortune telling,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_144",
+        "query": "situation: I took part in a writing competition and I lost\nthought: I will never become a successful writer",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "CognitiveReframing_test_145",
+        "query": "situation: I received a rejection email from a position I applied to.\nthought: I will never get a job.",
+        "response": "fortune telling,overgeneralization",
+        "label": "fortune telling,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_146",
+        "query": "situation: I ask out a co-worker who I became fond of recently but was turned down.\nthought: I won't find someone I can be with",
+        "response": "fortune telling,all-or-nothing thinking,catastrophizing,emotional reasoning",
+        "label": "fortune telling,all-or-nothing thinking,catastrophizing,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_147",
+        "query": "situation: I failed to do a work task appropriately in a side-gig.\nthought: I won't get paid",
+        "response": "fortune telling,catastrophizing,negative feeling or emotion",
+        "label": "fortune telling,catastrophizing,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_148",
+        "query": "situation: When doing some piecework online, I was told that my work was not good.\nthought: I worked hard on these jobs, and was sure I had done well.",
+        "response": "negative feeling or emotion,overgeneralization",
+        "label": "negative feeling or emotion,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_149",
+        "query": "situation: I had a disagreement about our finances with my partner at our home about a week ago that caused her to leave the apartment and not talk, call, or text me for hours.\nthought: I worried that she might break up with me and that I'd never see her again.",
+        "response": "fortune telling,catastrophizing,all-or-nothing thinking,negative feeling or emotion,overgeneralization,mind reading",
+        "label": "fortune telling,catastrophizing,all-or-nothing thinking,negative feeling or emotion,overgeneralization,mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_150",
+        "query": "situation: I worried about being late and I almost crashed the car\nthought: I worry too much",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_151",
+        "query": "situation: My inabilities cost me my job.\nthought: I would not find a job",
+        "response": "overgeneralization,discounting the positive",
+        "label": "overgeneralization,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_152",
+        "query": "situation: I failed in everything\nthought: I'll never be able to do anything",
+        "response": "fortune telling,labeling,all-or-nothing thinking,discounting the positive",
+        "label": "fortune telling,labeling,all-or-nothing thinking,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_153",
+        "query": "situation: First interview after studying and getting my diploma.\nthought: I'll screw it over",
+        "response": "fortune telling,catastrophizing",
+        "label": "fortune telling,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_154",
+        "query": "situation: My son threw a tantrum at an indoor playground and I had to carry him out kicking and screaming\nthought: I'm a bad mom",
+        "response": "labeling,negative feeling or emotion",
+        "label": "labeling,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_155",
+        "query": "situation: Don't have a job\nthought: I'm a failure",
+        "response": "all-or-nothing thinking,negative feeling or emotion,discounting the positive,labeling",
+        "label": "all-or-nothing thinking,negative feeling or emotion,discounting the positive,labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_156",
+        "query": "situation: I just got fired from working as a sales person because I didn't reach my quota. I had never had a job like this before this.\nthought: I'm a failure and can't keep a sales person job.",
+        "response": "all-or-nothing thinking,labeling",
+        "label": "all-or-nothing thinking,labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_157",
+        "query": "situation: I tried on my wedding dress in front of my family. My mother was excited and told me I was beautiful, but other members of my family made comments about my weight. I was told to not eat and exercise so I could be beautiful.\nthought: I'm a fat ugly troll.",
+        "response": "comparing and despairing,labeling,discounting the positive,magnification",
+        "label": "comparing and despairing,labeling,discounting the positive,magnification"
+    },
+    {
+        "index": "CognitiveReframing_test_158",
+        "query": "situation: Last week I found out that my mother had experienced sudden back pain that lasted for a few days  and I somehow worked myself into a very concerned state where I kind of felt like she was going to become completely incapacitated and have to live in a nursing home.\nthought: I'm afraid she's going to die soon.",
+        "response": "catastrophizing,emotional reasoning",
+        "label": "catastrophizing,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_159",
+        "query": "situation: I talk to a close friend online every day because we live in different states. We share a lot about our lives and our messages are usually pretty long. My friend asked me to stop messaging for a while because they felt overwhelmed and wouldn't be able to respond but wanted to at a later time\nthought: I'm annoying and oversharing",
+        "response": "labeling,negative feeling or emotion,overgeneralization",
+        "label": "labeling,negative feeling or emotion,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_160",
+        "query": "situation: I had a huge fight with my friend and I love her so much and I called her fat and ugly and I didn't mean to, is there a condition for something like this\nthought: I'm being mean to someone I love",
+        "response": "labeling,negative feeling or emotion",
+        "label": "labeling,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_161",
+        "query": "situation: I try to talk to a stranger at a party and they seem disinterested and walk away from me\nthought: I'm boring",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "CognitiveReframing_test_162",
+        "query": "situation: My wife, asked me very kindly, to finally clean the bathroom shower in our bathroom, and I got upset by this.\nthought: I'm busy doing something else, it's not like I haven't tried to get to that chore!",
+        "response": "blaming,negative feeling or emotion,emotional reasoning",
+        "label": "blaming,negative feeling or emotion,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_163",
+        "query": "situation: My friend asked for advice, but I was unable to provide it\nthought: I'm completely self-centered and thoughtless",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "CognitiveReframing_test_164",
+        "query": "situation: I keep pushing myself towards new things. I keep working, studying, socializing, exercising. I'm doing far more thab anyonr I know and I still go to sleep every night, hoping I won't wake up.\nthought: I'm everything I can and I still feel like shit",
+        "response": "overgeneralization,discounting the positive",
+        "label": "overgeneralization,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_165",
+        "query": "situation: My boss yelled at me\nthought: I'm feeling sad",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_166",
+        "query": "situation: My wife has left me.\nthought: I'm going to be alone",
+        "response": "catastrophizing,discounting the positive",
+        "label": "catastrophizing,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_167",
+        "query": "situation: My Dentist told me I'd need a root canal procedure.\nthought: I'm going to have to endure some physical and financial pain.",
+        "response": "fortune telling,catastrophizing",
+        "label": "fortune telling,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_168",
+        "query": "situation: I couldn't finish the task in time\nthought: I'm incompetent",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_169",
+        "query": "situation: I made a mistake with an expensive reagent at work and ruined my experiment.\nthought: I'm mad at myself for being careless",
+        "response": "labeling,negative feeling or emotion,emotional reasoning",
+        "label": "labeling,negative feeling or emotion,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_170",
+        "query": "situation: high school flashbacks of bullying from when I was conducting placement practice hours\nthought: I'm never going to be useful to society and it isn't worth living in because humans are extremely hard to understand",
+        "response": "fortune telling,negative feeling or emotion,overgeneralization",
+        "label": "fortune telling,negative feeling or emotion,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_171",
+        "query": "situation: My girlfriend was distracted by other men at the gym.\nthought: I'm not attractive enough.",
+        "response": "mind reading,overgeneralization,personalization",
+        "label": "mind reading,overgeneralization,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_172",
+        "query": "situation: I am quite fond of a coworker and decide to talk to them. I offer up the idea that it might be fun to go out together sometime, and they respond with the fact they are too busy.\nthought: I'm not attractive or have a good enough personality.",
+        "response": "labeling,negative feeling or emotion,mind reading,personalization",
+        "label": "labeling,negative feeling or emotion,mind reading,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_173",
+        "query": "situation: Recent panic attack\nthought: I'm not going to live up to my expectations for my future",
+        "response": "fortune telling,catastrophizing",
+        "label": "fortune telling,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_174",
+        "query": "situation: I ask out a co-worker who I became fond of recently but was turned down.\nthought: I'm not good enough for her.",
+        "response": "mind reading,negative feeling or emotion,emotional reasoning,personalization",
+        "label": "mind reading,negative feeling or emotion,emotional reasoning,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_175",
+        "query": "situation: An mturk requester rejected my task and I wasn't sure why because I work very hard on my tasks. Being new it affected my approval rating more negatively.\nthought: I'm not smart enough to succeed at mturk",
+        "response": "fortune telling,personalization,all-or-nothing thinking,overgeneralization,labeling",
+        "label": "fortune telling,personalization,all-or-nothing thinking,overgeneralization,labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_176",
+        "query": "situation: I gained a little weight while trying to diet\nthought: I'm not succeeding",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "CognitiveReframing_test_177",
+        "query": "situation: Being transgender\nthought: I'm not who I want to be. I hate my appearance and my voice.",
+        "response": "labeling,discounting the positive",
+        "label": "labeling,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_178",
+        "query": "situation: My boyfriend made fun of me for losing a game. I got upset and we had an argument.\nthought: I'm really bad at everything I do.",
+        "response": "all-or-nothing thinking,labeling,overgeneralization",
+        "label": "all-or-nothing thinking,labeling,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_179",
+        "query": "situation: My grandma died a few years ago and my aunt recently had major surgery.\nthought: I'm scared of losing loved ones",
+        "response": "catastrophizing,negative feeling or emotion",
+        "label": "catastrophizing,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_180",
+        "query": "situation: I made very good English presentation but I got nervous because of the amount of people and I forgot my text\nthought: I'm scared to present in front of other people and I panic",
+        "response": "negative feeling or emotion,emotional reasoning,discounting the positive",
+        "label": "negative feeling or emotion,emotional reasoning,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_181",
+        "query": "situation: My friend asked for help and I denied\nthought: I'm self-centered",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_182",
+        "query": "situation: It's so hard to study effectively and it takes all the time and energy I have. And then I still don't feel prepared.\nthought: I'm so behind and i'm so afraid of the terrible grades I will recieve. I can't do anything right",
+        "response": "negative feeling or emotion,none",
+        "label": "negative feeling or emotion,none"
+    },
+    {
+        "index": "CognitiveReframing_test_183",
+        "query": "situation: it's so hard to do school work, get out of bed, care for myself, and eat\nthought: I'm so exhausted",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_184",
+        "query": "situation: I am trying to write up an essay and can't think of anything\nthought: I'm wasting all my time",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "CognitiveReframing_test_185",
+        "query": "situation: I had been working on a project at work for a very long time, but a higher up manager contacted my boss and asked about it, insinuating I wasn't delivering it fast enough.\nthought: I'm working on this as fast as I possibly can",
+        "response": "comparing and despairing,discounting the positive",
+        "label": "comparing and despairing,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_186",
+        "query": "situation: My financial situation is going out of hand\nthought: I'm worried about my future",
+        "response": "fortune telling,discounting the positive",
+        "label": "fortune telling,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_187",
+        "query": "situation: I can't do anything right and I'm crying over spilling cereal on my bed and dress\nthought: I'm worthless",
+        "response": "labeling,catastrophizing,magnification,all-or-nothing thinking,none,overgeneralization,emotional reasoning,comparing and despairing",
+        "label": "labeling,catastrophizing,magnification,all-or-nothing thinking,none,overgeneralization,emotional reasoning,comparing and despairing"
+    },
+    {
+        "index": "CognitiveReframing_test_188",
+        "query": "situation: My guitar teacher told me I needed to correct my posture\nthought: I've been practicing but I'm not making any progress",
+        "response": "all-or-nothing thinking,overgeneralization,discounting the positive",
+        "label": "all-or-nothing thinking,overgeneralization,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_189",
+        "query": "situation: My daughter refused to do anything I instructed her to and embarrassed me greatly before guests I was hosting.\nthought: If I cannot control her now, I have lost her perhaps forever",
+        "response": "catastrophizing,overgeneralization",
+        "label": "catastrophizing,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_190",
+        "query": "situation: Dealing with PTSD\nthought: If I don't sleep well one night due to panic attack, then I it will only get worse",
+        "response": "fortune telling,none",
+        "label": "fortune telling,none"
+    },
+    {
+        "index": "CognitiveReframing_test_191",
+        "query": "situation: My boyfriend didn't reply back to me instantly.\nthought: If I text my boyfriend too much, he will get bored of me.",
+        "response": "fortune telling,mind reading",
+        "label": "fortune telling,mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_192",
+        "query": "situation: I sent a message to my friend and they did not reply\nthought: It must be my fault",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_193",
+        "query": "situation: I was reprimanded at work for standing up to a coworker who was bullying another co-worker.\nthought: It was unfair that I was the one to get in trouble for defending a weaker person.",
+        "response": "blaming,all-or-nothing thinking",
+        "label": "blaming,all-or-nothing thinking"
+    },
+    {
+        "index": "CognitiveReframing_test_194",
+        "query": "situation: I have anxiety, depression, disordered eating, and when I asked if I have ptsd my therapist said I have (whatever). The longest job I had was five months, and majority of my jobs have been part time seasonal work. about as long as worked anywhere else too. I get bored, and my mental illnesses make it hard too.\nthought: I’ll never be able to hold a job.",
+        "response": "fortune telling,catastrophizing",
+        "label": "fortune telling,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_195",
+        "query": "situation: I called my friend three times this past week but she hasn't answered or called/messaged me back yet.\nthought: Maybe she doesn't really like me as much as I thought and like her. Maybe I'm awkward.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_196",
+        "query": "situation: I called an old friend, but she wasn't home and didn't return my call.\nthought: Maybe she doesn't want to talk to me anymore.",
+        "response": "fortune telling,mind reading",
+        "label": "fortune telling,mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_197",
+        "query": "situation: I was given a wrong dosage of medication by my Doctor.  I couldn't figure out why I felt so bad until I went back to see him.\nthought: Medication can be dangerous.",
+        "response": "all-or-nothing thinking,emotional reasoning",
+        "label": "all-or-nothing thinking,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_198",
+        "query": "situation: I was on a coffee break and my boss reminded me of work that needs to get done.\nthought: My boss must think I'm lazy.",
+        "response": "mind reading,personalization",
+        "label": "mind reading,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_199",
+        "query": "situation: Last week, my co-worker was invited to participate in a workshop and I was not.\nthought: My co-worker is better than me.",
+        "response": "comparing and despairing,labeling,personalization",
+        "label": "comparing and despairing,labeling,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_200",
+        "query": "situation: I confronted a coworker about eating my food from the refrigerator, only to realize the custodians threw away my food the night before.\nthought: My coworkers are making fun of me now",
+        "response": "mind reading,negative feeling or emotion,catastrophizing",
+        "label": "mind reading,negative feeling or emotion,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_201",
+        "query": "situation: I saw my friend comment on an Instagram post when he's been ignoring me.\nthought: My friend doesn't like me anymore.",
+        "response": "mind reading,personalization",
+        "label": "mind reading,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_202",
+        "query": "situation: I run a business with my close friend and we were taking work-related photos at their house. I took the memory card home but lost it while I was walking.\nthought: My friend is going to be angry with me",
+        "response": "mind reading,negative feeling or emotion",
+        "label": "mind reading,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_203",
+        "query": "situation: A friend who is a recent widower has started dating.\nthought: My friend is ignoring his recently-deceased wife.",
+        "response": "mind reading,discounting the positive",
+        "label": "mind reading,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_204",
+        "query": "situation: I showed a new game idea I have to some friends I have in a chat room we all have together, but only 2 of them responded.\nthought: My friends aren't interested in my game idea",
+        "response": "fortune telling,mind reading,negative feeling or emotion,personalization",
+        "label": "fortune telling,mind reading,negative feeling or emotion,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_205",
+        "query": "situation: My girlfriend came home later than usual after work and didn't bother to call and let me know or answer the phone when I called to check on her. She acted like it was not big deal after she came home.\nthought: My girlfriend is hiding something from me.",
+        "response": "catastrophizing,overgeneralization,emotional reasoning",
+        "label": "catastrophizing,overgeneralization,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_206",
+        "query": "situation: My girlfriend said I was a taker when I said she did not emotionally support me before going to a movie last Saturday.\nthought: My girlfriend will leave me.",
+        "response": "fortune telling,mind reading,catastrophizing,negative feeling or emotion",
+        "label": "fortune telling,mind reading,catastrophizing,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_207",
+        "query": "situation: I became very stressed out after getting a bad score on a quiz\nthought: My grades are important and I did poorly",
+        "response": "none,discounting the positive",
+        "label": "none,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_208",
+        "query": "situation: My husband got two tickets to a Bruins game the other day and rather than asking me if I wanted to go with him he invited a friend.\nthought: My husband doesn't want to spend time with me.",
+        "response": "mind reading,overgeneralization,personalization",
+        "label": "mind reading,overgeneralization,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_209",
+        "query": "situation: I was talking to my husband about something that happened to me that day.  He kept interrupting and talking over me.  I got up and left the room.\nthought: My husband was being a jerk and not listening to me.",
+        "response": "personalization",
+        "label": "personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_210",
+        "query": "situation: I was at my Moms house today and we were talking about my job. She was shocked that I had been there for 15 years. She felt that it wasn't a good enough job. We were talking in the living room. She gasped as if that was insane.\nthought: My job is worthless",
+        "response": "all-or-nothing thinking,overgeneralization,discounting the positive",
+        "label": "all-or-nothing thinking,overgeneralization,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_211",
+        "query": "situation: I came home to find my spouse had taken all of his things and left a note saying our marriage was over.\nthought: My marriage is over.",
+        "response": "catastrophizing,negative feeling or emotion,overgeneralization",
+        "label": "catastrophizing,negative feeling or emotion,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_212",
+        "query": "situation: At dinner my mother in law kept trying to tell me how to watch my daughter and was being condensending, I finally got angry and told her to mind her own business.\nthought: My mother in law thinks I am an incompetent father.",
+        "response": "labeling,personalization,all-or-nothing thinking,negative feeling or emotion,mind reading",
+        "label": "labeling,personalization,all-or-nothing thinking,negative feeling or emotion,mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_213",
+        "query": "situation: I was driving home with my mother and we were talking about something. I said something stupid that didn't make sense and she called me out on it.\nthought: My opinions aren't valuable.",
+        "response": "all-or-nothing thinking,negative feeling or emotion,discounting the positive,labeling",
+        "label": "all-or-nothing thinking,negative feeling or emotion,discounting the positive,labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_214",
+        "query": "situation: Lost best friend murdered this time of year in 2017.\nthought: My parents are judging me",
+        "response": "negative feeling or emotion,emotional reasoning",
+        "label": "negative feeling or emotion,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_215",
+        "query": "situation: I was looking forward to relaxing but my partner asked me to make dinner instead.\nthought: My partner thinks I am lazy.",
+        "response": "mind reading,personalization",
+        "label": "mind reading,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_216",
+        "query": "situation: My first boyfriend and I broke up a few years ago\nthought: My partner will leave me if my depression doesn't go away soon.",
+        "response": "fortune telling,mind reading",
+        "label": "fortune telling,mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_217",
+        "query": "situation: My sister in law won't speak to me\nthought: My sister in law thinks I am worthless",
+        "response": "mind reading,negative feeling or emotion",
+        "label": "mind reading,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_218",
+        "query": "situation: My crush doesn't like me back\nthought: Never finding love",
+        "response": "all-or-nothing thinking,overgeneralization",
+        "label": "all-or-nothing thinking,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_219",
+        "query": "situation: I saw my best friend kissing with my long time crush\nthought: No one cares about me",
+        "response": "personalization,all-or-nothing thinking,negative feeling or emotion,overgeneralization,blaming,mind reading",
+        "label": "personalization,all-or-nothing thinking,negative feeling or emotion,overgeneralization,blaming,mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_220",
+        "query": "situation: I don't know why I am writing the essay\nthought: Nobody cares what I have to say",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_221",
+        "query": "situation: I've been sitting at my desk for a long time and I haven't been able to get anything done.\nthought: Other people are probably doing it better than me.",
+        "response": "comparing and despairing",
+        "label": "comparing and despairing"
+    },
+    {
+        "index": "CognitiveReframing_test_222",
+        "query": "situation: I made a joke that fell flat in front of someone I just met, and that person left the room.\nthought: People will never perceive me as acting naturally in social situations.",
+        "response": "fortune telling,overgeneralization",
+        "label": "fortune telling,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_223",
+        "query": "situation: I am under appreciated at work\nthought: Self worth",
+        "response": "comparing and despairing,none",
+        "label": "comparing and despairing,none"
+    },
+    {
+        "index": "CognitiveReframing_test_224",
+        "query": "situation: My girlfriend was ignoring me for a while.\nthought: She didn't like me anymore.",
+        "response": "fortune telling,labeling,personalization,all-or-nothing thinking,negative feeling or emotion,overgeneralization,mind reading",
+        "label": "fortune telling,labeling,personalization,all-or-nothing thinking,negative feeling or emotion,overgeneralization,mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_225",
+        "query": "situation: I asked my daughter a question, and she responded in a snotty way.\nthought: She doesn't love me like she used to.",
+        "response": "labeling,personalization",
+        "label": "labeling,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_226",
+        "query": "situation: A few days ago, I got angry at my husband's grandmother who lives next door for beeping her horn till I came out of the house and asking me to come to dinner.\nthought: She doesn't respect me.",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_227",
+        "query": "situation: My wife accused me of cheating.\nthought: She doesn't trust me.",
+        "response": "mind reading",
+        "label": "mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_228",
+        "query": "situation: While I was at work, my supervisor questioned my decision in a negative tone infront of my peers.\nthought: She needs to stop discussing this.",
+        "response": "blaming,mind reading,negative feeling or emotion",
+        "label": "blaming,mind reading,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_229",
+        "query": "situation: My daughter spilled a drink on my desk.\nthought: She ruined my project",
+        "response": "blaming",
+        "label": "blaming"
+    },
+    {
+        "index": "CognitiveReframing_test_230",
+        "query": "situation: I called a woman I love by accident during a bad time\nthought: She will never love me now",
+        "response": "fortune telling,mind reading,catastrophizing",
+        "label": "fortune telling,mind reading,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_231",
+        "query": "situation: A Roomate of mine stole my comptuer\nthought: Someone I trusted stole something valuable of mine, I was extremely angry and wanted justice",
+        "response": "emotional reasoning",
+        "label": "emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_232",
+        "query": "situation: Everyone in my life has left me\nthought: Someone please kill me",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_233",
+        "query": "situation: I have a flight in the evening\nthought: Something will go wrong on my flight today",
+        "response": "fortune telling",
+        "label": "fortune telling"
+    },
+    {
+        "index": "CognitiveReframing_test_234",
+        "query": "situation: All of my relationship attempts have ended in failure\nthought: Suicidal thoughts",
+        "response": "fortune telling,emotional reasoning",
+        "label": "fortune telling,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_235",
+        "query": "situation: I love two people at the same time\nthought: That I'm going to fail",
+        "response": "fortune telling,catastrophizing",
+        "label": "fortune telling,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_236",
+        "query": "situation: My uncle was in a serious accident and ignorant members of my family did not contact me and let me know.\nthought: The anger I felt because some members of the family do not like me so they refused to let me know about my beloved uncle.",
+        "response": "mind reading,personalization",
+        "label": "mind reading,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_237",
+        "query": "situation: I yelled at my child for being too fidgety during stories at bedtime.\nthought: The kids will never settle down.",
+        "response": "fortune telling,overgeneralization",
+        "label": "fortune telling,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_238",
+        "query": "situation: My husband cancelled our wedding anniversary dinner.\nthought: The thought that he does not care about me anymore.",
+        "response": "mind reading,catastrophizing,overgeneralization",
+        "label": "mind reading,catastrophizing,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_239",
+        "query": "situation: I had a complaint against my work which I felt unnecessary to bring to my attention as it was very minor.\nthought: There was no need to even say anything it was very minor.",
+        "response": "magnification,negative feeling or emotion",
+        "label": "magnification,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_240",
+        "query": "situation: I yelled at my sister for not doing something correctly\nthought: There will never be enough time to get everything done",
+        "response": "blaming,all-or-nothing thinking,catastrophizing",
+        "label": "blaming,all-or-nothing thinking,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_241",
+        "query": "situation: My next door neighbors filed a complaint against us last week blaming our dogs for excessive barking\nthought: They are so wrong and I'm so pissed but I know I can't prove it and they will probably win because they won't ever admit it and I have to do something right NOW! or I might lose my dogs.",
+        "response": ",catastrophizing,overgeneralization",
+        "label": ",catastrophizing,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_242",
+        "query": "situation: I did things that made my group look bad\nthought: They hate me.",
+        "response": "fortune telling,personalization,magnification,negative feeling or emotion,overgeneralization,mind reading",
+        "label": "fortune telling,personalization,magnification,negative feeling or emotion,overgeneralization,mind reading"
+    },
+    {
+        "index": "CognitiveReframing_test_243",
+        "query": "situation: I invited a co-worker out and they turn me down\nthought: They will never want to go out with me",
+        "response": "fortune telling,personalization,catastrophizing,overgeneralization,labeling",
+        "label": "fortune telling,personalization,catastrophizing,overgeneralization,labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_244",
+        "query": "situation: My girlfriend is getting a new job in a distant city.\nthought: This is going to cause us to break up.",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_245",
+        "query": "situation: I'm late for the meeting\nthought: This shows what a jerk I am",
+        "response": "labeling",
+        "label": "labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_246",
+        "query": "situation: My boss pointed out an unintentional error in my work\nthought: This work is a failure",
+        "response": "all-or-nothing thinking",
+        "label": "all-or-nothing thinking"
+    },
+    {
+        "index": "CognitiveReframing_test_247",
+        "query": "situation: A new policy at work was established and required cooperation of efforts from another department in order to meet the new requirements. I took initiative and set meetings to talk about the new roles. After the meeting a verbal agreements were made I drafted a memorandum of agreement outlining the verbal agreements. A day later, the other department refused to participate because they did not want to do any extra work.\nthought: We will not be able to complete the work that needs to be done",
+        "response": "catastrophizing",
+        "label": "catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_248",
+        "query": "situation: A week ago me and my GF were trying to find a store in a nearby town but we got lost.\nthought: We won't be able to find the store before it closes.",
+        "response": "fortune telling,all-or-nothing thinking,catastrophizing,emotional reasoning",
+        "label": "fortune telling,all-or-nothing thinking,catastrophizing,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_249",
+        "query": "situation: I was told that I don't look as attractive as I used to by my significant other. She told me that she does not like the way that I have been dressing lately and that I should go back to my old style of dressing. I can recall feeling embarrassed and let down with myself. I felt very tiny and as though my relationship was falling apart because she was starting to become very superficial.\nthought: What am I doing to deserve this?",
+        "response": "labeling,emotional reasoning",
+        "label": "labeling,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_250",
+        "query": "situation: My love is leaving, and there's no turning back.\nthought: What if I never see her again?",
+        "response": "fortune telling,catastrophizing",
+        "label": "fortune telling,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_251",
+        "query": "situation: I was with friends and misinterpreted a comment and was upset for the wrong reasons. Turns out I misheard what was said and made a big deal out of nothing.\nthought: Why are my friends treating me so harshly?",
+        "response": "blaming,negative feeling or emotion,personalization",
+        "label": "blaming,negative feeling or emotion,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_252",
+        "query": "situation: My girlfriend was sad that I wanted to go out with my friends, and started a fight.\nthought: Why can't I have fun? Why must I stay home all the time?",
+        "response": "overgeneralization,personalization",
+        "label": "overgeneralization,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_253",
+        "query": "situation: I was planning a bachelor party for a friend and some of the people invited were not satisfied with what I was trying to plan.\nthought: Why can't they cooperate on this?",
+        "response": "personalization,all-or-nothing thinking,negative feeling or emotion,overgeneralization,blaming",
+        "label": "personalization,all-or-nothing thinking,negative feeling or emotion,overgeneralization,blaming"
+    },
+    {
+        "index": "CognitiveReframing_test_254",
+        "query": "situation: I got excessively angry at my friend for sending stupid pictures of me to a mutual friend. I felt betrayed and that was extreme\nthought: Why did I overact like this",
+        "response": "catastrophizing,negative feeling or emotion",
+        "label": "catastrophizing,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_255",
+        "query": "situation: Working on a project with Python and have not gotten it to successfully run.\nthought: Why is it still messed up?",
+        "response": "all-or-nothing thinking,discounting the positive",
+        "label": "all-or-nothing thinking,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_256",
+        "query": "situation: I completely overreacted to my teenage son's grades.\nthought: Why isn't this kid applying himself?",
+        "response": "all-or-nothing thinking,overgeneralization",
+        "label": "all-or-nothing thinking,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_257",
+        "query": "situation: Time is running short on the workday, my boss asks me if I can finish a task that will require me to stay for a few extra hours.\nthought: Why would you wait until the last minute to ask me this.",
+        "response": "blaming,discounting the positive",
+        "label": "blaming,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_258",
+        "query": "situation: My husband wants a divorce, I've self isolated for years, my brother died\nthought: Worthlessness, abandonment, grief",
+        "response": "labeling,negative feeling or emotion",
+        "label": "labeling,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_259",
+        "query": "situation: Would my death have an impact on people? Like is there anyone on here that's had someone close to them commit suicide and knows what it's like?\nthought: Would anyone care if I died?",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_260",
+        "query": "situation: The team captain on my gaming team approached me to try to remove me as the vice captain on the team citing that they didn't think I was doing enough to assist them.\nthought: You hardly communicate what you need at all. How am I supposed to help?",
+        "response": "blaming,negative feeling or emotion,personalization",
+        "label": "blaming,negative feeling or emotion,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_261",
+        "query": "situation: Last week I made a special dinner at my house for my family to enjoy but I overcooked the food.\nthought: after 30 years since I first started learning how to cook I am still ruining meals.",
+        "response": "magnification,negative feeling or emotion,overgeneralizationn,discounting the positive",
+        "label": "magnification,negative feeling or emotion,overgeneralizationn,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_262",
+        "query": "situation: My mom cooked me breakfast and the eggs which she knows i like over medium were over cooked. I became very upset.\nthought: frustration",
+        "response": "magnification,discounting the positive",
+        "label": "magnification,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_263",
+        "query": "situation: My boyfriend and I were supposed to go out last night and I got very aggravated at the change of plans and that he pushed back the time.\nthought: he didn't respect our initial commitment",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_264",
+        "query": "situation: A neighbor borrowed my smartphone charger and never returned it.\nthought: he took me for granted!",
+        "response": "labeling,catastrophizing,personalization",
+        "label": "labeling,catastrophizing,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_265",
+        "query": "situation: I get so annoyed and frustrated when my baby cries\nthought: i am a terrible mom",
+        "response": "negative feeling or emotion",
+        "label": "negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_266",
+        "query": "situation: i ate too much and too fast to temporarily please myself but not because i felt hunger\nthought: i am not able to control my eating habits",
+        "response": "negative feeling or emotion,overgeneralization",
+        "label": "negative feeling or emotion,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_267",
+        "query": "situation: im scared of the human mind\nthought: i cant trust people",
+        "response": "fortune telling,emotional reasoning",
+        "label": "fortune telling,emotional reasoning"
+    },
+    {
+        "index": "CognitiveReframing_test_268",
+        "query": "situation: I cant work out what my real personality is because my opinions and moods change all the time and Its like I change into different personalities kind of but its not different conciousmesses its just i dont know how to explain it but I think im insane because I dont know much about who I am because who I am changes and it can change very fast, is this normal?\nthought: i have no stable identity and I dont know why or if its normal",
+        "response": "overgeneralization",
+        "label": "overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_269",
+        "query": "situation: My wife sat me down and said she needed me to make more money because she is tired of paying rent by herself\nthought: i was letting her down and she felt pressured by my actions",
+        "response": "mind reading,overgeneralization",
+        "label": "mind reading,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_270",
+        "query": "situation: i still can't speak or understand korean, even after 6 months here\nthought: i'm not good enough",
+        "response": "all-or-nothing thinking,overgeneralization",
+        "label": "all-or-nothing thinking,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_271",
+        "query": "situation: last week i went in for a job interview that i thought went very well but then i didnt get the job\nthought: ill never be able to find a good job",
+        "response": "fortune telling,catastrophizing",
+        "label": "fortune telling,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_272",
+        "query": "situation: a girl i really liked would not go out on a date with me\nthought: im not very attractive",
+        "response": "all-or-nothing thinking,labeling",
+        "label": "all-or-nothing thinking,labeling"
+    },
+    {
+        "index": "CognitiveReframing_test_273",
+        "query": "situation: i dont wanna continue with this life\nthought: im ready to die",
+        "response": "negative feeling or emotion,emotional reasoning,discounting the positive",
+        "label": "negative feeling or emotion,emotional reasoning,discounting the positive"
+    },
+    {
+        "index": "CognitiveReframing_test_274",
+        "query": "situation: I am single and isolated\nthought: im unlovable",
+        "response": "labeling,negative feeling or emotion",
+        "label": "labeling,negative feeling or emotion"
+    },
+    {
+        "index": "CognitiveReframing_test_275",
+        "query": "situation: I lost my best friend. I'm a male and she was the nicest girl I've ever met. But I fucked it. I started to take her for granted, started to overthink, to take everything too seriously, I was jealous, selfish and though only of my own interests and not of hers feelings\nthought: it's all my fault",
+        "response": "all-or-nothing thinking,personalization",
+        "label": "all-or-nothing thinking,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_276",
+        "query": "situation: one of my friend posted a video of a spider getting inside a car, and she so happened to have had her car broken into. So i asked her if the police found whoever broke into her car, and she totally ignored me\nthought: maybe she doesn't like me anymore.",
+        "response": "mind reading,personalization",
+        "label": "mind reading,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_277",
+        "query": "situation: i and my brother were working in the same office were i am his senior and when he does careless mistakes my boss warned me as i am his senior who is responsible for his work\nthought: my brother is very careless as he has the feeling that there is no one to ask him as his sister is the one who is senior",
+        "response": "none,overgeneralization",
+        "label": "none,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_278",
+        "query": "situation: My daughter lied to me about a photo on her phone because she was embarrassed\nthought: she doesnt want to share things with me",
+        "response": "overgeneralization,personalization",
+        "label": "overgeneralization,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_279",
+        "query": "situation: My husband and his friends are always speaking Spanish in front of me and I cannot understand anything\nthought: they are saying things in front of me that they don't want me to know or understand",
+        "response": "negative feeling or emotion,overgeneralization,personalization",
+        "label": "negative feeling or emotion,overgeneralization,personalization"
+    },
+    {
+        "index": "CognitiveReframing_test_280",
+        "query": "situation: I had tentative plans to get together with friends last week, but they never got back to me.\nthought: they don't really like me",
+        "response": "mind reading,all-or-nothing thinking",
+        "label": "mind reading,all-or-nothing thinking"
+    },
+    {
+        "index": "CognitiveReframing_test_281",
+        "query": "situation: I got very upset last week when I realized that I had forgotten to fill out a required form and the date that the form was due had already passed.\nthought: they should have reminded me before I forgot",
+        "response": "should statements",
+        "label": "should statements"
+    },
+    {
+        "index": "CognitiveReframing_test_282",
+        "query": "situation: Meeting an old friend, that I hadn't seen in 21 years for lunch.\nthought: what if i have nothing to say, what if we don't click anymore, what if this goes badly.",
+        "response": "fortune telling,catastrophizing",
+        "label": "fortune telling,catastrophizing"
+    },
+    {
+        "index": "CognitiveReframing_test_283",
+        "query": "situation: I found a job I thought was perfect for me in the field I used to work in and love very much. A few days after putting in a resume and lining up several references, I found out the job was filled and I didn't even get so much as an acknowledgment of my application much less an interview when I was extremely qualified.\nthought: why can't I ever get anything I want",
+        "response": "all-or-nothing thinking,overgeneralization",
+        "label": "all-or-nothing thinking,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_284",
+        "query": "situation: i celebrated a past holiday by myself\nthought: why don't i have friends? why am i not social? SIGH!",
+        "response": "all-or-nothing thinking,overgeneralization",
+        "label": "all-or-nothing thinking,overgeneralization"
+    },
+    {
+        "index": "CognitiveReframing_test_285",
+        "query": "situation: My daughter's illness\nthought: worry about a disabled family member",
+        "response": "negative feeling or emotion,none",
+        "label": "negative feeling or emotion,none"
+    }
+]

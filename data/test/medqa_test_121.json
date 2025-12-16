@@ -1,0 +1,728 @@
+[
+    {
+        "index": "MedQA-19",
+        "query": "A 46-year-old man is brought to the emergency department for evaluation of altered mental status. He was found on the floor in front of his apartment. He is somnolent but responsive when aroused. His pulse is 64/min, respiratory rate is 15/min, and blood pressure is 120/75 mm Hg. On physical examination, an alcoholic smell and slurred speech are noted. Neurological exam shows diminished deep tendon reflexes bilaterally and an ataxic gait. His pupils are normal. Blood alcohol concentration is 0.04%. An ECG shows no abnormalities. Which of the following is the most likely cause of this patient's symptoms? <choices>  a. Hypoglycemia b. Cerebral ischemia c. Ethanol intoxication d. Cannabis intoxication e. Benzodiazepine intoxication\n\"",
+        "response": "e",
+        "label": "e"
+    },
+    {
+        "index": "MedQA-45",
+        "query": "A man is brought into the emergency department by the police department. The officer state that the man has been arrested multiple times for public alcohol intoxication, but recently became homeless. On exam, the man is behaving erratically. His vitals are all within normal limits. He appears confused and has a slurred speech. On gait exam, the patient is ataxic and cannot stand without support for more than a few seconds. Labs return with the following values: Na 140, K 4, Cl 106, BUN 8, Cr 2. His ABG has pH 7.3, PaCO2 13mm, PaO2 130mm, HCO3 7. His urinalysis is shown in Figure 1. Blood salicylate levels return as normal. While you await other diagnostic tests, which of the following should be administered next to treat this patient? <choices>  a. Ethanol b. Naltrexone c. Naloxone d. Flumazenil e. Fomepizole",
+        "response": "e",
+        "label": "e"
+    },
+    {
+        "index": "MedQA-53",
+        "query": "A 72-year-old woman is brought to the physician by her daughter because of a 6-month history of worsening short-term memory deficits and social withdrawal. Treatment with galantamine is initiated. Two weeks later, the patient develops vomiting, mild crampy abdominal pain, and watery, nonbloody diarrhea. Which of the following is the most appropriate pharmacotherapy? <choices>  a. Bethanechol b. Metoclopramide c. Loperamide d. Atropine e. Oxybutynin",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-54",
+        "query": "A 61-year-old man with schizophrenia in a locked inpatient psychiatry unit was observed making an unusual smacking motion with his lips, pursing his mouth, and blinking excessively. These symptoms started slowly about 2 weeks ago and have become more pronounced, but they do not seem to bother the patient. He resides in an inpatient psychiatric facility where he has been successfully treated with haloperidol for the past several months. His physical exam and vitals are within normal limits. Which of the following accurately describes his symptoms? <choices>  a. Akathisia b. Tardive dyskinesia c. Acute dystonia d. Pseudoparkinsonism e. Palsy",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-56",
+        "query": "An otherwise healthy 26-year-old man comes to the physician for medication counseling after recently being diagnosed with schizophrenia. Risperidone therapy is initiated. This patient is at increased risk for which of the following adverse effects? <choices>  a. Agranulocytosis b. Shortened QT interval c. Gynecomastia d. Hypothyroidism e. Weight loss",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-59",
+        "query": "A 17-year-old girl is referred by her dentist for a suspected eating disorder. She has been visiting the same dentist since childhood and for the past 2 years has had at least 2 visits for dental caries. She eventually admitted to him that she regularly induces vomiting by putting her fingers down her throat. She says she has been doing this for the last few years and purging at least once a week. More recently, she has been inducing emesis more often and even looked into diuretics as she feels that she is gaining more and more weight compared to her ‘skinny friends’. Her BMI is at the 50th percentile for her age and sex. Which of the following features is most consistent with this patient’s condition? <choices>  a. Patients with this disorder are not further sub-typed b. Patients do not usually initiate treatment c. Patients can have a history of both anorexia and bulimia d. Patients will typically have a BMI between 17–18.5 kg/m2 e. Patients usually have significant medical complications",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-92",
+        "query": "Six days after undergoing surgical repair of a hip fracture, a previously healthy 79-year-old woman is agitated and confused. She is unarousable during the day, but then is awake and impulsive during the night, requiring frequent reorientation. Her husband says that she usually drinks one to two glasses of wine weekly. Her only current medication is oxycodone for pain. Her vital signs are within normal limits. She is distressed and oriented to person but not to place or time. Neurologic examination shows inattentiveness but no focal deficits. Urine dipstick is normal. Which of the following is the most likely cause of her current condition? <choices>  a. Dementia b. Alcohol withdrawal c. Opioid intoxication d. Delirium e. Urinary tract infection",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-99",
+        "query": "A 43-year-old man with a history of schizophrenia, currently controlled with medication, comes in for an appointment with his internist. He is concerned about abnormal discharge from both nipples over the past 3 months. The fluid is white, and he wonders if it could be milk. On further review of systems, he endorses a diminished sexual drive. The physician suspects that one of the patient's medications may be the culprit for these symptoms. Which of the following medications is NOT likely to be the cause? <choices>  a. Metoclopramide b. Haloperidol c. Bromocriptine d. Fluphenazine e. Risperidone",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-105",
+        "query": "A 28-year-old woman presents following a suicide attempt 2 days ago. She says that her attempt was a result of a fight with her boyfriend and that she slit her wrists in an attempt to keep him from breaking up with her. In the past, she has had many turbulent relationships, both romantic and in her family life. Her family members describe her as being very impulsive and frequently acting to manipulate people’s feelings. Since she was admitted to the hospital, she has spit at several staff members and alternated between sobbing and anger. She has no significant past medical history. The patient denies any history of smoking, alcohol use, or recreational drug use. Which of the following is the most likely diagnosis in this patient? <choices>  a. Histrionic personality disorder b. Borderline personality disorder c. Dependent personality disorder d. Avoidant personality disorder e. Narcissistic personality disorder",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-147",
+        "query": "A 35-year-old woman comes to the physician because she has been feeling very stressed over the past several months. During this period, she has found it difficult to relax. She states that her head is full of worries. She works at an accountant's office and reports difficulty in concentrating on her work. She has been working longer shifts because one of her coworkers is on vacation and reports feeling more tired than usual. She is married and frequently fights with her husband. The patient states that in order to deal with her stress, she goes shopping. While shopping, she steals small trivial items and feels immediately relieved thereafter. She discards the objects she steals and has feelings of shame and guilt about her actions. Her husband is concerned about her behavior, but she is unable to stop shoplifting. Her vital signs are within normal limits. On mental status examination, she is oriented to person, place, and time. She reports feeling anxious. Physical examination shows no abnormalities. Which of the following is the most appropriate next step in management? <choices>  a. Administration of lithium b. Interpersonal therapy c. Psychodynamic psychotherapy d. Cognitive behavioral therapy e. Motivational interviewing",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-148",
+        "query": "A 65-year-old man presents to his primary care physician for a change in his behavior over the past few months. Initially, the patient was noted to be behaving inappropriately including using foul language and grabbing people unexpectedly. This has progressed to a worsening of his memory and trouble caring for himself. His temperature is 98.1°F (36.7°C), blood pressure is 162/103 mmHg, pulse is 83/min, respirations are 13/min, and oxygen saturation is 98% on room air. Physical exam is notable for an elderly man who laughs inappropriately at times and who is a poor historian. When he is engaged in conversation, he exhibits word finding difficulty and is rather inattentive. Which of the following is the most likely diagnosis? <choices>  a. Alzheimer dementia b. Frontotemporal dementia c. Kluver-Bucy syndrome d. Lewy body dementia e. Vascular dementia",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-153",
+        "query": "A 71-year-old man comes to the physician for a routine visit. His psychiatric history is significant for major depression with psychotic features. He was diagnosed after his wife died from pancreatic cancer four years earlier. Three years ago, he deliberately overdosed on sleeping pills. Today, he feels well but still wakes up frequently at night and cannot sleep through the night. He lives alone in his apartment and has no children. He does not possess a firearm at home but has access to weapons at a local hunting club. The patient currently denies suicidal thoughts or thoughts of self-harm. He takes sertraline and olanzapine. He does not smoke or drink alcohol. Which of the following is the strongest risk factor for suicide in this patient? <choices>  a. Previous suicide attempt b. History of psychosis c. Access to firearms d. Sleeping disorder e. Age\n\"",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-155",
+        "query": "A 19-year-old man is brought to the emergency department by ambulance because of unusual behavior that started 3 hours ago while he was at a party. He has a history of major depressive disorder and seasonal allergies. His mother has a history of anxiety. He drinks 5 beers on the weekends. Current medications include amitriptyline and diphenhydramine. The patient does not respond to questions and repeatedly says, \"\"The government is following me everywhere.\"\" His temperature is 37.9°C (100.2°F), pulse is 115/min, respirations are 24/min, and blood pressure is 160/89 mm Hg. He is diaphoretic. He is not oriented to place or time. Neurologic examination shows dilated pupils bilaterally and diffuse hyperreflexia. His feet are cold, and capillary refill time is 3 seconds. After the examination, the patient starts screaming and tries to bite the physician. Urine toxicology screening is positive for ethyl glucuronide. Which of the following is the most likely explanation for this patient's symptoms?\" <choices>  a. Brief psychotic disorder b. Neuroleptic malignant syndrome c. Anticholinergic toxicity d. Lysergic acid diethylamide intoxication e. Synthetic cathinone intoxication",
+        "response": "e",
+        "label": "e"
+    },
+    {
+        "index": "MedQA-156",
+        "query": "A 22-year-old male presents to the emergency room complaining of neck stiffness. He reports that his neck started “locking” three hours ago. He is now unable to move it. His past medical history is notable for schizophrenia and asthma and he currently takes albuterol as well as another medication whose name he does not remember. His temperature is 99.0°F (37.2°C), blood pressure is 130/90 mmHg, pulse is 105/min, and respirations are 18/min. On physical examination, the patient appears anxious and diaphoretic. He speaks in full sentences and is oriented to person, place, and time. The patient’s neck is flexed and rotated to the right approximately 40 degrees. The right sternocleidomastoid and trapezius are firm and contracted. Extraocular movements are full and intact. Upon further questioning, he reports that he took more medication four hours ago because he was hearing voices. Which of the following should most likely be administered to this patient? <choices>  a. Glycopyrrolate b. Benztropine c. Levodopa d. Dantrolene e. Propranolol",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-172",
+        "query": "An 83-year-old man is admitted to the hospital with fever, weakness, and decreased responsiveness. He is diagnosed with urosepsis based on urinalysis and culture and started on ceftriaxone and intravenous fluids. By hospital day 3, he is clinically improving. During the evening, the patient becomes irritable. He is talking to someone despite nobody being present in the room. He is easily agitated and attempts to strike a nurse with a remote control to his TV. Subsequently, the patient keeps getting out of bed and trying to walk away despite being a fall risk. Which of the following is the most appropriate next step in management? <choices>  a. Diphenhydramine b. Lorazepam c. Olanzapine d. Phenobarbital e. Physical restraints",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-184",
+        "query": "A 78-year-old man is brought to the physician by his daughter because of increasing forgetfulness over the past 5 weeks. He had been living independently but came to live with his daughter temporarily after he complained that he was unable to perform some of his daily activities. He has left the front door wide open and tap water running on multiple occasions. He does not sleep well and wakes up 6–7 times during the night. He does not leave his room and rarely makes conversation with his daughter. He says that he used to enjoy playing the piano but has not played for several months. He has hypertension treated with amlodipine. Vital signs are within normal limits. Mental status examination shows orientation to person, place, and time and psychomotor retardation. He has a blunted affect. Short- and long-term memory is impaired. Attention and concentration are impaired. Neurologic examination shows no focal findings. Serum concentration of electrolytes, thyroid-stimulating hormone, and vitamin B12 are within the reference range. He is very concerned about his memory lapses. Which of the following is the most appropriate treatment for this patient? <choices>  a. Donepezil b. Fluoxetine c. Aspirin d. Ventriculoperitoneal shunt e. Memantine",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-189",
+        "query": "A 17-year-old woman presents to your office concerned that she has not had her menstrual period in 4 months. She states that menses began at age of 13 and has been regular until two months ago. She denies sexual activity, and urine pregnancy test is negative. On exam, she appears well-nourished with a BMI of 21 kg/m^2, but you note that she has enlarged cheeks bilaterally and has calluses on the dorsum of her hands. She says that she has been very stressed with school and has recently been binge eating. What other finding do you expect to see in this patient? <choices>  a. Malar rash b. Increased blood glucose level c. Erosion of tooth enamel d. Enlarged thyroid e. Elevated estrogen levels",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-190",
+        "query": "A 23-year-old college student presents to the clinic with a history of intermittent chest discomfort. He reports that, about once per month for the past 8 or 9 months, he's had episodes of \"feeling like my chest is going to explode.\" During these episodes, he also feels shortness of breath, feels shakiness throughout his arms and legs, and sweats so heavily that he needs to change his shirt. He is unsure of any clear precipitating factors but thinks they may occur more often around important exams or when big school projects are due. He shares that, as these episodes continue to recur, he has had mounting anxiety about having one when he is in class or at a restaurant. As a result, he is leaving the house less and less. He has no past medical history; the physical exam is unremarkable. Which of the following is the best medication for the long-term management of this patient's condition? <choices>  a. Citalopram b. Lithium c. Lorazepam d. Propranolol e. Quetiapine",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-195",
+        "query": "A group of researchers conducted a study to determine whether there is an association between folic acid supplementation before pregnancy and autism spectrum disorder (ASD) in offspring. The researchers retrospectively surveyed 200 mothers with children diagnosed with ASD during the first 4 years of life and 200 mothers with healthy children. All participants were interviewed about their prenatal consumption of folic acid using standardized questionnaires. A 94% response rate was obtained from the surveys. The study ultimately found that folic acid supplementation was associated with lower rates of ASD in offspring (OR = 0.3, p < 0.01). Which of the following type of bias is most likely to have influenced these results? <choices>  a. Interviewer bias b. Latency period c. Recall bias d. Survival bias e. Length-time bias",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-250",
+        "query": "A 35-year-old woman is brought into the clinic by a concerned neighbor who says that the patient is often seen setting up bear traps all around her property because of an impending ‘invasion of the mole people.’ The patient has come to the clinic wearing a garlic necklace. She vaguely explains that the necklace is to mask her scent from the moles tracking her. She has no past psychiatric history and she denies hearing voices or seeing objects. No significant past medical history. Although she has lived in the same community for years, she says she usually keeps to herself and does not have many friends. She holds a regular job at the local hardware store and lives alone. Which of the following is the best initial course of treatment for this patient? <choices>  a. Cognitive behavioral therapy (CBT) b. The patient does not require any intervention c. Electroconvulsive therapy (ECT) d. A brief trial of antipsychotic therapy e. Refer to outpatient group therapy",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-252",
+        "query": "A 30-year-old man presents to his primary care provider complaining of drowsiness at work for the past several months. He finds his work as a computer programmer rewarding and looks forward to coming into the office every day. However, he often falls asleep during meetings even though he usually gets a good night sleep and has limited his exposure to alcohol and caffeine in the evening. His past medical history is noncontributory. His vital signs are within normal limits. Physical examination is unremarkable. The primary care provider recommends keeping a sleep journal and provides a questionnaire for the patient’s wife. The patient returns one month later to report no changes to his condition. The sleep journal reveals that the patient is getting sufficient sleep and wakes up rested. The questionnaire reveals that the patient does not snore nor does he stop breathing during his sleep. A sleep study reveals mean sleep latency of 6 minutes. Which of the following is the best course of treatment for this patient’s condition? <choices>  a. Methylphenidate b. Sodium oxybate c. Imipramine d. Increase daytime naps e. Changing career",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-262",
+        "query": "A 70-year-old man is brought to the emergency department by staff of the group home where he resides because of worsening confusion for the past week. He has a history of major depressive disorder and had an ischemic stroke 4 months ago. Current medications are aspirin and sertraline. He is lethargic and disoriented. His pulse is 78/min, and blood pressure is 135/88 mm Hg. Physical examination shows moist oral mucosa, normal skin turgor, and no peripheral edema. While in the waiting room, he has a generalized, tonic-clonic seizure. Laboratory studies show a serum sodium of 119 mEq/L and an elevated serum antidiuretic hormone concentration. Which of the following sets of additional laboratory findings is most likely in this patient?\n $$$ Serum osmolality %%% Urine sodium %%% Serum aldosterone $$$ <choices>  a. ↑ normal normal b. ↓ ↓ ↓ c. ↑ ↓ normal d. ↓ ↑ ↑ e. ↓ ↑ ↓",
+        "response": "e",
+        "label": "e"
+    },
+    {
+        "index": "MedQA-263",
+        "query": "A 35-year-old woman presents with severe fear reactions to seeing dogs after moving into a new suburban neighborhood. She states that she has always had an irrational and excessive fear of dogs but has been able to avoid it for most of her life while living in the city. When she sees her neighbors walking their dogs outside, she is terrified and begins to feel short of breath. Recently, she has stopped picking up her children from the bus stop and no longer plays outside with her children in order to avoid seeing any dogs. Which of the following would be the best definitive treatment for this patient? <choices>  a. Selective serotonin reuptake inhibitors (SSRIs) b. Short-acting benzodiazepines c. Systematic desensitization d. Cognitive behavioral therapy e. Dialectical behavioral therapy",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-280",
+        "query": "A 32-year-old man arrives to his primary care physician to discuss his fear of flying. The patient reports that he has had a fear of flying since being a teenager. He went on a family vacation 15 years ago, and during the flight there was turbulence and a “rough landing”. Since then he has avoided flying. He did not go to his cousin’s wedding because it was out of the country. He also was unable to visit his grandmother for her 80th birthday. The last time his job asked him to meet a client out of state, he drove 18 hours instead of flying. Two years ago he promised his fiancé they could fly to Florida. Upon arrival at the airport, he began to feel dizzy, lightheaded, and refused to go through security. During the clinic visit, the patient appears anxious and distressed. He recognizes that his fear is irrational. He is upset that it is affecting his relationship with his wife. Additionally, his current job may soon require employees in his sales position to fly to meet potential clients. He is embarrassed to have a conversation with his manager about his fear of flying. Which of the following is the best therapy for the patient’s condition? <choices>  a. Alprazolam b. Cognitive behavioral therapy c. Fluoxetine d. Psychodynamic psychotherapy e. Zolpidem",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-282",
+        "query": "A 16-year-old girl is brought to the physician by her father because of concerns about her behavior during the past 2 years. She does not have friends and spends most of the time reading by herself. Her father says that she comes up with excuses to avoid family dinners and other social events. She states that she likes reading and feels more comfortable on her own. On mental status examination, her thought process is organized and logical. Her affect is flat. Which of the following is the most likely diagnosis? <choices>  a. Schizoid personality disorder b. Schizotypal personality disorder c. Antisocial personality disorder d. Schizophreniform disorder e. Autism spectrum disorder",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-316",
+        "query": "A 32-year-old woman presents to the physician because she feels depressed, has difficulty sleeping, has a poor appetite, and has had a problem concentrating for the past 3 months. During this time, she has also has had low energy and has lost interest in playing the guitar. During high school, the patient went through similar episodes of low mood and poor sleep. At that time, she would repeatedly engage in binge eating and purging behavior, for which she was referred to therapy. There is no evidence of suicidal ideation. Her physician offers to prescribe a medication for her current symptoms. Treatment with which of the following drugs should be avoided in this patient? <choices>  a. Bupropion b. Citalopram c. Fluoxetine d. Mirtazapine e. Trazodone",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-319",
+        "query": "A 22-year-old man presents to a psychiatrist complaining of mood fluctuations. He is accompanied by his mother who reports that the patient recently experienced a 5-day episode of minimal sleep and unusual levels of energy. The patient admits to spending $2,000 of his parent’s money, without asking, on a down payment for a motorcycle. The episode resolved after 5 days, at which point the patient felt guilty and upset. The patient’s medical history is notable for multiple month-long episodes in the past 2 years of feeling sad, sleeping more than usual, being uninterested in his hobbies, and feeling constantly tired and guilty. The patient has a history of severe meningoencephalitis at the age of 17 requiring four days in the intensive care unit. During that episode, he reported seeing monkeys in his hospital room. On exam, he is a well-appearing, cooperative male in no acute distress. He is alert and oriented with a normal affect. He states that he feels sad and guilty about what happens. He denies suicidal ideation. Which of the following is the most likely diagnosis in this patient? <choices>  a. Bipolar I disorder b. Bipolar II disorder c. Cyclothymic disorder d. Persistent depressive disorder e. Schizoaffective disorder",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-339",
+        "query": "A 45-year-old woman presents to the clinic with her husband to discuss her most recent problem. She and her husband recently bought a new house in the area. While cleaning the house, they discovered a nest of spiders. She reports blacking out and waking up outside the house with a bandage on her arm. Her husband says that she began screaming and ran out of the house, breaking a window, and cutting her arm. The patient says she has tried to enter the house several times over the last several months but can not bring herself to cross the threshold for fear of more spiders. She wants to overcome her extreme and irrational fear. Which of the following is the most effective treatment to overcome this patient’s arachnophobia? <choices>  a. Desensitization b. Paroxetine c. Metoprolol d. Alprazolam e. Psychotherapy",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-340",
+        "query": "A 67-year-old man is brought to the physician because of increasing forgetfulness, unsteadiness, and falls over the past year. He reports that these symptoms seem to worsen with each fall. Initially, he could not remember directions to his home but now cannot remember recent conversations or appointments he has made. He often repeats questions that he asked shortly before. He has long-standing hypertension, coronary artery disease, and hypercholesterolemia. Current medications include aspirin, carvedilol, enalapril, and atorvastatin. Examination shows a bruise over the left temple and an unsteady gait. On mental status examination, he is oriented to place and person only. Short-term memory is impaired; he can recall 0 out of 5 objects after 10 minutes. Long-term memory is intact. He has no delusions or hallucinations. Muscle strength is decreased in the left lower extremity. The Babinski sign is present on the left. A CT scan of the head is shown. Which of the following is the most appropriate next step in management? <choices>  a. Warfarin therapy b. Vitamin E therapy c. Cerebral shunting d. Tetrabenazine therapy e. Cognitive training",
+        "response": "e",
+        "label": "e"
+    },
+    {
+        "index": "MedQA-346",
+        "query": "A 19-year-old man in a 3-month relationship with a woman experiences frequent sexual fantasies about male coworkers. He lives in a conservative community and does not know any openly gay men. Two days ago, he joined a local group considered by many organizations to be a hate group. Together with the other members, he attacked a gay couple on their way home from dinner. Which of the following psychological defense mechanisms is he demonstrating? <choices>  a. Acting out b. Sublimation c. Reaction formation d. Intellectualization e. Projection",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-348",
+        "query": "A 23-year-old woman presents to her psychiatrist concerned about her mood. She has felt tired and unwilling to engage in any activities lately. She states that her limbs feel heavy all the time and that completing any activity takes tremendous effort. She no longer finds any happiness in activities that she previously enjoyed. She also states that she really struggles to sleep and at times can't sleep for several days. The patient is started on appropriate first-line therapy and sent home. She returns 1 week later stating that her symptoms have not improved. She is requesting help as her performance at work and school is suffering. Which of the following is the best next step in management? <choices>  a. Add lithium to treatment regimen b. Change treatment to duloxetine c. Change treatment to lithium d. Continue current therapy e. Electroconvulsive therapy",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-349",
+        "query": "A 16-year-old patient presents to the physician’s office with an absence of menstruations. Her last period was 6 months ago. Since almost a year and a half ago, she intentionally restricted her diet at the expense of carbohydrates, exercised intensively, and lost 18.0 kg (39.7 lb). She had her menarche at the age of 12 and menstruated normally until last year. She is not sexually active. On physical examination, the vital signs include blood pressure 100/60 mm Hg, heart rate 55/min, respiratory rate 12/min, and temperature 35.9°C (96.6°F). Her weight is 55.0 kg (121.3 lb), and her height is 166 cm (5 ft 5 in). Physical examination reveals the good development of muscles and decreased adiposity. A bone scan shows decreased calcium mineral deposits. Which statement about this patient’s condition is correct? <choices>  a. Hypertrophied muscles are the source of additional androgens which interfere with the patient’s menstrual cycle b. This patient has insulin resistance c. Decreased adiposity contributes to hypoestrogenemia in this patient d. The patient is likely to have decreased blood estrogen concentration due to increased liver metabolism e. The patient should be checked for hyperthyroidism because such extensive lipolysis is likely to result from thyroid hyperfunction",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-351",
+        "query": "A 26-year-old nurse comes to the physician because of a 2-month history of fatigue. She has had a lot of stress at work and has been on sick leave for 2 weeks, but states that she would like to return to work. She has had several episodes of lower abdominal pain. She says, \"\"I know I have cancer.\"\" She requests a diagnostic laparoscopy. She was diagnosed with peptic ulcer disease 6 months ago. Her only medication is omeprazole. The patient appears pale. Her temperature is 36.5° C (97.7° F), pulse is 120/min, and blood pressure is 90/65 mm Hg. On mental status examination she is tired and has a depressed mood. Physical examination shows pale conjunctivae and dry mucous membranes. There are numerous crusts along the course of her left arm veins. A grade 2/6 systolic ejection murmur is heard along the right-upper sternal border. Abdominal examination shows no abnormalities. There is generalized weakness of the proximal muscles. Laboratory studies show:\nHemoglobin 7.5 g/dL\nMean corpuscular volume 89 μm3\nReticulocyte count 13.3%\nSerum\nSodium 139 mEq/L\nPotassium 3.9 mEq/L\nCalcium 8.5 mg/dL\nTest of the stool for occult blood is negative. Abdominal ultrasonography show no abnormalities. Which of the following is the most likely diagnosis?\" <choices>  a. Factitious disorder b. Somatic symptom disorder c. Conversion disorder d. Primary hyperparathyroidism e. Acute small bowel hemorrhage",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-356",
+        "query": "A 29-year-old man is referred by his marriage counselor to the outpatient psychiatry clinic. The patient’s wife is with him and states that her husband is always complaining and critical of others. He was recently fired from his job to which he claims that his boss was jealous of his hard work. He also does not trust his neighbors and thinks they are out to get all the nice things he has. His wife also says that he has begun to doubt her fidelity and believes that even the marriage counselor is on her side. Which of the following psychiatric disorders also belongs to the same cluster of symptoms? <choices>  a. Schizotypal personality disorder b. Obsessive-compulsive personality disorder c. Antisocial personality disorder d. Narcissistic personality disorder e. Personality disorder not otherwise specified",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-357",
+        "query": "A 24-year-old man is brought to the emergency department by the police. He was found unconscious and covered in bruises outside of a local bar. The patient has a past medical history of polysubstance abuse, depression, multiple suicide attempts, neuropathic pain, and schizophrenia. As part of the patient’s initial workup, a head CT is performed which is unremarkable, and an arterial blood gas is performed as seen below:\n\npH: 7.29\nPaCO2: 95 mm Hg\nPaO2: 70 mm Hg\nBicarbonate: 24 mEq/L\n\nWhich of the following is the most likely etiology of this patient’s current presentation? <choices>  a. Alcohol b. Amitriptyline c. Cocaine d. Ethylene glycol e. Heroin",
+        "response": "e",
+        "label": "e"
+    },
+    {
+        "index": "MedQA-364",
+        "query": "A 34-year-old man currently staying at an addiction center presents to the staff psychiatrist with diarrhea and painful muscle cramps. He has been discontinuing heroin over the last month as part of his treatment plan. He is HIV positive, hepatitis B (HBV) positive, and was recently treated for an infection with Streptococcus pneumoniae. He reports pain over his abdomen, knees, and shoulder. To comprehensively treat these symptoms, which of the following would be the best therapy? <choices>  a. Methadone b. Naloxone c. Alvimopan d. Morphine e. Loperamide",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-382",
+        "query": "A 32-year-old woman comes to the physician because she feels depressed, has difficulty sleeping, a poor appetite, and low concentration for the past 3 months. During this time, she has also had low energy and lost interest in playing the guitar. During high school, the patient went through similar episodes of low mood and poor sleep. At that time, she would repeatedly engage in binge eating and purging behavior, for which she was referred to therapy. There is no evidence of suicidal ideation. The physician offers to prescribe a medication for her current symptoms. Treatment with which of the following drugs should most be avoided in this patient? <choices>  a. Duloxetine b. Trazodone c. Bupropion d. Mirtazapine e. Citalopram",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-402",
+        "query": "A 27-year-old woman with a history of bipolar disorder presents for a 3-month follow-up after starting treatment with lithium. She says she has been compliant with her medication but has experienced no improvement. The patient has no other significant past medical history and takes no other medications. She reports no known allergies. The patient is afebrile, and her vital signs are within normal limits. A physical examination is unremarkable. The patient is switched to a different medication. The patient presents 2 weeks later with an acute onset rash on her torso consisting of targetoid lesions with a vesicular center. She says the rash developed 2 days ago which has progressively worsened. She also says that 1 week ago she developed fever, lethargy, myalgia, and chills that resolved in 3 days. Which of the following drugs was this patient most likely prescribed? <choices>  a. Quetiapine b. Lamotrigine c. Valproate d. Olanzapine-fluoxetine combination (OFC) e. Paroxetine",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-410",
+        "query": "A 26-year-old female complains of frequent, large volume urination. This negatively affects her sleep, as she has to frequently wake up at night to urinate. She also complains of increased thirst. Her past medical history is significant for bipolar disorder that is treated with lithium for 3 years. Serum osmolality is 425 mOsm/kg, and urine osmolality is 176 mOsm/kg. Which of the following best explains this patient’s serum and urine osmolality? <choices>  a. Hypothalamic over-production of antidiuretic hormone (ADH) b. Decreased production of ADH c. ADH resistance in the renal collecting ducts d. Increased sodium reabsorption and potassium excretion e. Increased aquaporin expression in the renal collecting ducts",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-420",
+        "query": "A 15-year-old boy is brought to the physician for evaluation of a learning disability. His teachers have reported hyperactivity during class, difficulties with social interaction, and poor scores on reading and writing assessments. Molecular analysis shows an increased number of CGG trinucleotide repeats. Which of the following findings are most likely to be seen on physical examination of this patient? <choices>  a. Frontal balding and cataracts b. Long face and large everted ears c. Almond-shaped eyes and downturned mouth d. Flat facies and protruding tongue e. Thin upper lip and receding chin",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-425",
+        "query": "A 16-year-old female patient with a history of mental retardation presents to your clinic with her mother. The mother states that she wants her daughter to have a bilateral tubal ligation after she recently discovered her looking at pornographic materials. She states that her daughter is not capable of understanding the repercussions of sexual intercourse, and that she does not want her to be burdened with a child that she would not be able to raise. Upon discussions with the patient, it is clear that she is not able to understand that sexual intercourse can lead to pregnancy. What should your next step be? <choices>  a. Schedule the patient for the requested surgery b. Wait until the patient is 18 years old, and then schedule for surgery c. Refuse the procedure because it violates the ethical principle of autonomy d. Refer the patient to a psychiatrist to get informed consent e. Refuse the procedure because it is unlikely that the patient will get pregnant",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-432",
+        "query": "A 54-year-old woman is brought to the physician by her brother for confusion and agitation. She is unable to personally give a history. Her brother says she has a problem with alcohol use and that he found an empty bottle of vodka on the counter at her home. She appears disheveled. Her temperature is 37°C (98.6°F), pulse is 85/min, and blood pressure is 140/95 mm Hg. On mental status examination, she is confused and oriented only to person. She recalls 0 out of 3 words after 5 minutes. She cannot perform serial sevens and is unable to repeat seven digits forward and five in reverse sequence. Neurologic examination shows horizontal nystagmus on lateral gaze. She has difficulty walking without assistance. Laboratory studies show:\nHemoglobin 11 g/dL\nMean corpuscular volume 110 μm3\nPlatelet count 280,000/mm3\nWhich of the following is most appropriate initial treatment for this patient?\" <choices>  a. Oral chlordiazepoxide b. Intravenous thiamine c. Oral naltrexone d. Intravenous vitamin B12 e. Intravenous glucose\n\"",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-434",
+        "query": "A 70-year-old man is brought to the physician by his daughter because of increasing forgetfulness over the past 3 years. Initially, he used to forget his children's names or forget to lock the house door. During the past year, he has gotten lost twice while returning from the grocery store and was unable to tell passersby his address. One time, he went to the park with his granddaughter and returned home alone without realizing he had forgotten her. His daughter says that over the past year, he has withdrawn himself from social gatherings and avoids making conversation. He does not sleep well at night. His daughter has hired a helper to cook and clean his home. On mental status examination, he is oriented only to person. He describes his mood as fair. Short- and long-term memory deficits are present. He appears indifferent about his memory lapses and says this is normal for someone his age. The most appropriate initial pharmacotherapy for this patient is a drug that acts on which of the following neurotransmitters? <choices>  a. γ-aminobutyric acid b. Serotonin c. Acetylcholine d. Dopamine e. Glutamate",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-442",
+        "query": "A 24-year-old man is brought to the emergency room by the police after a fall. The patient smells of alcohol and is slurring his words. You find out that he has recently been fired from his job as a salesperson for months of tardiness and poor performance. The police tell you that his girlfriend, who was there at the time of the fall, mentioned that the patient has been struggling with alcohol for at least a year. Upon physical examination, the patient becomes agitated and starts yelling. He accuses his ex-boss of being a cocaine addict and says he couldn’t keep up sales percentages compared to someone using cocaine. Which of the following psychiatric defense mechanisms is the patient demonstrating? <choices>  a. Denial b. Displacement c. Projection d. Rationalization e. Regression",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-461",
+        "query": "A 58-year-old man comes to the physician because he is unable to achieve erections during sexual intercourse. He first noticed the problem 8 months ago, when he became sexually active with a new girlfriend. He states that his relationship with his girlfriend is good, but his inability to engage in sexual intercourse has been frustrating. He has hyperlipidemia and was diagnosed with major depressive disorder 3 years ago. He works as a lawyer and enjoys his job, but he has had a great deal of stress lately. He had not been sexually active for the previous 3 years, since the death of his wife. He does not smoke. He drinks 4–6 beers on weekends. Current medications include simvastatin and citalopram. His temperature is 37.5°C (99.5°F), pulse is 80/min, and blood pressure is 135/82 mm Hg. BMI is 30 kg/m2. Pedal pulses are difficult to palpate. The remainder of the physical examination shows no abnormalities. Which of the following is the most appropriate next step in management? <choices>  a. Psychotherapy b. Penile prosthesis insertion c. Intracavernous prostaglandin E1 injections d. Nocturnal penile tumescence testing e. Switch citalopram to bupropion",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-464",
+        "query": "A 22-year-old woman presents to the emergency department for abdominal pain. The patient has been trying to get pregnant and was successful recently, but now she is experiencing abdominal pain, contractions, and a bloody vaginal discharge. According to her last appointment with her primary care provider, she is 10 weeks pregnant. The patient has a past medical history of constipation, anxiety, and substance abuse. She is not currently taking any medications. Her temperature is 99.5°F (37.5°C), blood pressure is 107/58 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air. Physical exam is notable for a bloody vaginal discharge and an open cervix. The patient is initially extremely grateful for the care she is receiving and thanks the doctor and the nursing staff for saving her baby. Upon hearing the news that she is having a spontaneous abortion, the patient becomes angry and aggressive and states that her physician and the medical staff are incompetent, evil, and she is going to sue all of them. The patient is left to grieve but upon entering the room again you notice that the patient has new lacerations over her wrists and that some of the medical equipment in the room is broken. Which of the following is the most likely diagnosis? <choices>  a. Acute stress response b. Antisocial personality disorder c. Borderline personality disorder d. Normal grief response e. Post-traumatic stress disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-487",
+        "query": "A 70-year-old woman with no significant medical history begins to experience memory loss and personality changes. Over the next few months, her symptoms become more severe, as she experiences rapid mental deterioration. She also starts to have sudden, jerking movements in response to being startled and gait disturbances. Eventually, she lapses into a coma and dies eight months after the onset of symptoms. What process likely caused this woman's illness? <choices>  a. Loss of dopaminergic neurons in the substantia nigra pars compacta. b. Autoimmune inflammation and demyelination of the central nervous system. c. Autoimmune inflammation and demyelination of the peripheral nervous system. d. Conversion of a protein from an a-helix to a ß-pleated form, which resists degradation. e. Frontotemporal atrophy and the accumulation of intracellular, aggregated tau protein.",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-506",
+        "query": "A 72-year-old woman presents to the emergency department with altered mental status. 90 minutes ago, the patient was found by a neighbor unarousable on the couch with multiple empty bottles of medication on the floor next to her. Social history is significant for alcohol abuse. Physical examination reveals an awake female with a fluctuating level of consciousness, not oriented to time or place. No focal neurologic deficits. Which of the following additional findings would most likely be present in this patient? <choices>  a. Hallucinations b. Insidious course c. Irreversibility d. Multi-infarct dementia e. Normal vital signs",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-508",
+        "query": "A 21-year-old old college student is brought to the emergency department by his roommates because he has been \"acting strangely.\" Over the last 7 months, he has claimed to hear voices telling him that he must prepare for the end of the world. He used to be a straight A student but started failing exams recently due to his erratic behavior. Furthermore, there are periods of time where he does not sleep for several days and redecorates the entire apartment. During those times he spends huge amounts of money on online shopping. These periods usually last for about 2 weeks and happen every other month. On physical exam, he appears unkept and irritated. He seems to respond to invisible stimuli, and he jumps from topic to topic without clear focus. Which of the following is most consistent with this patient's presentation? <choices>  a. Bipolar with psychotic features b. Brief psychotic disorder c. Schizoaffective disorder d. Schizophreniform disorder e. Schizotypal personality disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-532",
+        "query": "A 38-year-old man is brought to the emergency room by his father because of altered mental status. According to the father, the patient was unable to get out of bed that morning and has become increasingly confused over the past several hours. The father also noticed it was “pretty cold” in his son's apartment because all of the windows were left open overnight. He has a history of hypothyroidism, schizoaffective disorder, type 2 diabetes mellitus, dyslipidemia, and hypertension for which he takes medication. Ten days ago, he was started on a new drug. He appears lethargic. His rectal temperature is 32°C (89.6°F), pulse is 54/min, respirations are 8/min, and blood pressure is 122/80 mm Hg. Examination shows weakness in the lower extremities with absent deep tendon reflexes. Deep tendon reflexes are 1+ in the upper extremities. The pupils are dilated and poorly reactive to light. Throughout the examination, the patient attempts to remove his clothing. Which of the following drugs is the most likely cause of these findings? <choices>  a. Lisinopril b. Fluphenazine c. Tolbutamide d. Levothyroxine e. Atorvastatin\n\"",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-540",
+        "query": "A 21-year-old man is brought to the emergency department by his mother after being found lying unconscious next to a bottle of pills. The patient’s mother mentions that he has been diagnosed with major depressive disorder 3 years ago for which he was taking a medication that resulted in only a slight improvement in his symptoms. She says he still found it difficult to concentrate on his studies and did not participate in any social events in college. He didn’t have many friends and was often found sitting alone in his room. He has also threatened to take his life on several occasions, but she did not think he was serious. While recording his vital signs, the patient goes into a coma. His ECG shows a QT interval of 450 milliseconds. Which of the following medications did this patient most likely overdose on? <choices>  a. Bupropion b. Sertraline c. Venlafaxine d. Citalopram e. Clomipramine",
+        "response": "e",
+        "label": "e"
+    },
+    {
+        "index": "MedQA-554",
+        "query": "A 30-year-old woman presents to the emergency department with a recent episode of chest pain. She says she was previously well and denies any history of similar symptoms. She reports that, at onset, she felt as if she was going to die and says her heart beating has been beating really fast. There was also profuse sweating, and she says she feels short of breath. She could not recall how long the event lasted but can remember that the symptoms did go away on their own by the time she arrived at the emergency department. Her vitals rapidly returned to normal while giving her medical history and she begins to look and act more calm. No significant past medical history or current medications.  Physical examination is unremarkable. Her electrocardiogram and initial cardiac enzymes are normal. Which the following is necessary to confirm the most likely diagnosis in this patient? <choices>  a. 1 month of associated symptoms  b. Average of 1 disruptive event per week c. Disruptive events lasting > 30 minutes on 2 separate occasions d. Family history e. Agoraphobia",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-555",
+        "query": "A previously healthy 14-year-old boy is brought to the physician for evaluation because of loss of appetite, sleeplessness, and extreme irritability for the past 3 weeks. He was recently kicked off of the school's football team after missing too many practices. He has also been avoiding his family and friends because he is not in the mood to see them, but he admits that he is lonely. He has not left his room for 2 days, which prompted his father to bring him to the physician. He has no medical conditions and does not take any medications. He does not drink alcohol or use recreational drugs. While the father is in the waiting room, a mental status examination is conducted, which shows a constricted affect. Cognition is intact. He says that he would be better off dead and refuses to be treated. He says he wants to use his father's licensed firearm to “end his misery” over the weekend when his parents are at church. Which of the following is the most appropriate next step in management? <choices>  a. Agree to his wish for no further treatment b. Begin paroxetine therapy c. Involuntary hospitalization after informing the parents d. Reassure the patient that he will feel better e. Start outpatient psychotherapy",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-559",
+        "query": "A prominent male politician has secret homosexual desires. However, rather than engaging in homosexual behavior, he holds rallies against gay rights and regularly criticizes gay people. The politician is displaying which of the following defense mechanisms? <choices>  a. Repression b. Reaction formation c. Denial d. Displacement e. Sublimation",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-564",
+        "query": "A 35-year-old man visits your office for his annual health checkup. He was diagnosed with generalized anxiety disorder 6 months ago, which is being treated with citalopram. He comments that his symptoms have improved since initiating the prescribed therapy; however, in the past 2 months, he has been unable to have sexual intercourse due to weak tumescence and low libido. His blood pressure is 122/74 mm Hg, heart rate is 75/min, and respiratory rate is 16/min. Physical examination reveals regular heart and lung sounds. What is the appropriate step in the management of this patient? <choices>  a. Lowering citalopram dose b. Addition of bupropion c. Switch to fluoxetine d. Addition of sildenafil e. Switch to selegiline",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-578",
+        "query": "A 36-year-old woman comes to the physician because of difficulty discarding items in her home. She says that the accumulation of things in her kitchen and dining room makes regular use of these spaces incredibly difficult. Her behavior started when she was in high school. She feels anxious when she tries to discard her possessions and her husband tries to clean and organize the home. This behavior frustrates her because most of the items she saves have little emotional or monetary value. She reports that there has been no improvement despite attending cognitive behavioral therapy sessions for the past 6 months. She now feels that her behavior is “taking over” her life. She does not drink, smoke, or use illicit drugs. She takes no medications. Her temperature is 36°C (96.8°F), pulse is 90/min, respirations are 12/min, and blood pressure is 116/80 mm Hg. On mental status examination, she is calm, alert, and oriented to person, place, and time. Her mood is depressed; her speech is organized, logical, and coherent; and there are no psychotic symptoms. Which of the following is the most appropriate next step in management? <choices>  a. Atomoxetine b. Fluoxetine c. Lamotrigine d. Buspirone e. Methylphenidate",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-580",
+        "query": "A 20-year-old woman is brought in for a psychiatric consultation by her mother who is concerned because of her daughter’s recent bizarre behavior. The patient’s father died from lung cancer 1 week ago. Though this has been stressful for the whole family, the daughter has been hearing voices and having intrusive thoughts ever since. These voices have conversations about her and how she should have been the one to die and they encourage her to kill herself. She has not been able to concentrate at work or at school. She has no other history of medical or psychiatric illness. She denies recent use of any medication. Today, her heart rate is 90/min, respiratory rate is 17/min, blood pressure is 110/65 mm Hg, and temperature is 36.9°C (98.4°F). On physical exam, she appears gaunt and anxious. Her heart has a regular rate and rhythm and her lungs are clear to auscultation bilaterally. CMP, CBC, and TSH are normal. A urine toxicology test is negative. What is the patient’s most likely diagnosis? <choices>  a. Brief psychotic disorder b. Schizophreniform c. Adjustment disorder d. Schizophrenia e. Bereavement",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-599",
+        "query": "A 60-year-old man comes to the physician for a routine physical examination. He lives in a group home and takes no medications. During the appointment, he frequently repeats the same information and needs to be reminded why he is at the doctor's office. He says that he is a famous poet and recently had a poem published in a national magazine. His vital signs are within normal limits. He has a constricted affect. Neurological examination shows no focal deficits. On mental status examination, he has no long-term memory deficits and is able to count in serial sevens without error. An MRI of the brain shows atrophy of the anterior thalami and small mamillary bodies. Which of the following is the most likely predisposing factor for this patient's condition? <choices>  a. Consumption of undercooked meat b. Chronic hypertension c. Intravenous heroin use d. Alcohol use disorder e. Spirochete infection",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-605",
+        "query": "A 25-year-old man is brought to the emergency department by police. He was found at a local celebration acting very strangely and was reported by other patrons of the event. The patient is very anxious and initially is hesitant to answer questions. He denies any substance use and states that he was just trying to have a good time. The patient's responses are slightly delayed and he seems to have difficulty processing his thoughts. The patient tells you he feels very anxious and asks for some medication to calm him down. The patient has a past medical history of psoriasis which is treated with topical steroids. His temperature is 99.5°F (37.5°C), blood pressure is 120/75 mmHg, pulse is 110/min, respirations are 15/min, and oxygen saturation is 99% on room air. On physical exam, you note an anxious young man. HEENT exam reveals a dry mouth and conjunctival injection. Neurological exam reveals cranial nerves II-XII as grossly intact with normal strength and sensation in his upper and lower extremities. Cardiac exam reveals tachycardia, and pulmonary exam is within normal limits. Which of the following is the most likely intoxication in this patient? <choices>  a. Alcohol b. Benzodiazepines c. Marijuana d. Cocaine e. Phencyclidine",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-607",
+        "query": "A group of researchers from Italy conducted a case register study that included all patients from a city who had an International Classification of Diseases diagnosis and contacts with specialist psychiatric services over a 10-year period. Mortality was studied in relation to age, sex, diagnosis, care pattern, and registration interval. Standardized mortality ratios (SMRs) were calculated, with the overall SMR being 1.63 (lower when compared with studies that looked at hospitalized individuals). Men and those in younger age groups showed higher mortality rates (SMRs of 2.24 and 8.82, respectively), and mortality was also higher in the first year following registration (SMR = 2.32). Higher mortality was also found in patients with a diagnosis of alcohol and drug dependence (SMR = 3.87). The authors concluded that the overall mortality of psychiatric patients managed in a community-based setting was higher than expected; however, it was still lower than the mortality described in other psychiatric settings. The primary measure used in this study can be defined as which of the following? <choices>  a. The total number of deaths divided by the mid-year population b. The number of deaths in a specific age group divided by a mid-year population in that age group c. The total number of expected deaths divided by a standard population d. The observed number of deaths divided by the expected number of deaths e. The number of deaths from a certain disease in 1 year divided by the total number of deaths in 1 year",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-608",
+        "query": "A 10-year-old boy is brought to the emergency room by his grandparents. He is in a wheelchair with soft restraints because he has been violent and had been trying to hurt himself that day. The child’s parents died in a car accident 1 month ago. His grandparents also brought the medications he stopped taking after his parents’ death, including multivitamins, allopurinol, and diazepam. They say that their grandson has been using these medications for many years; however, they are unable to provide any medical history and claim that their grandson has been behaving strangely, exhibiting facial grimacing, irregular involuntary contractions, and writhing movements for the past few days. They also note that he has had no teeth since the time they first met him at the age of 2. An intramuscular medication is administered to calm the boy down prior to drawing blood from him for laboratory tests. Which of the following biochemical pathway abnormalities is the most likely cause of this patient’s condition? <choices>  a. Hypoxanthine-guanine phosphoribosyl transferase of the pyrimidine metabolism pathway b. Aminolevulinic acid synthetase of the heme metabolism pathway c. Adenosine deaminase of the purine metabolism pathway d. Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway e. Thymidylate synthetase of the pyrimidine metabolism pathway",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-615",
+        "query": "A 31-year-old man, who was hospitalized for substance-induced psychosis two days prior, has had episodic neck stiffness and pain for the past 8 hours. These episodes last for approximately 25 minutes and are accompanied by his neck rotating to the right. During the last episode, he was able to relieve the stiffness by lightly touching his jaw. He has received six doses of haloperidol for auditory hallucinations since his admission. He appears anxious. His temperature is 37.3°C (99.1°F), pulse is 108/min, and blood pressure is 128/86 mm Hg. Examination shows a flexed neck rotated to the right. The neck is rigid with limited range of motion. Which of the following is the most appropriate therapy for this patient's symptoms? <choices>  a. Benztropine b. Physical therapy c. Dantrolene d. Baclofen e. Propranolol",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-618",
+        "query": "A 48-year-old man is brought to the emergency department by his son with a fever over the past day. The patient’s son adds that his father has been having some behavioral problems, as well, and that he was complaining about bugs crawling over his skin this morning even though there were no insects. Past medical history is unremarkable. No current medications. The patient was an alcoholic for several years but abruptly quit drinking 5 days ago. The patient’s temperature is 40.0°C (104.0°F), pulse is 130/min, blood pressure is 146/88 mm Hg, and respiratory rate is 24/min. On physical examination, he is confused, restless, agitated, and lacks orientation to time, place or person. Which of the following the most appropriate initial course of treatment of this patient? <choices>  a. Chlorpromazine b. Clonidine c. Diazepam d. Haloperidol e. Phenytoin",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-624",
+        "query": "A 41-year-old man is brought to the emergency department after a suicide attempt. His wife found him on the bathroom floor with an empty bottle of medication next to him. He has a history of major depressive disorder. His only medication is nortriptyline. His pulse is 127/min and blood pressure is 90/61 mm Hg. Examination shows dilated pupils and dry skin. The abdomen is distended and there is dullness on percussion in the suprapubic region. An ECG shows tachycardia and a QRS complex width of 130 ms. In addition to intravenous fluid resuscitation, which of the following is the most appropriate pharmacotherapy? <choices>  a. Atropine b. Naloxone c. Cyproheptadine d. Ammonium chloride e. Sodium bicarbonate",
+        "response": "e",
+        "label": "e"
+    },
+    {
+        "index": "MedQA-637",
+        "query": "A 12-year-old girl is brought to your psychiatry office by her parents, who are concerned that she has not made any friends since starting middle school last year. The girl tells you that she gets nervous around other children, as she cannot tell what they are feeling, when they are joking, or what she has in common with them. Her teachers describe her as “easily distracted” and “easily upset by change.” When asked about her hobbies and interests, she states that “marine biology” is her only interest and gives you a 15-minute unsolicited explanation of how to identify different penguin species. Mental status exam is notable for intense eye contact, flat affect, and concrete thought process. Which of the following is true regarding this child’s disorder? <choices>  a. Boys are more commonly affected than girls b. Impaired attention is a key feature of the disorder c. Intellectual disability is a key feature of the disorder d. It is usually associated with a family history of schizophrenia e. Typical age of onset is 3-5 years of age",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-643",
+        "query": "A 74-year-old woman is brought to her primary care doctor by her adult son. The son says she has been very difficult at home and is \"losing it\". He seems very frustrated about her diminishing ability to take care of herself the way she used to and no longer thinks he can trust her watching his children. At her last visit you noted mild cognitive impairment. Today, she appears withdrawn and hesitates to make eye-contact with you. She lets her son do most of the talking. Which of the following is the most appropriate next step? <choices>  a. Discuss with the son the challenges of having a parent with dementia b. Complete a mini-mental exam c. Assess the patient's risk for depression d. Order a head CT e. Ask the son to step out so you can speak with the patient alone",
+        "response": "e",
+        "label": "e"
+    },
+    {
+        "index": "MedQA-660",
+        "query": "A 35-year-old man presents with a 7 month history of insomnia. The patient admitted to having trouble sleeping from a young age but became more aware of how much this is affecting his health after attending a sleep conference earlier this year. He is worried that his health has suffered because of this, and he is also concerned that he will not be able to pay his bills if he were to get sick. He has no past medical or psychiatric condition and is not known to use any recreational drugs. The patient arrived for his appointment an hour early because he was afraid he might miss it. The patient is afebrile and his vital signs are within normal limits. Physical examination reveals an irritable middle age man who is tense and somewhat inattentive during the interview. Which of the following is the most likely diagnosis in this patient?\n  <choices>  a. Generalized anxiety disorder b. Adjustment disorder c. Social anxiety  d. Agoraphobia e. Normal worry",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-698",
+        "query": "A 34-year-old man comes to the physician with a 2-month history of difficulty concentrating at work. He is worried he may lose his job due to poor performance. He feels constantly tired but attributes his fatigue to waking up early most mornings and being unable to fall back asleep. His wife has noticed that he has been speaking more slowly than usual and his appetite has decreased. He used to enjoy dance classes with her but has not been as interested in this recently. He is a veteran who returned from a deployment to Afghanistan 2 years ago. Which of the following is the most likely diagnosis? <choices>  a. Major depressive disorder b. Persistent depressive disorder c. Adjustment disorder d. Acute stress disorder e. Post traumatic stress disorder",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-706",
+        "query": "A 24-year-old woman presents to the emergency department after an episode of altered mental status. She was at a party when she suddenly fell to the floor. Her friends state that she was not responsive and was acting oddly. After the episode, the patient seemed confused and had no memory of the event. The patient has a past medical history of substance abuse, depression, and anxiety. Her temperature is 98.6°F (37.0°C), blood pressure is 117/69 mmHg, pulse is 80/min, respirations are 12/min, and oxygen saturation is 99% on room air. Physical exam reveals a girl who seems confused and responds to questions slowly. Her gait is stable, and she demonstrates 5/5 strength in her upper and lower extremities. Laboratory values and a urine dipstick test are performed as seen below:\n\nToxicology:\nBenzodiazepines: Positive\nMarijuana: Positive\nCocaine: Negative\nPhencyclidine: Negative\n\nUrine Dipstick:\nAppearance: Dark\nRed blood cells: Positive\nGlucose: Negative\n\nWhich of the following is the best next step in management? <choices>  a. Diazepam b. Electroencelphalography c. IV fluids and mannitol d. Phenytoin e. Supportive therapy and observation",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-715",
+        "query": "A mother brings her 6-year-old daughter to the pediatrician to discuss her child's sleeping troubles. Three times now in the last month the child has begun screaming and crying in the middle of the night. When the parents rush to the child's room, they find her crying inconsolably. They try to ask her what is wrong, but she does not respond and persists crying for approximately 20 minutes, after which she goes back to sleeping comfortably. Upon awaking the following morning, she has no recollection of the night's events. Which of the following is true about these episodes? <choices>  a. They will be persistent into adulthood b. They occur only during non-REM sleep c. They can occur any time during the sleep cycle d. They are associated with child abuse e. They are associated with later development of a mood disorder",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-736",
+        "query": "A 68-year-old woman is referred to the outpatient psychiatry clinic from the medical clinic. The patient is being treated for urge incontinence but is being referred for psychiatric evaluation to help with some of her old avoidance behavior. For the 3 months that she had her urinary symptoms, she avoided places like long lines and long train rides. Even after being successfully treated for her urinary condition, she continues to show restricted social interaction. Which of the following is a true statement regarding the patient's condition? <choices>  a. She fears not being able to escape similar situations. b. Her symptoms need to last for at least 1 month. c. She requires only one fear or avoidance situation to meet criteria for this condition. d. Patients may have accompanying social phobia. e. The condition always occurs in the context of panic disorder.",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-744",
+        "query": "An 18-year-old college student presents to the student health clinic complaining of excessive sleepiness. He first noticed the daytime sleepiness about a year ago but reports that it significantly worsened once he started college. He reports that he goes to bed around 9 p.m. and wakes up for class at 8 a.m.. He naps between classes for a total of 4 hours during the day. Despite this, he wakes up feeling exhausted. He easily falls asleep during class and while studying. This has started to affect both his academics and his social life. On weekends, he can sleep up to 20 hours a day. He reports 2 recent episodes of sudden generalized body weakness along with ptosis and difficulty speaking that occurred after he became angry. Each episode lasted about 10 seconds, but he says he felt back to normal within 15 minutes without any persistent deficits. His Epworth Sleepiness Scale score is 17. Which of the following is the best next step in therapy? <choices>  a. Clomipramine b. Dextroamphetamine c. Methylpenidate d. Modafinil e. Sleep deprivation",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-746",
+        "query": "A 34-year-old woman presents to the emergency room with a fever. She developed worsening malaise and diaphoresis over the past 48 hours. Her maximum temperature was 102°F (38.9°C) taken the night before presentation. Her past medical history is notable for major depressive disorder, obesity, fibromyalgia, and severe tension headaches. She previously took paroxetine for a 2-month trial but switched to citalopram 6 months ago as she did not feel like paroxetine was adequately helping her symptoms. Her mood has been stable on her current dose of citalopram. She takes ibuprofen for her headaches but previously borrowed a friend’s headache medication when her headaches became very severe. Of note, she has been trying to lose weight and recently started taking an amino acid supplement at the suggestion of her nephew who is a nutritionist. She is also trying out a new low-carbohydrate diet. She works as a nurse at a local primary care clinic. Her temperature is 101.5°F (38.6°C), blood pressure is 144/80 mmHg, pulse is 108/min, and respirations are 22/min. She is diaphoretic and shivering. Patellar and brachioradialis reflexes are 3+ bilaterally. Tone is increased in her bilateral upper and lower extremities. Rapid dorsiflexion of her right ankle elicits 3 beats of clonus. Pupils are equally round and reactive to light. A basic metabolic panel is within normal limits. Which of the following is the most likely inciting factor for this patient’s condition? <choices>  a. Decreased carbohydrate intake b. Increased tryptophan intake c. Medication change d. Surreptitious diuretic abuse e. Surreptitious opiate abuse",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-760",
+        "query": "A 77-year-old woman is brought to the emergency department by her husband because of increasing confusion and unusual behavior for 2 days. She has been mumbling to herself and wandering around the neighborhood. These symptoms are worse in the evenings and she has hardly slept at night. She has not been eating or drinking much for the past 6 days. She has hypertension treated with hydrochlorothiazide. She was diagnosed with breast cancer 12 years ago and was treated with left-sided mastectomy. The patient is oriented to person but not to place or time. Her temperature is 37.1°C (98.8°F), pulse is 78/min, respirations are 18/min, and blood pressure is 122/80 mm Hg. Physical examination shows a supple neck. Neurologic examination shows psychomotor agitation. Attention and concentration are impaired; she makes multiple errors while performing the serial sevens test. Her speech is disorganized. Her fingerstick blood glucose concentration is 122 mg/dL. Which of the following is the most appropriate next step in management? <choices>  a. Perform lumbar puncture b. Check serum TSH level c. Check serum electrolytes d. Perform CT scan of the head e. Perform chest x-ray",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-763",
+        "query": "A 42-year-old chronic alcoholic man was admitted to the hospital for inappropriate behavior and disturbed memory. He presents with severe retrograde memory loss, confusion, and confabulation. Neurologic examination showed horizontal nystagmus. He also has bilateral pretibial pitting edema and perioral erythema. CT studies of the brain were normal. The duty physician suspects the patient may be vitamin deficient. Which of the following reactions does the deficient vitamin mediate? <choices>  a. Alpha-Ketoglutarate + NAD+ + CoA <=> Succinyl-CoA + CO2 + NADH b. Acetyl-CoA + Oxaloacetate + H2O <=> Citrate + CoA + H+ c. Succinate + FAD (enzyme bound) <=> Fumarate + FADH2 d. Isocitrate + NAD+ <=> Alpha-Ketoglutarate + CO2 + NADH e. Succinyl-CoA + Pi + GDP <=> Succinate + GTP + CoA",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-777",
+        "query": "A 38-year-old woman is being evaluated by her primary care physician for chronic, widespread pain that started around 5 months ago. This pain has been accompanied by sleeping issues. Her friend recommended that she try yoga to relieve the pain, but she says this has not helped her at all. Se says the symptoms have begun to impact her daily functions and keep her from doing things she used to enjoy. Past medical history includes generalized anxiety disorder, for which she currently takes no medication. The patient had been previously medicated with paroxetine for 5 years. On physical examination, several areas of point tenderness are found on the occipital region, elbows, and medial surface of both knees. Laboratory work up is unremarkable. What is the best treatment option for the most likely diagnosis in this patient? <choices>  a. Low-dose prednisolone b. High-dose prednisolone c. Paroxetine d. Allopurinol e. Gabapentin",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-792",
+        "query": "A 46-year-old woman presents with difficulty initiating sleep, as well as frequent nighttime awakenings. She reports making multiple mistakes at her office job, has an inability to concentrate, and feels sleepy throughout the day. She is worried that her sleeping troubles will cause her to get fired. Which of the following would best treat this patient’s insomnia pharmacologically? <choices>  a. Citalopram b. Chlordiazepoxide c. Triazolam d. Diazepam e. Modafinil",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-793",
+        "query": "A 5-year-old girl is brought to her pediatrician for evaluation of difficulties noted at school. Her kindergarten teacher voiced her concern that the child ‘spaces out’ often and thinks she may have ADHD. The parents deny any history of head trauma or infection. Her blood pressure is 106/74 mm Hg, the heart rate is 69/min, and the respiratory rate is 14/min. Physical exam demonstrates a happy child who has reached developmental milestones. Laboratory results are within normal limits. EEG demonstrates a 3-Hz spike and wave pattern (see image). The decision is made to start the child on medical therapy. What should be advised to the parents as a potential side effect of the first-line medication? <choices>  a. Nystagmus b. GI upset c. Facial rash and blood in the urine d. Profound leukopenia increasing the risk for severe infection e. Weight gain and change in hair color",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-808",
+        "query": "A 71-year-old woman presents to her physician accompanied by her son. She has no complaints, but her son states that the patient has impaired memory and poor orientation in space. She is ambulatory and is capable of self-care, but she tends to forget newly introduced information. Also, she got lost on the way from the home to the local market several times for the past 6 months, and her family is now afraid to let her go anywhere on her own. She does not have any concomitant chronic conditions nor did she have major cardiovascular events or head trauma. It is known that her father had dementia. The vital signs include: blood pressure is 130/80 mm Hg, heart rate is 62/min, respiratory rate is 11/min, and the temperature is 36.5°C (97.7°F). The respiratory, cardiologic, and abdominal examinations are unremarkable. The neurological examination shows equal, round pupils with a normal reaction to light. The eye movements are normal with no nystagmus and normal oculocephalic reflex. There is no facial droop, the facial sensation is preserved, and there is no tongue deviation noted. There is no motor or sensory deficits on the upper and lower extremities. The patient scores 18 on the Montreal Cognitive Assessment. Which of the following medications is indicated in the patient? <choices>  a. Imipramine b. Sertraline c. Lithium d. Donepezil e. Sulpiride",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-811",
+        "query": "A 39-year-old man is brought to the physician by his wife because of personality changes over the past year. He has become increasingly irritable, loud, aggressive, and impulsive. His wife also reports jerky movements of his limbs and trunk for the past few months. His father had dementia in his mid-40s, but the details of his condition are unclear. The patient appears restless. Examination shows irregular movements of the extremities and twitching of the face and tongue. Mental status examination shows impaired memory. This patient's condition is most likely associated with which of the following changes on MRI? <choices>  a. Reduced hippocampal volume b. Multiple cortical and subcortical infarctions c. Degeneration of the frontal and temporal lobes d. Extra-axial tumor with dural attachments e. Atrophy of the striatum",
+        "response": "e",
+        "label": "e"
+    },
+    {
+        "index": "MedQA-821",
+        "query": "A 73-year-old woman is brought to the physician by her daughter for evaluation of impaired memory and word-finding difficulties for 2 years. She was recently asked to step down from her position as volunteer accountant for a local charity organization because she was no longer able to coordinate her tasks. She reports that she has become unable to taste or smell her food. Two years later, the patient dies. At autopsy, examination of the brain shows generalized cortical atrophy. A photomicrograph of a section of the brain is shown. The inclusions indicated by the arrows are predominantly composed of which of the following substances? <choices>  a. Alpha-synuclein b. Viral ribonuclear proteins c. Amyloid-β d. Hyperphosphorylated tau e. Prion protein",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-837",
+        "query": "A 56-year-old woman is brought to the emergency department by her husband because of increasing confusion, generalized fatigue, and irritability for the past week. She has been unable to recall her husband's name or their address. She has had insomnia and daytime sleepiness during this period. Her last bowel movement was 3 days ago. One month ago, she underwent a transjugular intrahepatic portal shunt (TIPS) placement. She has alcoholic liver cirrhosis. Current medications include spironolactone and furosemide. She used to drink over a pint of vodka daily but quit 2 months ago. She is oriented to place and person. Her temperature is 37.3°C (99.1°F), pulse is 88/min, and blood pressure is 102/64 mm Hg. Examination shows scleral icterus and jaundice. There are several telangiectasias over the chest and back. Palmar erythema is present. The abdomen is mildly distended and nontender. Shifting dullness is present. There is a flapping tremor of both hands when outstretched and dorsiflexed. Neurologic examination shows no other focal findings. She completes the number connection test slower than the age-normalized standard. Which of the following is the most appropriate next step in management? <choices>  a. Reversal of TIPS b. Paracentesis c. Administer IV ceftriaxone d. Administer lactulose e. Administer vitamin B1",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-853",
+        "query": "A 22-year-old man is brought to the emergency department by police after he was found undressing himself outside in 110°F weather. The patient refuses to answer any questions as he suspects that his care team is spying on him. The patient recently started college and has presented to the emergency department once before for polysubstance intoxication. The patient attempts to assault a nurse, is restrained, and given diphenhydramine and haloperidol. When the patient is able to be examined, he is somnolent and non-responsive. His temperature is 104°F (40°C), blood pressure is 147/98 mmHg, pulse is 120/min, respirations are 17/min, and oxygen saturation is 98% on room air. He does not comply with any commands, and it is not possible to freely manipulate his extremities due to rigidity. His mucous membranes are dry. Which of the following is the most likely diagnosis? <choices>  a. Catatonic schizophrenia b. Heat stroke c. Malignant hyperthermia d. Neuroleptic malignant syndrome e. Oversedation",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-896",
+        "query": "A 23-year-old man is brought to the emergency department by his mother because of a change in his personality. The mother reports that over the past 7 months her son has become increasingly withdrawn; he has not answered any phone calls or visited his family and friends. He had always been a quiet boy, who needed some time on his own, but he used to meet with friends at least once a week. The patient says that he cannot leave the house because aliens are watching him and “stealing his thoughts”. He does not drink alcohol. He used to smoke marijuana occasionally but quit 1 year ago. His vital signs are within normal limits. Physical examination shows no abnormalities. On mental status examination, it is impossible to follow the patient's sequence of thoughts. He is anxious and has a flat affect. Which of the following is the most likely diagnosis? <choices>  a. Brief psychotic disorder b. Delusional disorder c. Mood disorder with psychotic features d. Schizoid personality disorder e. Schizophrenia",
+        "response": "e",
+        "label": "e"
+    },
+    {
+        "index": "MedQA-898",
+        "query": "A 38-year-old woman presents to the office for a routine examination. She has no complaints and offers very little information voluntarily. She answers each question with soft, short sentences and avoids eye contact. She appears timid, anxious and admits that this is one of the very few times she has left the house in the last several years. Medical history is significant for essential hypertension. She takes hydrochlorothiazide and a daily vitamin. She has worked from home as a web graphic designer for 20 years. Questions about her social life reveal that she is very shy with few friends, and she often makes excuses to avoid parties and social gatherings. Despite this, she expresses a strong desire to be in a relationship. Today, her blood pressure is 125/85 mm Hg, heart rate is 95/min, respiratory rate is 18/min, and temperature is 37.0°C (98.6°F). On physical examination, her heart has a regular rhythm and her lungs are clear to auscultation bilaterally. Which of the following is most consistent with her behavior? <choices>  a. Body dysmorphic disorder b. Schizoid personality disorder c. Avoidant personality disorder d. Antisocial personality disorder e. Agoraphobia",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-911",
+        "query": "A previously healthy 27-year-old woman comes to the physician because of a 2-month history of depressed mood and fatigue. During this time, she has had a 5-kg (11-lb) weight gain. She reports trouble concentrating at her job as a preschool teacher and has missed work several times in recent weeks due to generalized fatigue. She has smoked 2 packs of cigarettes daily for 10 years and is actively trying to quit smoking. A drug is prescribed that will treat the patient's mood disturbance and support smoking cessation. This patient should be counseled about which of the following possible side effects of this drug? <choices>  a. Decreased libido b. Hypotension c. Urinary retention d. Tachycardia e. QTc prolongation",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-951",
+        "query": "A 22-year-old woman comes to the physician for a routine health examination. She feels well but asks for advice about smoking cessation. She has smoked one pack of cigarettes daily for 7 years. She has tried to quit several times without success. During the previous attempts, she has been extremely nervous and also gained weight. She has also tried nicotine lozenges but stopped taking them because of severe headaches and insomnia. She has bulimia nervosa. She takes no medications. She is 168 cm (5 ft 6 in) tall and weighs 68 kg (150 lb); BMI is 24 kg/m2. Physical and neurologic examinations show no other abnormalities. Which of the following is the most appropriate next step in management? <choices>  a. Diazepam b. Nicotine patch c. Varenicline d. Motivational interviewing e. Fluoxetine",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-961",
+        "query": "A 20-year-old woman comes to the clinic for her first follow-up visit after being diagnosed with bipolar I disorder 1-month ago. At that time, she was acutely severely manic and was brought to the emergency department by her concerned boyfriend. She was started on lithium, and after subsequent improvement, she was discharged. A week after discharge, the patient forgot to take her medication for a few days and quickly began to manifest manic symptoms again which required brought her to the emergency department again. Since then, she has been compliant with her medications and currently has no significant complaints. Which of the following recommendations would be most helpful in minimizing the risk to the fetus in this patient? <choices>  a. Adjust dosage of medication throughout the pregnancy b. Supplement all patients with 5mg of daily folic acid c. Low-dose polytherapy is preferred over monotherapy d. Discontinue the medication when conception is confirmed e. Switch to valproate as it has safest pregnancy profile",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-970",
+        "query": "A 67-year-old man presents with feelings of nervousness and anxiety. He mentions that lately, he has been feeling increasingly restless and is unable to control feelings of nervousness pertaining to all his daily tasks. He noticed that these feelings were more prominent in the last 2 months but have been present on and off for the last year. On many occasions, his mind will be racing with thoughts that keep him up at night. During these moments, he finds his heart racing and feels light-headed and dizzy to the point of blacking out. He has also been experiencing back and neck pain with increased muscle tension in these areas. The patient reports no smoking or alcohol use but mentions that he had tried cocaine and heroin in his 20s and 30s. Which of the following would be the best course of treatment for this patient’s symptoms? <choices>  a. Diazepam b. Zolpidem c. Ramelteon d. Buspirone e. Alprazolam",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-975",
+        "query": "A 28-year-old man reports to his physician that he is having second thoughts about his long-term compatibility with his wife ever since they relocated to a new city. He admits that he has noticed himself flirting with some of the female co-workers at his new workplace. When he goes on a dinner date with his wife after work one evening, he accuses her of giving their waiter flirtatious looks and asks her whether she has been cheating on him or trying to spend time with other men. The man’s actions are most consistent with which of the following psychological defense mechanisms? <choices>  a. Displacement b. Dissociation c. Projection d. Reaction formation e. Repression",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-992",
+        "query": "A 55-year-old male with a history of stage I colon cancer status-post left hemicolectomy presents to your office for follow-up. You intend to discuss the results from his recent surveillance colonoscopy, which showed no remaining cancer, no polyps, and a well-healed anastmosis. During your meeting, you note that the patient is exhibiting the defense mechanism of suppression. Which of the following statements from the patient is consistent with your impression? <choices>  a. \"Last week I volunteered for the local Cancer Society. Helping other cancer patients just makes me feel better.\" b. \"Oh, doctor, I'm just so grateful to be seeing you. I just know you've cured my cancer. I probably don't even need to check anymore.\" c. \"I'm sorry I was late today. I also didn't get any of the labs you asked for.\" d. \"Ever since I had the colonoscopy, I've been having headaches and backaches and just pain all over! I'm sure it's from the cancer.\" e. \"I really haven't thought about the colonoscopy until today. Worrying before getting the results wasn't going to help anything.\"",
+        "response": "e",
+        "label": "e"
+    },
+    {
+        "index": "MedQA-1000",
+        "query": "A 65-year-old man presents with a 6-month history of repeated falls, postural dizziness, progressive fatigue, generalized weakness and a 13.6 kg (30 lb) weight loss. He is a vegetarian. The patient’s family says that he had been high functioning but has had significant behavioral changes over the past year. The patient denies any smoking history, alcohol consumption, or illicit drug use. No significant family history. His vital signs include: blood pressure 90/50 mm Hg without postural changes, pulse 92/min, respiratory rate 16/min, temperature 37.0℃ (98.6℉). Physical examination reveals a poorly groomed, disheveled, thin man. He is irritable, paranoid, and delusional but denies any hallucinations. An unstable, wide-based ataxic gait is noted. Laboratory results are significant for the following:\nHb 6.1 g/dL\nMCV 109 fL\nPlatelets 90,0000/mm3\nTotal count 3,000/mm3\nReticulocyte count 0.8%\nA peripheral blood smear demonstrates hypersegmented neutrophils. Anti-intrinsic factor antibodies are negative. Which of the following is the most likely cause of this patient’s condition?\n  <choices>  a. Hypothyroidism b. Folate deficiency c. Vitamin B12 deficiency d. Parvovirus infection e. Pernicious anemia",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-1018",
+        "query": "A 31-year-old man with a history of schizophrenia is brought to the emergency department by police after being found agitated and attempting to steal from a grocery store. His past medical history is only notable for a recent office note from his primary care doctor for treatment of seasonal allergies. His temperature is 101°F (38.3°C), blood pressure is 173/97 mmHg, pulse is 105/min, respirations are 16/min, and oxygen saturation is 98% on room air. Physical exam is notable for a man who is very irritable and restless. He is not cooperative with exam or history and becomes combative requiring intramuscular medications and security restraining him. After this event, the rest of his exam is notable for 7 mm pupils which are equal and reactive to light, spontaneous movement of all limbs, normal sensation, and warm and sweaty skin. The patient is answering questions and states he wants to kill himself. Which of the following substances was most likely used by this patient? <choices>  a. Alcohol b. Cocaine c. Diphenhydramine d. Haloperidol e. Marijuana",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-1026",
+        "query": "A 45-year-old man presents to his primary care provider after feeling sad and depressed for the past several months. His wife divorced him about 6 months ago and took the kids and moved out of state. Since then he has had difficulty waking up in the morning and getting to work on time. He takes some comfort in food and has gained about 9.1 kg (20 lb). He eats out several times a week and sometimes consumes 2 whole meals in one sitting. Other than this new obsession with eating large quantities of food and excess sleeping he no longer enjoys doing things he liked doing in the past. Besides eating and sleeping he is always excited to see his children and looks forward to their visits. He says it's the one thing keeping him going. Additionally, he does not feel like he has the same drive or focuses at work. He reports that he has no interest in hurting himself or others. His blood pressure is 119/81 mm Hg, pulse rate is 85/min, respiratory rate is 12/min, and the temperature is 36.8°C (98.2°F). His physical exam is normal. What other symptom is most likely present in this patient? <choices>  a. Leaden paralysis b. Depressive symptoms that are worse in the morning c. Psychotic features d. Stereotypies e. Mania",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-1037",
+        "query": "A 25-year-old girl is brought to the emergency room after a suicide attempt. Her mother states that she found a large empty pill bottle next to her. The patient is conscious and tearful. She is currently complaining of severe abdominal pain but refuses to give any other history. She has a blood pressure of 135/86, respiratory rate of 18/min, and heart rate of 86/min. On examination, her abdomen is exquisitely tender with evidence of crepitus in the epigastric region. Abdominal CT reveals a gastric perforation. Which of the following is the most likely cause? <choices>  a. Decreased production of PGE2 b. Buildup of a toxic metabolite due to kidney disease c. Increased stimulation of the vagus nerve d. Direct irritation of the stomach lining causing inflammation e. Hypovolemia",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-1038",
+        "query": "A 32-year-old male presents to the ED with acute-onset chest pain. His blood pressure is 157/90 mmHg and his his pulse is 116/min. He appears anxious and agitated and a careful exam reveals dilated pupils and a perforated nasal septum. An EKG reveals ST segment elevation so he is urgently taken for cardiac intervention. Upon review, this patient reveals that he has not had care from a physician since he graduated from college. In the interim he has been largely unemployed and admits that he has recently been homeless. When asked directly, the patient admits to alcohol and marijuana use but denies illicit drug use. Which of the following best describes the mechanism of action of the agent most likely responsible for this patient's presentation? <choices>  a. Blocking reuptake of dopamine and norepinephrine b. Inhibiting breakdown of biogenic amines c. Antagonizing the NMDA receptor d. Activating the acetylcholine receptor e. Inhibiting the GABA receptor",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-1039",
+        "query": "A 38-year-old woman comes to the physician because of difficulty falling asleep for the past 2 months. She wakes up frequently during the night and gets up earlier than desired. She experiences discomfort in her legs when lying down at night and feels the urge to move her legs. The discomfort resolves when she gets up and walks around or moves her legs. She has tried an over-the-counter sleep aid that contains diphenhydramine, which worsened her symptoms. She exercises regularly and eats a well-balanced diet. She admits that she has been under a lot of stress lately. Her brother has similar symptoms. The patient appears anxious. Physical examination shows no abnormalities. A complete blood count and iron studies are within the reference range. Which of the following is the most appropriate pharmacotherapy for this patient's symptoms? <choices>  a. Amitryptiline b. Pramipexole c. Codeine d. Propranolol e. Escitalopram",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-1056",
+        "query": "A 29-year-old man diagnosed with schizophrenia 4 years ago presents for follow-up to discuss his medication. The patient was diagnosed with schizophrenia 4 years ago and has since tried several antipsychotic medications, none of which have been able to treat his negative symptoms. He has changed to clozapine 2 weeks ago and says that he does feel better. His physical exam is unremarkable, and he is responding appropriately to questioning. If this patient’s current medication is to be continued, which of the following laboratory tests should be ordered at this time?\n  <choices>  a. Slit-lamp examination b. Electrocardiogram c. Prolactin level d. Complete blood count e. Thyroid-stimulating hormone level",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-1072",
+        "query": "A 27-year-old male presents to the psychiatrist requesting help with his compulsions as they are interfering with his life. He explains that he has this fear that something terrible will happen to his house if he does not check every appliance, outlet, window and door lock, faucet, and light fixture before he leaves. He states that he must check everything 7 times in a specific order and if he goes out of order he must start from the beginning and perform it all over. He has recently been fired from his job because he is always late and lost his fiancee as she could not deal with his habits anymore. The physician explained that cognitive-behavioral therapy may be of assistance and also prescribed clomipramine. Which of the following is the mechanism of reaction of clomipramine? <choices>  a. Decreases the degradation of norepinephrine and serotonin b. Increases the release of norepinephrine and serotonin by alpha 2 receptor antagonism c. Blocks only norepinephrine reuptake d. Blocks reuptake of norepinephrine and serotonin e. Increases presynaptic release of norepinephrine and dopamine from vesicles",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-1074",
+        "query": "A 24-year-old man with chronic back pain comes to the physician to establish care after moving to Florida. He complains of anxiety, nausea, abdominal cramping, vomiting, and diarrhea for three days. He denies smoking, drinking alcohol, and using illicit drugs. He appears restless. His temperature is 37°C (98.6°F), pulse is 110/min, and blood pressure is 150/86 mm Hg. Physical examination shows dilated pupils, diaphoresis, and piloerection. His abdominal exam shows diffuse mild tenderness. There is no rebound tenderness or guarding. His hemoglobin concentration is 14.5 g/dL, leukocyte count is 8,000/mm, and platelet count is 250,000/mm3; serum studies and urinalysis show no abnormalities. Which of the following is the most appropriate pharmacotherapy? <choices>  a. Lorazepam b. Naltrexone c. Methadone d. Morphine e. Naloxone\n\"",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-1090",
+        "query": "A 15-year-old boy is brought to the physician by his mother. His mother reports multiple instances over the past month when she walked into his room while he was masturbating. She is worried he may be going through some sort of “problem.” He is currently in 9th grade; his mother says that he is the captain of his high school wrestling team and does reasonably well in school. On examination, he seems embarrassed and avoids making eye contact. Physical examination shows no abnormalities. Which of the following is the most appropriate next step in management? <choices>  a. Advise the patient to stop masturbating b. Measure serum testosterone level c. Refer the patient for behavioral therapy d. Reassure the mother e. Prescribe sertraline",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-1092",
+        "query": "A 69-year-old man presents to his primary care physician for trouble sleeping. The patient states that he recently retired from working the day shift at a cemetery. When the patient retired, his goal was to finally be able to go out with his wife; however, he finds that he is unable to stay awake past 6 pm in the evening. His inability to stay awake has been straining his marriage as his wife is disappointed that they cannot do any activities in the evening together. The patient has tried drinking caffeine but finds that it does not help. The patient’s wife claims that the patient seems to sleep peacefully, and the patient states he feels rested when he awakes. The patient has a past medical history of irritable bowel syndrome which is managed with fiber supplements. The patient’s neurological exam is within normal limits. Which of the following is the most likely diagnosis? <choices>  a. Obstructive sleep apnea b. Delayed sleep phase disorder c. Advanced sleep phase disorder d. Chronic insomnia e. Normal aging",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-1101",
+        "query": "A 58-year-old man with hypertension and dyslipidemia comes to the physician for a routine health maintenance examination. He says he feels well. He is 180 cm (5 ft 11 in) tall and weighs 103 kg (227 lb); BMI is 32 kg/m2. His BMI last year was 27 kg/m2. When asked about his diet, he says, “Being overweight runs in my family. Rather than fight it, I just try to enjoy myself and eat what I want.” Which of the following defense mechanisms best describes the patient's response to the physician? <choices>  a. Rationalization b. Primitive idealization c. Fantasy d. Distortion e. Intellectualization",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-1106",
+        "query": "A 35-year-old woman presents to a psychiatrist for an initial consultation. She reports that for the past 3 years, she has experienced several periods of depressed mood. The episodes do not coincide with any specific life events and seem to resolve after 4-6 weeks. During these episodes, she experiences a depressed mood, sleep disturbances, and a poor appetite, but she at times is able to enjoy spending time with her children and husband but other times she is distressed and cannot enjoy time with them. Upon further questioning, she also reports experiencing occasional episodes of elevated mood over the past ten years. During these episodes, she is very productive at her work as a lawyer and requires less sleep than usual. Her past medical history is notable for obesity, type I diabetes mellitus, and rheumatoid arthritis. She is on insulin and takes methotrexate. She smokes marijuana occasionally. Her temperature is 99.2°F (37.3°C), blood pressure is 124/80 mmHg, pulse is 78/min, and respirations are 17/min. On exam, she is quiet with a flattened affect, but is cooperative and answers questions thoroughly. Which of the following is the most likely diagnosis in this patient? <choices>  a. Bipolar I disorder b. Bipolar II disorder c. Cyclothymic disorder d. Persistent depressive disorder e. Schizoaffective disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-1112",
+        "query": "An 18-year-old patient is visiting the pediatrician with her mother for her annual exam before college starts. Her height and weight are appropriate for her age, and she is up to date on all her vaccinations and has no medical complaints. She is doing well in school and has a part-time job stocking shelves at a clothing store. She was offered a higher-paying job as a cashier at the store, but she declined. She is very shy and withdrawn with the physician. Afterwards, her mother asks to speak to the physician alone and expresses concern that her daughter is very socially isolated and feels lonely. She is also worried that her daughter is extremely sensitive to criticism, even from family. The daughter is interested in art and music, but hasn’t participated in any extracurriculars because she says that she is untalented and thinks nobody wants to hang out with her. When her mother has encouraged her to invite friends over, the daughter bursts into tears and says, “Nobody wants to be friends with me, I am too lame and ugly and I just know I’ll end up getting rejected.” Which of the following is the most likely explanation for the daughter’s behavior? <choices>  a. Schizotypal personality disorder b. Generalized anxiety disorder c. Avoidant personality disorder d. Paranoid personality disorder e. Dependent personality disorder",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-1139",
+        "query": "A 54-year-old man is brought to the emergency department after he was found outside in the middle of a blizzard. On presentation, he is conscious but does not know where he is nor how he got there. His wife is contacted and says that he has been getting increasingly confused over the past 6 weeks. This progressed from misplacing objects to getting lost in places that he knew how to navigate previously. Most worryingly, he has recently started forgetting the names of their children. In addition to these memory changes, she says that he now has rapid jerky movements of his extremities as well as coordination and balance problems. Finally, he has become extremely paranoid about government surveillance and has had hallucinations about secret agents in their house. His previous medical history is significant for a previous car crash in which the patient required internal fixation of a femur fracture and a corneal transplant for corneal degeneration. Otherwise he had no neurologic deficits prior to 6 weeks ago. Physical exam reveals myoclonus and ataxia. Which of the following is true of the most likely cause of this patient's symptoms? <choices>  a. Can be transmitted on medical equipment even after autoclaving instruments b. Contains genetic material but is unable to survive independent from a host c. Has a cell wall containing peptidoglycan d. Associated with longstanding hypertension e. Leads to intracellular aggregations of hyperphosphorylated tau protein",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-1142",
+        "query": "A 25-year-old female is brought to the emergency department by her family. They found her somnolent next to her computer and scattered pill bottles over two hours ago. The family cannot recall the types of pill bottles that they found and did not bring them to the ED. The patient's past medical history is notable for anxiety, obesity, hypertension, and polycystic ovarian syndrome. She is currently not on any medications other than an exercise program with which she is non-compliant. A physical exam is performed and is within normal limits. The patient begins communicating with the physician and states that she did take acetaminophen but it was only a few pills. Her temperature is 99.5°F (37.5°C), pulse is 82/min, blood pressure is 125/85 mmHg, respirations are 11/min, and oxygen saturation is 97% on room air. Which of the following is the next best step in management? <choices>  a. N-acetylcysteine b. Blood acetaminophen levels c. Charcoal d. IV fluids e. Syrup of ipecac",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-1158",
+        "query": "A 27-year-old female is brought to the emergency department by police when she attacked her date outside of a pizza restaurant. The patient refused to explain her behavior to the police. She seemed to be responding to internal stimuli when being initially interviewed. The patient has a past medical history of depression, anxiety, and obesity. The patient has a known history of medication non-compliance. Her temperature is 99.5°F (37.5°C), pulse is 112/min, blood pressure is 100/70 mmHg, respirations are 18/min, and oxygen saturation is 98% on room air. On physical exam the patient is poorly kempt and has an odd body odor. Inspection of her oropharynx reveals multiple ulcers. Cardiac exam is unrevealing with the exception of a friction rub. Since the incident, the patient has calmed down and is currently resting. She is no longer responding to internal stimuli and is more cooperative. Lab values are obtained and are below.\n\nSerum:\nNa+: 135 mEq/L\nCl-: 100 mEq/L\nK+: 3.9 mEq/L\nHCO3-: 24 mEq/L\nBUN: 20 mg/dL\nGlucose: 70 mg/dL\nCreatinine: 1.7 mg/dL\nCa2+: 10.0 mg/dL\nMg2+: 1.5 mEq/L\n\nHemoglobin: 10 g/dL\nHematocrit: 35%\nReticulocyte count: 4.9%\nPlatelet count: 275,000/mm^3\nLeukocyte count: 5,500/mm^3\n\nWhich of the following is the next best step in management for this patient's underlying condition? <choices>  a. IM haloperidol b. Haloperidol depot c. Clozapine d. Urine toxicology e. ANA and anti-dsDNA levels",
+        "response": "e",
+        "label": "e"
+    },
+    {
+        "index": "MedQA-1166",
+        "query": "A 15-year-old girl is brought to the physician by her mother because of worsening grades over the past year. Since she started high school one year ago, her academic performance has decreased. She also has had difficulty finding friends at the new school. She is afraid that her classmates will make fun of her and think that she is “stupid.” One month ago, when she had to give a presentation, she could not stop wondering how her classmates were going to react if she said something wrong. During the presentation, her heart started racing and she became flushed. Since this event, she avoids saying anything in class. She spends her breaks in the restroom because she is worried that nobody will talk to her. Physical and neurologic examinations show no abnormalities. On mental status examination, the girl avoids eye contact and appears uncomfortable and anxious. Which of the following is the most appropriate pharmacotherapy for this patient's condition? <choices>  a. Clomipramine b. Phenelzine c. Clonazepam d. Fluoxetine e. Propranolol",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-1171",
+        "query": "A 67-year-old man is brought to the hospital by his relatives. He complains of early satiety, abdominal discomfort after food intake, and abdominal bloating. These symptoms have been present since the patient was 52, but they were milder at that time so he paid little attention to them since. Tingling and decreased sensation in both lower extremities began a few months ago. His relatives also note that he has become excessively somnolent and forgetful. The patient’s medical history is significant for acute hepatitis B 20 years ago. He smokes a pack of cigarettes per day and drinks alcohol occasionally. His weight is 61 kg (134.5 lb), height is 181 cm (5 ft 11 in), and BMI is 18.6 kg/m2. His vital signs include: blood pressure 110/80 mm Hg, heart rate 89/min, respiratory rate 13/min, and temperature 36.1°C (96.9°F). The patient’s skin is pale, thin, dry, and hypoelastic. Lymph nodes and the thyroid gland are not enlarged. Lung and heart examinations are within normal limits for his age. The patient’s tongue is bright red with atrophic papillae. The abdomen is distended and tender to palpation in the epigastric area. Neurological examination shows symmetrical bilateral distal hypoesthesia for all sensations and decreased muscle strength in both upper and lower extremities. On a mini-mental status examination, the patient scores 25. The patient’s blood test results are as follows:\nErythrocytes 2.8 x 109/mm3\nHb 8.6 g/dL\nHt 37%\nMean corpuscular hemoglobin  49.9 pg/cell (3.1 fmol/cell)\nMean corpuscular volume 142 µm3 (142 fL)\nReticulocyte count 0.3%\nTotal leukocyte count 3,070/mm3\nNeutrophils 54%\nLymphocyte 32%\nEosinophil 3%\nMonocyte 11%\nBasophil 0%\nPlatelet count 195,000/mm3\nHbA1C 4.3%\nFasting plasma glucose 4.6 mmol/l (82.9 mg/dL)\nAspartate aminotransferase 22 U/L\nAlanine aminotransferase 19 U/L\nAmylase 32 U/L\nTotal bilirubin 32 µmol/L (1.87 mg/dL)\nConjugated bilirubin 8 µmol/L (0.4677 mg/L)\nWhich of the following options best explains the patient’s neurological and psychiatric symptoms? <choices>  a. Chronic bilirubin toxicity b. Chronic hyperglycemia c. Chronic acetaldehyde influence d. Impaired methylation of myelin phospholipids e. Influence of pseudo-neurotransmitters",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-1189",
+        "query": "A 28-year-old male presents with a recent onset of upsetting dreams, anxiety, and disturbing flashbacks. The patient reports that he returned from active duty in Iraq 3 months ago and was adjusting to life back at home until about 7 weeks ago when he began having intense fear of loud noises and seeing sudden flashbacks to bombing attacks he endured during his time in Iraq. He had to take a leave from his army instructor duties as he was not able to handle the familiar settings of practice shooting ranges and sudden loud explosions during battalion training. After refusing to leave his house, he was finally persuaded by his wife to visit your clinic. What is the most likely diagnosis? <choices>  a. Acute stress disorder b. Performance anxiety c. Schizophrenia d. Posttraumatic stress disorder e. Panic attack",
+        "response": "d",
+        "label": "d"
+    },
+    {
+        "index": "MedQA-1192",
+        "query": "A 19-year-old woman is brought into the emergency department after collapsing during a cheerleading practice session. Her vitals taken by the emergency medical services (EMS) include blood pressure 88/55 mm Hg, pulse 55/min. She was given a liter of isotonic fluid while en route to the hospital. At the emergency department, she is alert and oriented and is noted to be anorexic. The patient fervently denies being underweight claiming that she is ‘a fatty’ and goes on to refuse any further intravenous fluid and later, even the hospital meals. Which of the following is the best option for long-term management of this patient’s condition? <choices>  a. Cognitive-behavioral therapy b. In-patient medical therapy c. In-patient psychiatric therapy d. Antidepressants e. Appetite stimulants",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-1198",
+        "query": "A 27-year-old man with a history of cocaine abuse comes to the physician 2 weeks after undergoing successful arthroscopic repair of a torn medial collateral ligament in his left knee. There were no complications. He was discharged with prescriptions for oxycodone and acetaminophen. He complains of severe pain that prevents him from participating in physical therapy and wakes him from sleep. Physical examination of the left knee shows a healing incision; there is no joint effusion, erythema, or evidence of wound dehiscence, and his gait is normal. When the physician recommends switching to ibuprofen for pain, he becomes visibly angry and demands a refill of oxycodone. Which of the following is the most appropriate response to this patient's request? <choices>  a. Prescribe a long-acting opioid for better pain relief if he is willing to sign a pain contract b. Request further information about which drugs he has taken recently and in the past c. Request consent for urine test to assess current drug use d. Prescribe a short course of oxycodone and schedule a follow-up appointment in one week e. Refer to a substance use counselor for addiction counseling",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-1203",
+        "query": "A 36-year-old man presents to his physician for a regular checkup, and he expresses an intent to quit smoking. He is a financial director with a 15-pack-year history of smoking who tried quitting several times. He tried different nicotine replacement products, none of which helped him. The patient has gastrointestinal reflux disease and takes omeprazole. The medical history is significant for a head trauma after which he had two seizure episodes. He does not have a history of any other disorders. Currently, he is not on any antiepileptic medication. He heard from his friend about an antidepressant that efficiently helps with smoking cessation. He would like to try this medication, and asks his physician for an advice. Which of the following statements regarding the use of the mentioned medication is correct? <choices>  a. Omeprazole interferes with bupropion metabolism and should be taken one hour prior to omeprazole consumption. b. Bupropion is only effective when used together with nicotine replacement products. c. Bupropion lowers the seizure threshold and it should not be taken by patients with a history of seizure disorder. d. The physician may prescribe bupropion for this patient only after a full cardiac workup is performed. e. This patient has no contraindications for bupropion and may safely use it.",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-1204",
+        "query": "A 32-year-old woman, gravida 2, para 0, at 22 weeks' gestation comes to the emergency department for abdominal pain and heavy vaginal bleeding for 2 hours. She has had no prenatal care. Her temperature is 37.2°C (99.0°F), pulse is 102/min, respirations are 16/min, and blood pressure is 138/82 mm Hg. The abdomen is nontender, and regular contractions are felt every 2 minutes. The uterus is consistent in size with a 20-week gestation. There is blood on the vulva, introitus, and medial aspect of the thighs. Ultrasound shows complete detachment of the placenta from the uterus. Fetal heart tones are absent. An emergent cesarean delivery is performed. Following the procedure, the patient becomes tearful and distraught. Which of the following is the most appropriate initial response by the physician? <choices>  a. “I'm sorry for your loss. This must be a difficult situation for you.” b. “Losing a baby is difficult, but I'm sure next time it'll work out.” c. “I'm sorry for your loss. Let's talk about how to move forward from here.” d. “Losing a baby is difficult; but I see this every day, and I know you'll get through it.” e. “I'm sorry for your loss. I can write you a prescription to help with your anxiety and grief.”",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-1209",
+        "query": "A 29-year-old man is brought to the emergency department by a concerned neighbor. The patient appears disheveled, has a flat affect, and appears to be having auditory hallucinations. He is alert and oriented to time, person, and place and has an intact long-term and short-term memory. His neighbor says that he never really knew the patient that well and that he mostly kept to himself. They have been neighbors for the past 3 years at an apartment close to the hospital. What worried the neighbor was a sudden change in the patient's behavior which started last week. He suddenly seemed interested in attending all the local council meetings and social gatherings. He is very talkative at these events and boasts highly of himself and starts suggesting changes that the committee could make with his help. He gets very agitated when they deny accepting his suggestions. Which of the following is a predictor of good prognosis for this patient's condition? <choices>  a. Affective symptoms b. Slow onset c. Being single d. Male sex e. Negative symptoms",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-1260",
+        "query": "A 51-year-old man is brought to the physician by his wife because of a 3-week history of abnormal behavior. His wife reports he has been preoccupied with gambling at the local casino. He becomes restless and irritable when his wife attempts to restrict his gambling. Four months ago, he was diagnosed with Parkinson disease and treatment was initiated. Which of the following best describes the mechanism of action of the drug that was most likely prescribed for this patient? <choices>  a. Peripheral inhibition of DOPA decarboxylase b. Increase in availability of dopamine c. Direct activation of dopamine receptors d. Selective inhibition of monoamine oxidase B e. Inhibition of catechol-O-methyl transferase",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-1263",
+        "query": "A 62-year-old man is brought to the physician by his wife because of difficulties walking for the past year. He has had multiple falls over the past 4 months. Over the past 6 months, he has had progressive urinary urgency and now wears an adult diaper as is not always able to control the urge to void. His appetite has also decreased in this time period. He used to drive, but his wife convinced him to stop after she noticed that he was becoming increasingly inattentive while driving. He has type 2 diabetes mellitus and hypertension. Current medications include ramipril and metformin. His temperature is 37.1C (98.8F), pulse is 90/min and blood pressure is 132/88 mm Hg. Examination shows a broad-based gait with slow and short steps. Neurologic examination shows no focal findings. On mental status examination, he is oriented to person and place but not to time. Attention and concentration are impaired. He recalls only one of three objects after 5 minutes. Which of the following is the most appropriate therapy for this patient's symptoms? <choices>  a. Ventricular shunting b. Acetazolamide therapy c. Temporal lobectomy d. Donepezil therapy e. Sertraline therapy",
+        "response": "a",
+        "label": "a"
+    },
+    {
+        "index": "MedQA-1265",
+        "query": "A 74-year-old woman with a history of hypertension, hyperlipidemia, and type 2 diabetes mellitus is brought to her primary care doctor by her son who is concerned about the patient's ability to manage her activities of daily living. She has been living alone since her husband passed away 2 years ago. She has remained an active member of her retirement community's wine club; however, she stopped attending the meetings 3 weeks ago. She is generally able to her maintain her house, but her house appears more disorganized over the past 2 weeks. She generally drives short distances but avoids driving long distances as she occasionally gets lost when navigating new areas. She feels like her balance is getting worse, but she has not fallen. She has noticed increased urinary urgency over the past 8 months and has had 2 episodes of incontinence. Despite these changes, she reports feeling well. She drinks 4-6 glasses of wine per day. She was started on multiple medications for worsening anxiety by her psychiatrist 1 month ago. Her BMI is 31 kg/m^2. Her temperature is 99.8°F (37.7°C), blood pressure is 115/65 mmHg, pulse is 95/min, and respirations are 17/min. On examination, she is oriented to person and time but not place or situation. She does not seem to recognize her doctor despite knowing him for many years. She becomes somnolent intermittently throughout the interview. She can recall 0/3 words after 5 minutes. She has a low-frequency tremor in her right arm that increases in severity with deliberate movement. Which of the following is the most likely diagnosis in this patient? <choices>  a. Alzheimer dementia b. Delirium c. Lewy body dementia d. Normal pressure hydrocephalus e. Pseudodementia",
+        "response": "b",
+        "label": "b"
+    },
+    {
+        "index": "MedQA-1270",
+        "query": "A 21-year-old college student comes to the physician because of daytime fatigue for 2 months. He has problems getting to sleep at night and frequently falls asleep during class. Recently he has started skipping classes altogether. He goes to bed between 11 p.m. and 1 a.m. but cannot fall asleep for 2–3 hours. When he wakes up at 8:30 a.m., he feels extremely drowsy, and he tries to overcome his fatigue by drinking 2–3 cups of coffee a day. He naps at various times during the afternoon, often for more than an hour. He stopped watching videos on his smartphone at night because of suggestions from his peers. He states that he has tried over-the-counter melatonin pills and exercising at 8 p.m. without success. He has no history of serious illness. He does not smoke. He drinks three to five beers on weekends. Physical examination shows no abnormalities. Which of the following is the most appropriate recommendation for this patient? <choices>  a. Trial of diphenhydramine b. Complete caffeine cessation c. Stop evening exercise d. Alcoholic beverage prior to bedtime e. Scheduled afternoon naps",
+        "response": "c",
+        "label": "c"
+    },
+    {
+        "index": "MedQA-1271",
+        "query": "A 19-year-old man is brought to the physician by his mother because she is worried about his strange behavior. Over the past 3 years, he has been dressing all in black and wears a long black coat, even in the summer. The mother reports that her son has always had difficulties fitting in. He does not have any friends and spends most of his time in his room playing online games. He is anxious at college because he is uncomfortable around other people, and his academic performance is poor. Rather than doing his coursework, he spends most of his time reading up on paranormal phenomena, especially demons. He says that he has never seen any demons, but sometimes there are signs of their presence. For example, a breeze in an enclosed room is likely the “breath of a demon”. Mental status examination shows laborious speech. The patient avoids eye contact. Which of the following is the most likely diagnosis? <choices>  a. Social anxiety disorder b. Avoidant personality disorder c. Schizotypal personality disorder d. Paranoid personality disorder e. Schizophrenia",
+        "response": "c",
+        "label": "c"
+    }
+]
